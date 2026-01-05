@@ -41,14 +41,46 @@ if df is not None:
                  use_container_width=True)
 
     # Arbitrage Section
-    st.header("💰 Arbitrage Alerts")
-    deals = df[(df['avg_perf'] > 0.75) & (df['avg_cost'] < 0.5)]
-    if not deals.empty:
-        for idx, row in deals.iterrows():
-            st.success(f"🔥 **{row['model_id']} ({row['provider']})**: High performance at ultra-low cost (${row['avg_cost']}/M)!")
-    else:
-        st.info("No major arbitrage opportunities detected today.")
+    st.header("💰 Arbitrage War Room")
+    colA, colB = st.columns(2)
+    
+    # Logic to get arbitrage from engine (simulated if no live engine)
+    from src.intelligence_engine import IntelligenceEngine
+    engine = IntelligenceEngine()
+    deals = engine.detect_arbitrage()
+    
+    with colA:
+        st.subheader("💎 Value Kings")
+        st.markdown("*High performance, ultra-low cost.*")
+        if deals['value_kings']:
+            for deal in deals['value_kings']:
+                st.success(f"🔥 **{deal['model_id']}** ({deal['provider']})\n\n"
+                           f"Perf: {deal['avg_perf']:.2f} | Cost: ${deal['avg_cost']:.4f}/M")
+        else:
+            st.info("Searching for top-tier value...")
+
+    with colB:
+        st.subheader("⚡ Speed Demons")
+        st.markdown("*Extreme throughput for scale.*")
+        if deals['speed_demons']:
+            for deal in deals['speed_demons']:
+                st.warning(f"🚀 **{deal['model_id']}** ({deal['provider']})\n\n"
+                           f"Speed: {deal['avg_speed']:.0f} t/s | Cost: ${deal['avg_cost']:.4f}/M")
+        else:
+            st.info("Monitoring network latency...")
+
+    # ROI Calculator
+    st.divider()
+    st.subheader("🧮 Potential Monthly Savings")
+    monthly_tokens = st.slider("Monthly Token Volume (Millions)", 1, 1000, 10)
+    
+    # Compare vs GPT-4o standard ($5/M avg)
+    standard_cost = monthly_tokens * 5.0
+    best_value_cost = monthly_tokens * df['avg_cost'].min()
+    savings = standard_cost - best_value_cost
+    
+    st.metric("Estimated Savings vs. Market Leader", f"${savings:,.2f}", f"{(savings/standard_cost)*100:.1f}% Reduction")
 
 else:
     st.warning("No data found. Please run the pipeline first.")
-    st.image("https://via.placeholder.com/800x400?text=ModelRadar+Awaiting+Data", use_column_width=True)
+    st.image("https://via.placeholder.com/800x400?text=ModelRadar+Scanning+for+Profit...", use_column_width=True)

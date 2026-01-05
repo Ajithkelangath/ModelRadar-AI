@@ -39,10 +39,23 @@ class IntelligenceEngine:
 
     def detect_arbitrage(self):
         """Find models that perform like top-tier but cost significantly less."""
+        if not os.path.exists("data/model_rankings.csv"):
+            self.calculate_rankings()
+            
         df = pd.read_csv("data/model_rankings.csv")
-        # Example logic: Find models with perf > 0.8 but cost < $1.0
-        deals = df[(df['avg_perf'] > 0.75) & (df['avg_cost'] < 1.0)]
-        return deals
+        
+        # 1. High Performance Arbitrage: Perf > 0.8, Cost < $0.50
+        # These are models that can replace GPT-4/Pro for most tasks at 1/10th the cost.
+        high_perf_deals = df[(df['avg_perf'] > 0.8) & (df['avg_cost'] < 0.5)]
+        
+        # 2. Speed Arbitrage: Speed > 100 t/s, Cost < $0.10
+        # These are "Free" level speeds for production workloads.
+        speed_deals = df[(df['avg_speed'] > 100) & (df['avg_cost'] < 0.1)]
+        
+        return {
+            "value_kings": high_perf_deals.to_dict('records'),
+            "speed_demons": speed_deals.to_dict('records')
+        }
 
 if __name__ == "__main__":
     engine = IntelligenceEngine()

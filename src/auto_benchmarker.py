@@ -99,7 +99,12 @@ class AutoBenchmarker:
         ]
         
         results = []
-        sample_models = self.catalog.head(20) # Expand to top 20
+        # Strategic sampling: Top 10 + 10 random + specific known value models
+        top_models = self.catalog.head(10)
+        random_models = self.catalog.sample(min(10, len(self.catalog)))
+        known_value = self.catalog[self.catalog['model_id'].str.contains('flash|mini|70b|llama-3.1', case=False)].head(10)
+        
+        sample_models = pd.concat([top_models, random_models, known_value]).drop_duplicates()
         
         for _, row in sample_models.iterrows():
             model_results = {"model_id": row['model_id'], "provider": row['provider']}
