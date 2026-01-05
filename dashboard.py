@@ -20,6 +20,12 @@ if st.sidebar.button("Run Daily Scan (Manual)"):
 tab1, tab2 = st.tabs(["📊 Market Radar", "🔌 Developer API (DaaS)"])
 
 # Load Data
+def load_data():
+    rankings_path = "data/model_rankings.csv"
+    if os.path.exists(rankings_path):
+        return pd.read_csv(rankings_path)
+    return None
+
 with tab1:
     df = load_data()
     if df is not None:
