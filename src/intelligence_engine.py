@@ -44,13 +44,13 @@ class IntelligenceEngine:
             
         df = pd.read_csv("data/model_rankings.csv")
         
-        # 1. High Performance Arbitrage: Perf > 0.8, Cost < $0.50
-        # These are models that can replace GPT-4/Pro for most tasks at 1/10th the cost.
-        high_perf_deals = df[(df['avg_perf'] > 0.8) & (df['avg_cost'] < 0.5)]
+        # 1. High Performance Arbitrage: Perf > 0.6 (relaxed), Cost < $2.00
+        # These are models that offer good utility for very cheap.
+        high_perf_deals = df[(df['avg_perf'] > 0.6) & (df['avg_cost'] < 2.00)]
         
-        # 2. Speed Arbitrage: Speed > 100 t/s, Cost < $0.10
+        # 2. Speed Arbitrage: Speed > 50 t/s, Cost < $1.00
         # These are "Free" level speeds for production workloads.
-        speed_deals = df[(df['avg_speed'] > 100) & (df['avg_cost'] < 0.1)]
+        speed_deals = df[(df['avg_speed'] > 50) & (df['avg_cost'] < 1.0)]
         
         return {
             "value_kings": high_perf_deals.to_dict('records'),

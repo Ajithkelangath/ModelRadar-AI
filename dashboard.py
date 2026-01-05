@@ -43,8 +43,24 @@ with tab1:
         col3.metric("Cost Champion", cheapest['model_id'], f"${cheapest['avg_cost']:.4f}/M")
 
         # Interactive Table
-        st.dataframe(df[['model_id', 'provider', 'avg_perf', 'avg_cost', 'value_score', 'avg_speed']], 
-                     use_container_width=True)
+        # Add placeholder referral links
+        df['link'] = df['provider'].apply(lambda x: f"https://www.{x.lower().replace(' ', '')}.com/signup?ref=ModelRadar")
+        
+        st.dataframe(
+            df[['model_id', 'provider', 'avg_perf', 'avg_cost', 'value_score', 'link']],
+            column_config={
+                "link": st.column_config.LinkColumn(
+                    "Get Access",
+                    help="Sign up via our partner link (Commission logic)",
+                    display_text="🚀 Sign Up"
+                ),
+                "avg_cost": st.column_config.NumberColumn(
+                    "Cost ($/M)",
+                    format="$%.4f"
+                )
+            },
+            use_container_width=True
+        )
 
         # Arbitrage Section
         st.header("💰 Arbitrage War Room")
