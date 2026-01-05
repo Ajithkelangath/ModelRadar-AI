@@ -11,11 +11,13 @@ st.markdown("Automated benchmarks, pricing tracking, and arbitrage alerts.")
 if st.sidebar.button("Run Daily Scan (Manual)"):
     st.sidebar.info("Triggering LangGraph pipeline...")
     import subprocess
+    import sys
     try:
-        result = subprocess.run(["python", "src/langgraph_orchestrator.py"], capture_output=True, text=True)
+        # Use sys.executable to ensure we use the same environment where requirements are installed
+        result = subprocess.run([sys.executable, "src/langgraph_orchestrator.py"], capture_output=True, text=True)
         st.sidebar.expander("Orchestrator Logs").code(result.stdout + "\n" + result.stderr)
         
-        result2 = subprocess.run(["python", "src/daas_feed.py"], capture_output=True, text=True)
+        result2 = subprocess.run([sys.executable, "src/daas_feed.py"], capture_output=True, text=True)
         st.sidebar.expander("DaaS Logs").code(result2.stdout + "\n" + result2.stderr)
         
         st.sidebar.success("Pipeline complete!")
