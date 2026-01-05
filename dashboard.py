@@ -4,7 +4,7 @@ import os
 
 st.set_page_config(page_title="ModelRadar AI War Room", layout="wide")
 
-st.title("🚀 ModelRadar AI: Live LLM Intelligence")
+st.title("🚀 ModelRadar AI v2.0: Live LLM Intelligence")
 st.markdown("Automated benchmarks, pricing tracking, and arbitrage alerts.")
 
 # Sidebar for controls
