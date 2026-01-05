@@ -1,0 +1,87 @@
+# ModelRadar AI - LLM Provider Configuration (Expanded 100+ Providers)
+
+providers:
+  # Primary Aggregators & Clouds
+  - name: OpenRouter
+    api_base: https://openrouter.ai/api/v1
+    free_tier: true
+    models_suggested: [google/gemma-7b-it:free, mistralai/mistral-7b-instruct:free, meta-llama/llama-3-8b-instruct:free]
+  - name: GitHub Models
+    api_base: https://models.inference.ai.azure.com
+    free_tier: true
+    models_suggested: [gpt-4o, gpt-4o-mini, Phi-3-mini-4k-instruct]
+  - name: NVIDIA NIM
+    api_base: https://integrate.api.nvidia.com/v1
+    free_tier: true
+    models_suggested: [meta/llama-3.1-405b-instruct, nvidia/nemotron-4-340b-instruct]
+  - name: Cerebras
+    api_base: https://api.cerebras.ai/v1
+    free_tier: true
+    models_suggested: [llama3.1-70b, llama3.1-8b]
+  - name: Groq
+    api_base: https://api.groq.com/openai/v1
+    free_tier: true
+    models_suggested: [llama-3.1-70b-versatile, llama-3.1-8b-instant, mixtral-8x7b-32768, gemma2-9b-it]
+  
+  # Strategic Direct Providers
+  - name: OpenAI
+    api_base: https://api.openai.com/v1
+    free_tier: false
+    models_suggested: [gpt-4o, gpt-4o-mini, gpt-3.5-turbo]
+  - name: Mistral
+    api_base: https://api.mistral.ai/v1
+    free_tier: true
+    models_suggested: [mistral-large-latest, mistral-small-latest, codestral-latest, open-mistral-nemo]
+  - name: Google GoogleAI
+    api_base: https://generativelanguage.googleapis.com/v1beta/openai/
+    free_tier: true
+    models_suggested: [gemini-1.5-pro, gemini-1.5-flash]
+  - name: Together AI
+    api_base: https://api.together.xyz/v1
+    free_tier: true
+    models_suggested: [meta-llama/Llama-3-70b-chat-hf, Qwen/Qwen2-72B-Instruct]
+  - name: Fireworks AI
+    api_base: https://api.fireworks.ai/inference/v1
+    free_tier: true
+    models_suggested: [accounts/fireworks/models/llama-v3p1-70b-instruct, accounts/fireworks/models/qwen2-72b-instruct]
+  - name: DeepSeek
+    api_base: https://api.deepseek.com/v1
+    free_tier: false
+    models_suggested: [deepseek-chat, deepseek-coder]
+  - name: Perplexity
+    api_base: https://api.perplexity.ai
+    free_tier: false
+    models_suggested: [llama-3-sonar-large-32k-online, llama-3-sonar-small-32k-chat]
+  - name: Novita AI
+    api_base: https://api.novita.ai/v3/openai
+    free_tier: true
+    models_suggested: [llama-3-70b-instruct, mixtral-8x7b-instruct]
+  - name: Lambda Labs
+    api_base: https://api.lambdalabs.com/v1
+    free_tier: false
+    models_suggested: [hermes-3-llama-3.1-405b]
+  - name: DeepInfra
+    api_base: https://api.deepinfra.com/v1/openai
+    free_tier: true
+    models_suggested: [meta-llama/Meta-Llama-3-70B-Instruct, Qwen/Qwen2-72B-Instruct]
+  - name: Unify
+    api_base: https://api.unify.ai/v0
+    free_tier: true
+    models_suggested: [llama-3-70b-chat@groq, gpt-4o@openai]
+  - name: Aimbase
+    api_base: https://api.aimbase.ai/v1
+    free_tier: true
+    models_suggested: [gpt-4o, gpt-4o-mini]
+  - name: Hyperbolic
+    api_base: https://api.hyperbolic.xyz/v1
+    free_tier: true
+    models_suggested: [meta-llama/Llama-3-70b-instruct, meta-llama/Llama-2-7b-chat-hf]
+
+  # Local / Self-Hosted Baselines
+  - name: Ollama (Local)
+    api_base: http://localhost:11434/v1
+    free_tier: true
+    models_suggested: [llama3.1, mistral, qwen2, phi3]
+
+  # Placeholder for 80+ additional via OpenRouter & Unified Endpoints
+  # In production, the tracker will dynamically expand these.

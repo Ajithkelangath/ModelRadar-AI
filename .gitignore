@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data
+data/*.csv
+data/*.parquet
+!data/test.txt
+
+# Config
+config/secrets.yaml
+
+# IDEs
+.vscode/
+.idea/
