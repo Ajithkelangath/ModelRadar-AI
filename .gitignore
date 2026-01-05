@@ -11,8 +11,9 @@ env.bak/
 venv.bak/
 
 # Data
-data/*.csv
-data/*.parquet
+# We want to track intelligence history in the repo
+!data/*.csv
+!data/*.parquet
 !data/test.txt
 
 # Config

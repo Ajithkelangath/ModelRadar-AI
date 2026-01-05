@@ -20,15 +20,21 @@ class ProviderScout:
             response = requests.get(f"{api_base.rstrip('/')}/models", headers=headers, timeout=10)
             if response.status_code == 200:
                 models_data = response.json()
-                # Unified format for internal database
                 extracted = []
-                for m in models_data.get('data', []):
-                    # Basic extraction, pricing often requires separate scraping or hardcoding
+                
+                # Handle both dict with 'data' key and direct list
+                model_list = []
+                if isinstance(models_data, dict):
+                    model_list = models_data.get('data', [])
+                elif isinstance(models_data, list):
+                    model_list = models_data
+                
+                for m in model_list:
                     extracted.append({
                         "provider": provider['name'],
-                        "model_id": m['id'],
-                        "created": m.get('created'),
-                        "owned_by": m.get('owned_by')
+                        "model_id": m.get('id') if isinstance(m, dict) else m,
+                        "created": m.get('created') if isinstance(m, dict) else None,
+                        "owned_by": m.get('owned_by') if isinstance(m, dict) else None
                     })
                 return extracted
         except Exception as e:
