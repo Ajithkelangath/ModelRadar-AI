@@ -11,10 +11,19 @@ st.markdown("Automated benchmarks, pricing tracking, and arbitrage alerts.")
 st.sidebar.header("Controls")
 if st.sidebar.button("Run Daily Scan (Manual)"):
     st.sidebar.info("Triggering LangGraph pipeline...")
-    import subprocess
-    subprocess.run(["python", "src/langgraph_orchestrator.py"])
     subprocess.run(["python", "src/daas_feed.py"])
     st.sidebar.success("Pipeline complete!")
+    st.cache_data.clear() # Force reload
+
+if st.sidebar.button("⚠️ Force Clean Reset"):
+    if os.path.exists("data/provider_catalog.csv"): os.remove("data/provider_catalog.csv")
+    if os.path.exists("data/model_rankings.csv"): os.remove("data/model_rankings.csv")
+    st.sidebar.warning("Deleted old CSVs. Run Scan now.")
+
+with st.sidebar.expander("🔍 Debug: View Source"):
+    if os.path.exists("src/provider_tracker.py"):
+        with open("src/provider_tracker.py", "r") as f:
+            st.code(f.read(), language="python")
 
 # Main Tabs
 tab1, tab2 = st.tabs(["📊 Market Radar", "🔌 Developer API (DaaS)"])
