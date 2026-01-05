@@ -350,9 +350,20 @@ OpenRouter,gryphe/mythomax-l2-13b,1688256000.0,,1.0,1.0
 OpenRouter,openai/gpt-4-0314,1685232000.0,,1.0,1.0
 OpenRouter,openai/gpt-4,1685232000.0,,1.0,1.0
 OpenRouter,openai/gpt-3.5-turbo,1685232000.0,,1.0,1.0
-GitHub Models,gpt-4o,,,2.5,10.0
-GitHub Models,gpt-4o-mini,,,0.15,0.6
-GitHub Models,Phi-3-mini-4k-instruct,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-ai21/models/AI21-Jamba-Instruct/versions/2,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-cohere/models/Cohere-embed-v3-english/versions/3,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-cohere/models/Cohere-embed-v3-multilingual/versions/3,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-meta/models/Meta-Llama-3-70B-Instruct/versions/6,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-meta/models/Meta-Llama-3-8B-Instruct/versions/6,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-meta/models/Meta-Llama-3.1-405B-Instruct/versions/1,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-meta/models/Meta-Llama-3.1-70B-Instruct/versions/1,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-meta/models/Meta-Llama-3.1-8B-Instruct/versions/1,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-mistral/models/Mistral-large-2407/versions/1,,,1.0,1.0
+GitHub Models,azureml://registries/azureml-mistral/models/Mistral-Nemo/versions/1,,,1.0,1.0
+GitHub Models,azureml://registries/azure-openai/models/gpt-4o/versions/2,,,1.0,1.0
+GitHub Models,azureml://registries/azure-openai/models/gpt-4o-mini/versions/1,,,1.0,1.0
+GitHub Models,azureml://registries/azure-openai/models/text-embedding-3-large/versions/1,,,1.0,1.0
+GitHub Models,azureml://registries/azure-openai/models/text-embedding-3-small/versions/1,,,1.0,1.0
 NVIDIA NIM,01-ai/yi-large,735790403.0,01-ai,1.0,1.0
 NVIDIA NIM,abacusai/dracarys-llama-3.1-70b-instruct,735790403.0,abacusai,1.0,1.0
 NVIDIA NIM,adept/fuyu-8b,735790403.0,adept,1.0,1.0
@@ -537,10 +548,26 @@ NVIDIA NIM,z-ai/glm4.7,735790403.0,z-ai,1.0,1.0
 NVIDIA NIM,zyphra/zamba2-7b-instruct,735790403.0,zyphra,1.0,1.0
 Cerebras,llama3.1-70b,,,1.0,1.0
 Cerebras,llama3.1-8b,,,1.0,1.0
-Groq,llama-3.1-70b-versatile,,,0.59,0.79
-Groq,llama-3.1-8b-instant,,,0.05,0.08
-Groq,mixtral-8x7b-32768,,,1.0,1.0
-Groq,gemma2-9b-it,,,1.0,1.0
+Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,1.0,1.0
+Groq,moonshotai/kimi-k2-instruct-0905,1757046093.0,Moonshot AI,1.0,1.0
+Groq,llama-3.3-70b-versatile,1733447754.0,Meta,1.0,1.0
+Groq,moonshotai/kimi-k2-instruct,1752435491.0,Moonshot AI,1.0,1.0
+Groq,whisper-large-v3-turbo,1728413088.0,OpenAI,1.0,1.0
+Groq,groq/compound-mini,1756949707.0,Groq,1.0,1.0
+Groq,whisper-large-v3,1693721698.0,OpenAI,1.0,1.0
+Groq,groq/compound,1756949530.0,Groq,1.0,1.0
+Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,1.0,1.0
+Groq,allam-2-7b,1737672203.0,SDAIA,1.0,1.0
+Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,1.0,1.0
+Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.0,1.0
+Groq,canopylabs/orpheus-arabic-saudi,1765926439.0,Canopy Labs,1.0,1.0
+Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.0,1.0
+Groq,openai/gpt-oss-20b,1754407957.0,OpenAI,1.0,1.0
+Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
+Groq,meta-llama/llama-4-maverick-17b-128e-instruct,1743877158.0,Meta,1.0,1.0
+Groq,meta-llama/llama-guard-4-12b,1746743847.0,Meta,1.0,1.0
+Groq,meta-llama/llama-prompt-guard-2-86m,1748632165.0,Meta,1.0,1.0
+Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,1.0,1.0
 OpenAI,gpt-4o,,,2.5,10.0
 OpenAI,gpt-4o-mini,,,0.15,0.6
 OpenAI,gpt-3.5-turbo,,,1.0,1.0
