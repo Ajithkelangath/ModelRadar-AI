@@ -11,10 +11,17 @@ st.markdown("Automated benchmarks, pricing tracking, and arbitrage alerts.")
 if st.sidebar.button("Run Daily Scan (Manual)"):
     st.sidebar.info("Triggering LangGraph pipeline...")
     import subprocess
-    subprocess.run(["python", "src/langgraph_orchestrator.py"])
-    subprocess.run(["python", "src/daas_feed.py"])
-    st.sidebar.success("Pipeline complete!")
-    st.cache_data.clear() # Force reload
+    try:
+        result = subprocess.run(["python", "src/langgraph_orchestrator.py"], capture_output=True, text=True)
+        st.sidebar.expander("Orchestrator Logs").code(result.stdout + "\n" + result.stderr)
+        
+        result2 = subprocess.run(["python", "src/daas_feed.py"], capture_output=True, text=True)
+        st.sidebar.expander("DaaS Logs").code(result2.stdout + "\n" + result2.stderr)
+        
+        st.sidebar.success("Pipeline complete!")
+        st.cache_data.clear() # Force reload
+    except Exception as e:
+        st.sidebar.error(f"Failed: {e}")
 
 if st.sidebar.button("⚠️ Force Clean Reset"):
     if os.path.exists("data/provider_catalog.csv"): os.remove("data/provider_catalog.csv")
