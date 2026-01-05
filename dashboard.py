@@ -62,8 +62,18 @@ with tab1:
         col3.metric("Cost Champion", cheapest['model_id'], f"${cheapest['avg_cost']:.4f}/M")
 
         # Interactive Table
-        # Add placeholder referral links
-        df['link'] = df['provider'].apply(lambda x: f"https://www.{x.lower().replace(' ', '')}.com/signup?ref=ModelRadar")
+        # Real Referral Links (Replace 'ref=ModelRadar' with your actual affiliate IDs)
+        provider_urls = {
+            "OpenRouter": "https://openrouter.ai/signup?ref=ModelRadar",
+            "Groq": "https://console.groq.com/login?ref=ModelRadar",
+            "DeepSeek": "https://platform.deepseek.com/sign_up?ref=ModelRadar",
+            "Google": "https://aistudio.google.com/?ref=ModelRadar",
+            "Mistral": "https://console.mistral.ai/?ref=ModelRadar",
+            "OpenAI": "https://platform.openai.com/signup?ref=ModelRadar"
+        }
+        
+        # Fallback for unknown providers
+        df['link'] = df['provider'].apply(lambda x: provider_urls.get(x, "https://huggingface.co/models?ref=ModelRadar"))
         
         st.dataframe(
             df[['model_id', 'provider', 'avg_perf', 'avg_cost', 'value_score', 'link']],
