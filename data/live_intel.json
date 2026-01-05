@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "generated_at": "2026-01-05T15:29:17.639321",
+        "total_models_scanned": 26,
+        "license": "ModelRadar Commercial-DaaS-v1"
+    },
+    "top_value_models": [
+        {
+            "model_id": "bytedance-seed/seed-1.6-flash",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "bytedance-seed/seed-1.6",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "minimax/minimax-m2.1",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "z-ai/glm-4.7",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "google/gemini-3-flash-preview",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "mistralai/mistral-small-creative",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "allenai/olmo-3.1-32b-think:free",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "xiaomi/mimo-v2-flash:free",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "nvidia/nemotron-3-nano-30b-a3b:free",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        },
+        {
+            "model_id": "nvidia/nemotron-3-nano-30b-a3b",
+            "provider": "OpenRouter",
+            "Coding_score": 0.6584,
+            "avg_speed": 500.0,
+            "Math_score": 0.6584,
+            "Reasoning_score": 0.6584,
+            "input": 1.0,
+            "output": 1.0,
+            "avg_perf": 0.6584,
+            "avg_cost": 1.0,
+            "value_score": 0.6583341665833417
+        }
+    ],
+    "arbitrage_alerts": {
+        "high_performance": [],
+        "high_speed": []
+    }
+}

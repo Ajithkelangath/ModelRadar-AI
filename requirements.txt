@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+pyyaml
+langgraph
+pyarrow
+fastparquet
+huggingface_hub
+python-dotenv

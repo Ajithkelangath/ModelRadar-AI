@@ -7,11 +7,16 @@ ModelRadar identifies **Value Arbitrage** opportunities where a model performs a
 *   **Example**: Switching from GPT-4o to DeepSeek-V3 or a highly-optimized Llama-3 local instance can save thousands of dollars in monthly token costs.
 *   **Arbitrage War Room**: The built-in dashboard identifies these "Value Kings" and "Speed Demons" in real-time.
 
-## 🛠️ Components
-1.  **Provider Scout**: Scans 100+ API endpoints and local Ollama instances for model metadata and pricing.
-2.  **Auto Benchmarker**: Runs low-latency performance tests (Coding, Math, Reasoning) to verify model quality.
-3.  **Intelligence Engine**: Calculates a `Value Score` (Performance / Cost) and detects arbitrage.
-4.  **Dataset Publisher**: Bundles the intelligence into Parquet files for historical analysis or public sharing on Hugging Face.
+## 🔌 Data-as-a-Service (DaaS)
+ModelRadar is more than a dashboard; it's a professional model intelligence feed.
+*   **Live JSON Feed**: Access real-time arbitrage and ranking data via our public endpoint.
+*   **Developer API**: Integrate "Value King" logic directly into your applications to automate cost-saving.
+*   **Commercial License**: Professional feeds with high-frequency updates available for enterprise customers.
+
+## 🌍 Public Deployment
+The dashboard is optimized for Streamlit Cloud and Railway.
+*   **Live URL**: [Deploying to Streamlit Cloud...]
+*   **GitHub Actions**: Runs every 24 hours to refresh the DaaS feed and dataset history.
 
 ## 🚀 Getting Started
 1.  **Clone & Install**:
