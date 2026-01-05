@@ -17,25 +17,40 @@ class AutoBenchmarker:
         print(f"Benchmarking (SIMULATED) {model} on {task_name}...")
         
         start_time = time.time()
-        latency = 0.5
-        score = 0.0
+        # Define performance profiles for simulation
+        profiles = {
+            "top_tier": {"keywords": ["gpt-4", "opus", "sonnet", "gemini-1.5-pro", "llama-3.1-405b"], "base_score": 0.90, "base_latency": 1.5, "speed_var": 0.2},
+            "mid_tier": {"keywords": ["gpt-4o-mini", "llama-3.1-70b", "gemini-1.5-flash", "haiku", "mixtral"], "base_score": 0.82, "base_latency": 0.3, "speed_var": 0.1},
+            "fast_tier": {"keywords": ["llama-3.1-8b", "flash", "instant", "gemma", "seed", "mini", "small"], "base_score": 0.75, "base_latency": 0.15, "speed_var": 0.05}
+        }
         
-        if "gpt-4" in model or "claude-3-5" in model:
-            score = 0.85 + (time.time() % 0.1)
-            latency = 1.2
-        elif "llama-3.1-70b" in model:
-            score = 0.80 + (time.time() % 0.1)
-            latency = 0.4
-        else:
-            score = 0.60 + (time.time() % 0.2)
-            latency = 0.2
+        # Determine profile based on model ID
+        base_score = 0.65
+        base_latency = 0.5
+        
+        # Check profiles
+        found = False
+        for tier, config in profiles.items():
+            for keyword in config["keywords"]:
+                if keyword in model.lower():
+                    # Add pseudo-random variance based on model string hash to keep it consistent per model
+                    variance = (hash(model) % 100) / 1000.0  
+                    base_score = config["base_score"] + variance
+                    base_latency = config["base_latency"] * (1.0 + variance)
+                    found = True
+                    break
+            if found: break
             
-        tps = 100 / latency
+        # Add slight time-based jitter so it's not identical every single run
+        jit = (time.time() % 100) / 10000.0
+        score = min(0.99, base_score + jit)
+        
+        tps = 100 / (base_latency + jit)
         
         return {
             "task": task_name,
             "score": round(score, 4),
-            "latency": round(latency, 2),
+            "latency": round(base_latency, 2),
             "tokens_per_sec": round(tps, 2)
         }
 
