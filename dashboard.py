@@ -8,9 +8,10 @@ st.title("🚀 ModelRadar AI v2.0: Live LLM Intelligence")
 st.markdown("Automated benchmarks, pricing tracking, and arbitrage alerts.")
 
 # Sidebar for controls
-st.sidebar.header("Controls")
 if st.sidebar.button("Run Daily Scan (Manual)"):
     st.sidebar.info("Triggering LangGraph pipeline...")
+    import subprocess
+    subprocess.run(["python", "src/langgraph_orchestrator.py"])
     subprocess.run(["python", "src/daas_feed.py"])
     st.sidebar.success("Pipeline complete!")
     st.cache_data.clear() # Force reload
