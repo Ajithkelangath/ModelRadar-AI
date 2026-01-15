@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,openai/gpt-5.2-codex,1768409315.0,,0.54,0.81
 OpenRouter,allenai/molmo-2-8b:free,1767996672.0,,0.2,0.2
 OpenRouter,allenai/olmo-3.1-32b-instruct,1767728554.0,,0.2,0.2
 OpenRouter,bytedance-seed/seed-1.6-flash,1766505011.0,,0.1,0.1
@@ -79,7 +80,6 @@ OpenRouter,anthropic/claude-sonnet-4.5,1759161676.0,,3.52,5.29
 OpenRouter,deepseek/deepseek-v3.2-exp,1759150481.0,,2.0,3.0
 OpenRouter,thedrummer/cydonia-24b-v4.1,1758931878.0,,3.21,4.82
 OpenRouter,relace/relace-apply-3,1758891572.0,,1.74,2.61
-OpenRouter,google/gemini-2.5-flash-preview-09-2025,1758820178.0,,2.88,4.31
 OpenRouter,google/gemini-2.5-flash-lite-preview-09-2025,1758819686.0,,3.84,5.76
 OpenRouter,qwen/qwen3-vl-235b-a22b-thinking,1758668690.0,,0.35,0.4
 OpenRouter,qwen/qwen3-vl-235b-a22b-instruct,1758668687.0,,0.35,0.4
@@ -144,10 +144,8 @@ OpenRouter,qwen/qwen3-235b-a22b-2507,1753119555.0,,0.35,0.4
 OpenRouter,switchpoint/router,1752272899.0,,4.68,7.01
 OpenRouter,moonshotai/kimi-k2:free,1752263252.0,,4.64,6.96
 OpenRouter,moonshotai/kimi-k2,1752263252.0,,4.27,6.4
-OpenRouter,thudm/glm-4.1v-9b-thinking,1752244385.0,,0.4,0.4
 OpenRouter,mistralai/devstral-medium,1752161321.0,,3.13,4.7
 OpenRouter,mistralai/devstral-small,1752160751.0,,4.72,7.08
-OpenRouter,cognitivecomputations/dolphin-mistral-24b-venice-edition:free,1752094966.0,,1.38,2.07
 OpenRouter,x-ai/grok-4,1752087689.0,,0.53,0.79
 OpenRouter,google/gemma-3n-e2b-it:free,1752074904.0,,0.87,1.31
 OpenRouter,tencent/hunyuan-a13b-instruct,1751987664.0,,4.48,6.72
@@ -167,7 +165,6 @@ OpenRouter,openai/o3-pro,1749598352.0,,2.31,3.46
 OpenRouter,x-ai/grok-3-mini,1749583245.0,,2.33,3.49
 OpenRouter,x-ai/grok-3,1749582908.0,,3.04,4.56
 OpenRouter,google/gemini-2.5-pro-preview,1749137257.0,,3.09,4.64
-OpenRouter,deepseek/deepseek-r1-0528-qwen3-8b,1748538543.0,,0.35,0.4
 OpenRouter,deepseek/deepseek-r1-0528:free,1748455170.0,,3.02,4.53
 OpenRouter,deepseek/deepseek-r1-0528,1748455170.0,,3.78,5.67
 OpenRouter,anthropic/claude-opus-4,1747931245.0,,4.88,7.32
@@ -185,7 +182,6 @@ OpenRouter,arcee-ai/virtuoso-large,1746478885.0,,0.18,0.27
 OpenRouter,arcee-ai/coder-large,1746478663.0,,2.58,3.87
 OpenRouter,microsoft/phi-4-reasoning-plus,1746130961.0,,4.33,6.49
 OpenRouter,inception/mercury-coder,1746033880.0,,4.35,6.53
-OpenRouter,qwen/qwen3-4b:free,1746031104.0,,0.35,0.4
 OpenRouter,deepseek/deepseek-prover-v2,1746013094.0,,1.8,2.7
 OpenRouter,meta-llama/llama-guard-4-12b,1745975193.0,,1.13,1.69
 OpenRouter,qwen/qwen3-30b-a3b,1745878604.0,,0.35,0.4
@@ -212,7 +208,6 @@ OpenRouter,meta-llama/llama-4-scout,1743881519.0,,4.5,6.75
 OpenRouter,qwen/qwen2.5-vl-32b-instruct,1742839838.0,,0.35,0.4
 OpenRouter,deepseek/deepseek-chat-v3-0324,1742824755.0,,0.14,0.28
 OpenRouter,openai/o1-pro,1742423211.0,,1.15,1.72
-OpenRouter,mistralai/mistral-small-3.1-24b-instruct:free,1742238937.0,,0.74,1.11
 OpenRouter,mistralai/mistral-small-3.1-24b-instruct,1742238937.0,,4.97,7.46
 OpenRouter,allenai/olmo-2-0325-32b-instruct,1741988556.0,,0.2,0.2
 OpenRouter,google/gemma-3-4b-it:free,1741905510.0,,3.82,5.72
@@ -249,7 +244,6 @@ OpenRouter,qwen/qwen-max,1738402289.0,,0.35,0.4
 OpenRouter,openai/o3-mini,1738351721.0,,1.29,1.93
 OpenRouter,mistralai/mistral-small-24b-instruct-2501,1738255409.0,,2.52,3.78
 OpenRouter,deepseek/deepseek-r1-distill-qwen-32b,1738194830.0,,0.35,0.4
-OpenRouter,deepseek/deepseek-r1-distill-qwen-14b,1738193940.0,,0.35,0.4
 OpenRouter,perplexity/sonar,1738013808.0,,2.44,3.66
 OpenRouter,deepseek/deepseek-r1-distill-llama-70b,1737663169.0,,1.79,2.68
 OpenRouter,deepseek/deepseek-r1,1737381095.0,,0.8,1.2
@@ -273,7 +267,6 @@ OpenRouter,mistralai/pixtral-large-2411,1731977388.0,,3.98,5.98
 OpenRouter,qwen/qwen-2.5-coder-32b-instruct,1731368400.0,,0.35,0.4
 OpenRouter,raifle/sorcererlm-8x22b,1731105083.0,,0.77,1.16
 OpenRouter,thedrummer/unslopnemo-12b,1731103448.0,,4.53,6.79
-OpenRouter,anthropic/claude-3.5-haiku-20241022,1730678400.0,,2.94,4.42
 OpenRouter,anthropic/claude-3.5-haiku,1730678400.0,,0.19,0.29
 OpenRouter,anthropic/claude-3.5-sonnet,1729555200.0,,1.69,2.54
 OpenRouter,anthracite-org/magnum-v4-72b,1729555200.0,,4.84,7.26
@@ -284,7 +277,6 @@ OpenRouter,nvidia/llama-3.1-nemotron-70b-instruct,1728950400.0,,0.6,0.6
 OpenRouter,inflection/inflection-3-pi,1728604800.0,,0.95,1.43
 OpenRouter,inflection/inflection-3-productivity,1728604800.0,,4.59,6.88
 OpenRouter,thedrummer/rocinante-12b,1727654400.0,,1.54,2.32
-OpenRouter,meta-llama/llama-3.2-3b-instruct:free,1727222400.0,,3.62,5.43
 OpenRouter,meta-llama/llama-3.2-3b-instruct,1727222400.0,,0.71,1.06
 OpenRouter,meta-llama/llama-3.2-1b-instruct,1727222400.0,,0.96,1.45
 OpenRouter,meta-llama/llama-3.2-90b-vision-instruct,1727222400.0,,4.09,6.13
@@ -298,7 +290,6 @@ OpenRouter,qwen/qwen-2.5-vl-7b-instruct:free,1724803200.0,,0.35,0.4
 OpenRouter,qwen/qwen-2.5-vl-7b-instruct,1724803200.0,,0.35,0.4
 OpenRouter,sao10k/l3.1-euryale-70b,1724803200.0,,4.53,6.79
 OpenRouter,nousresearch/hermes-3-llama-3.1-70b,1723939200.0,,4.15,6.22
-OpenRouter,nousresearch/hermes-3-llama-3.1-405b:free,1723766400.0,,2.76,4.14
 OpenRouter,nousresearch/hermes-3-llama-3.1-405b,1723766400.0,,0.31,0.47
 OpenRouter,openai/chatgpt-4o-latest,1723593600.0,,2.5,10.0
 OpenRouter,sao10k/l3-lunaris-8b,1723507200.0,,1.38,2.07
@@ -545,26 +536,26 @@ NVIDIA NIM,z-ai/glm4.7,735790403.0,z-ai,1.71,2.57
 NVIDIA NIM,zyphra/zamba2-7b-instruct,735790403.0,zyphra,0.22,0.33
 Cerebras,llama3.1-70b,,,3.26,4.89
 Cerebras,llama3.1-8b,,,2.93,4.4
-Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
-Groq,openai/gpt-oss-20b,1754407957.0,OpenAI,1.75,2.63
-Groq,whisper-large-v3-turbo,1728413088.0,OpenAI,0.63,0.95
-Groq,meta-llama/llama-4-maverick-17b-128e-instruct,1743877158.0,Meta,3.49,5.24
-Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,0.35,0.4
-Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
-Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.13,1.7
-Groq,groq/compound,1756949530.0,Groq,1.48,2.21
-Groq,moonshotai/kimi-k2-instruct,1752435491.0,Moonshot AI,0.44,0.67
-Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,2.51,3.77
-Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
-Groq,canopylabs/orpheus-arabic-saudi,1765926439.0,Canopy Labs,2.66,3.99
-Groq,allam-2-7b,1737672203.0,SDAIA,2.71,4.06
-Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
 Groq,moonshotai/kimi-k2-instruct-0905,1757046093.0,Moonshot AI,0.73,1.1
-Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.53,2.3
-Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
-Groq,whisper-large-v3,1693721698.0,OpenAI,0.54,0.81
+Groq,whisper-large-v3-turbo,1728413088.0,OpenAI,0.63,0.95
+Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,2.51,3.77
+Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,0.35,0.4
+Groq,openai/gpt-oss-20b,1754407957.0,OpenAI,1.75,2.63
+Groq,groq/compound,1756949530.0,Groq,1.48,2.21
+Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
 Groq,meta-llama/llama-guard-4-12b,1746743847.0,Meta,1.13,1.69
+Groq,allam-2-7b,1737672203.0,SDAIA,2.71,4.06
+Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
+Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
+Groq,whisper-large-v3,1693721698.0,OpenAI,0.54,0.81
+Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
+Groq,meta-llama/llama-4-maverick-17b-128e-instruct,1743877158.0,Meta,3.49,5.24
+Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
+Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.53,2.3
+Groq,canopylabs/orpheus-arabic-saudi,1765926439.0,Canopy Labs,2.66,3.99
 Groq,meta-llama/llama-prompt-guard-2-86m,1748632165.0,Meta,0.18,0.28
+Groq,moonshotai/kimi-k2-instruct,1752435491.0,Moonshot AI,0.44,0.67
+Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.13,1.7
 OpenAI,gpt-4o,,,2.5,10.0
 OpenAI,gpt-4o-mini,,,2.5,10.0
 OpenAI,gpt-3.5-turbo,,,0.5,1.5
