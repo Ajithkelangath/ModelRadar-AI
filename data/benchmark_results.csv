@@ -1,27 +1,28 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-openai/gpt-5.2-codex,OpenRouter,0.6581,196.83,0.6581,0.6581
-allenai/molmo-2-8b:free,OpenRouter,0.6581,196.83,0.6581,0.6581
-allenai/olmo-3.1-32b-instruct,OpenRouter,0.6581,196.83,0.6581,0.6581
-bytedance-seed/seed-1.6-flash,OpenRouter,0.7941,611.76,0.7941,0.7941
-bytedance-seed/seed-1.6,OpenRouter,0.8031,606.74,0.8031,0.8031
-minimax/minimax-m2.1,OpenRouter,0.8511,581.33,0.8511,0.8511
-z-ai/glm-4.7,OpenRouter,0.6581,196.82,0.6581,0.6581
-google/gemini-3-flash-preview,OpenRouter,0.8361,589.02,0.8361,0.8361
-mistralai/mistral-small-creative,OpenRouter,0.8561,578.78,0.8561,0.8561
-allenai/olmo-3.1-32b-think,OpenRouter,0.6581,196.82,0.6581,0.6581
-qwen/qwen3-30b-a3b-fp8,Novita AI,0.6581,196.82,0.6581,0.6581
-deepseek/deepseek-r1-distill-llama-70b,Novita AI,0.6581,196.82,0.6581,0.6581
-sao10k/l3-70b-euryale-v2.1,Novita AI,0.6581,196.82,0.6581,0.6581
-meta/llama-3.1-405b-instruct,NVIDIA NIM,0.9201,65.53,0.9201,0.9201
-ibm/granite-3.3-8b-instruct,NVIDIA NIM,0.6581,196.81,0.6581,0.6581
-openai/gpt-4,OpenRouter,0.9191,65.59,0.9191,0.9191
-mistral,Ollama (Local),0.6581,196.81,0.6581,0.6581
-llama-3-70b-chat@groq,Unify,0.6581,196.81,0.6581,0.6581
-openai/gpt-4.1-nano,OpenRouter,0.9101,66.18,0.9101,0.9101
-xiaomi/mimo-v2-flash:free,OpenRouter,0.8571,578.17,0.8571,0.8571
-xiaomi/mimo-v2-flash,OpenRouter,0.8211,596.8,0.8211,0.8211
-mistralai/ministral-14b-2512,OpenRouter,0.8011,607.67,0.8011,0.8011
-mistralai/ministral-8b-2512,OpenRouter,0.7831,617.79,0.7831,0.7831
-mistralai/ministral-3b-2512,OpenRouter,0.7731,623.56,0.7731,0.7731
-arcee-ai/trinity-mini:free,OpenRouter,0.8481,582.67,0.8481,0.8481
-arcee-ai/trinity-mini,OpenRouter,0.8541,579.62,0.8541,0.8541
+openai/gpt-5.2-codex,OpenRouter,0.6599,196.11,0.6599,0.6599
+allenai/molmo-2-8b:free,OpenRouter,0.6599,196.1,0.6599,0.6599
+allenai/olmo-3.1-32b-instruct,OpenRouter,0.6599,196.1,0.6599,0.6599
+bytedance-seed/seed-1.6-flash,OpenRouter,0.7699,619.43,0.7699,0.7699
+bytedance-seed/seed-1.6,OpenRouter,0.8419,580.58,0.8419,0.8419
+minimax/minimax-m2.1,OpenRouter,0.7679,620.56,0.7679,0.7679
+z-ai/glm-4.7,OpenRouter,0.6599,196.1,0.6599,0.6599
+google/gemini-3-flash-preview,OpenRouter,0.7679,620.54,0.768,0.768
+mistralai/mistral-small-creative,OpenRouter,0.79,608.07,0.79,0.79
+allenai/olmo-3.1-32b-think,OpenRouter,0.66,196.09,0.66,0.66
+meta/llama3-8b-instruct,NVIDIA NIM,0.66,196.09,0.66,0.66
+deepseek/deepseek-r1-distill-qwen-14b,Novita AI,0.66,196.09,0.66,0.66
+nousresearch/hermes-3-llama-3.1-70b,OpenRouter,0.834,321.37,0.834,0.834
+moonshotai/kimi-k2-instruct,Novita AI,0.66,196.09,0.66,0.66
+moonshotai/kimi-k2-instruct-0905,NVIDIA NIM,0.66,196.09,0.66,0.66
+z-ai/glm4.7,NVIDIA NIM,0.66,196.09,0.66,0.66
+qwen/qwen3-235b-a22b-2507,OpenRouter,0.66,196.09,0.66,0.66
+tokyotech-llm/llama-3-swallow-70b-instruct-v0.1,NVIDIA NIM,0.66,196.09,0.66,0.66
+qwen/qwen3-omni-30b-a3b-thinking,Novita AI,0.66,196.08,0.66,0.66
+arcee-ai/coder-large,OpenRouter,0.66,196.08,0.66,0.66
+xiaomi/mimo-v2-flash:free,OpenRouter,0.842,580.41,0.842,0.842
+xiaomi/mimo-v2-flash,OpenRouter,0.811,596.5,0.811,0.811
+mistralai/ministral-14b-2512,OpenRouter,0.835,583.95,0.835,0.835
+mistralai/ministral-8b-2512,OpenRouter,0.837,582.92,0.837,0.837
+mistralai/ministral-3b-2512,OpenRouter,0.77,653.58,0.77,0.77
+arcee-ai/trinity-mini:free,OpenRouter,0.806,631.29,0.806,0.806
+arcee-ai/trinity-mini,OpenRouter,0.849,606.58,0.849,0.849
