@@ -1,29 +1,29 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-google/gemini-3.1-pro-preview,OpenRouter,0.7577,640.92,0.7577,0.7577
-anthropic/claude-sonnet-4.6,OpenRouter,0.99,60.56,0.99,0.99
-qwen/qwen3.5-plus-02-15,OpenRouter,0.6557,197.73,0.6557,0.6557
-qwen/qwen3.5-397b-a17b,OpenRouter,0.6557,197.73,0.6557,0.6557
-minimax/minimax-m2.5,OpenRouter,0.7707,632.96,0.7707,0.7707
-z-ai/glm-5,OpenRouter,0.6557,197.73,0.6557,0.6557
-qwen/qwen3-max-thinking,OpenRouter,0.6557,197.73,0.6557,0.6557
-anthropic/claude-opus-4.6,OpenRouter,0.9507,63.56,0.9507,0.9507
-qwen/qwen3-coder-next,OpenRouter,0.6557,197.73,0.6557,0.6558
-openrouter/free,OpenRouter,0.6558,197.72,0.6558,0.6558
-opengpt-x/teuken-7b-instruct-commercial-v0.4,NVIDIA NIM,0.6558,197.72,0.6558,0.6558
-deepseek/deepseek-v3-turbo,Novita AI,0.6558,197.72,0.6558,0.6558
-allenai/molmo-2-8b,OpenRouter,0.6558,197.72,0.6558,0.6558
-google/gemma-3-12b-it,Novita AI,0.7868,623.38,0.7868,0.7868
-mistralai/mixtral-8x7b-instruct-v0.1,NVIDIA NIM,0.8698,313.51,0.8698,0.8698
-qwen/qwen3-vl-30b-a3b-thinking,OpenRouter,0.6558,197.72,0.6558,0.6558
-azureml://registries/azureml-mistral/models/Mistral-Nemo/versions/1,GitHub Models,0.6558,197.72,0.6558,0.6558
-inception/mercury-coder,OpenRouter,0.6558,197.72,0.6558,0.6558
-nvidia/llama-3.1-nemotron-ultra-253b-v1,NVIDIA NIM,0.6558,197.71,0.6558,0.6558
-qwen/qwen3-235b-a22b,OpenRouter,0.6558,197.71,0.6558,0.6558
-stepfun/step-3.5-flash:free,OpenRouter,0.8288,599.74,0.8288,0.8288
-stepfun/step-3.5-flash,OpenRouter,0.7688,633.95,0.7688,0.7688
-minimax/minimax-m2-her,OpenRouter,0.8038,613.52,0.8038,0.8038
-openai/gpt-audio-mini,OpenRouter,0.7688,633.93,0.7688,0.7688
-z-ai/glm-4.7-flash,OpenRouter,0.7738,630.92,0.7738,0.7738
-bytedance-seed/seed-1.6-flash,OpenRouter,0.8538,586.5,0.8538,0.8538
-minimax/minimax-m2.1,OpenRouter,0.7948,618.6,0.7948,0.7948
-google/gemini-3-flash-preview,OpenRouter,0.7588,639.96,0.7588,0.7588
+google/gemini-3.1-pro-preview,OpenRouter,0.7544,651.25,0.7544,0.7544
+anthropic/claude-sonnet-4.6,OpenRouter,0.9834,61.6,0.9834,0.9834
+qwen/qwen3.5-plus-02-15,OpenRouter,0.6534,198.65,0.6534,0.6534
+qwen/qwen3.5-397b-a17b,OpenRouter,0.6534,198.64,0.6534,0.6534
+minimax/minimax-m2.5,OpenRouter,0.8214,611.2,0.8214,0.8214
+z-ai/glm-5,OpenRouter,0.6534,198.64,0.6534,0.6534
+qwen/qwen3-max-thinking,OpenRouter,0.6534,198.64,0.6534,0.6534
+anthropic/claude-opus-4.6,OpenRouter,0.9184,65.53,0.9184,0.9184
+qwen/qwen3-coder-next,OpenRouter,0.6534,198.64,0.6534,0.6534
+openrouter/free,OpenRouter,0.6534,198.64,0.6534,0.6534
+nv-mistralai/mistral-nemo-12b-instruct,NVIDIA NIM,0.6534,198.64,0.6534,0.6534
+meta-llama/llama-3.2-3b-instruct:free,OpenRouter,0.6534,198.64,0.6534,0.6534
+whisper-large-v3,Groq,0.6534,198.62,0.6535,0.6535
+nvidia/nvclip,NVIDIA NIM,0.6535,198.62,0.6535,0.6535
+google/gemma-3n-e4b-it,OpenRouter,0.7865,631.24,0.7865,0.7865
+qwen/qwen-mt-plus,Novita AI,0.6535,198.62,0.6535,0.6535
+writer/palmyra-creative-122b,NVIDIA NIM,0.6535,198.62,0.6535,0.6535
+mistralai/ministral-3b-2512,OpenRouter,0.7945,626.46,0.7945,0.7945
+arcee-ai/spotlight,OpenRouter,0.6535,198.62,0.6535,0.6535
+mistralai/mistral-small-3.1-24b-instruct,OpenRouter,0.7875,630.58,0.7875,0.7875
+stepfun/step-3.5-flash:free,OpenRouter,0.7665,643.35,0.7665,0.7665
+stepfun/step-3.5-flash,OpenRouter,0.8405,600.46,0.8405,0.8405
+minimax/minimax-m2-her,OpenRouter,0.8415,599.91,0.8415,0.8415
+openai/gpt-audio-mini,OpenRouter,0.8065,619.4,0.8065,0.8065
+z-ai/glm-4.7-flash,OpenRouter,0.7785,635.93,0.7785,0.7785
+bytedance-seed/seed-1.6-flash,OpenRouter,0.7765,637.14,0.7765,0.7765
+minimax/minimax-m2.1,OpenRouter,0.8105,617.07,0.8105,0.8105
+google/gemini-3-flash-preview,OpenRouter,0.7985,623.99,0.7985,0.7985
