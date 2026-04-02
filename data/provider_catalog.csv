@@ -1,11 +1,13 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,z-ai/glm-5v-turbo,1775061458.0,,4.14,6.21
+OpenRouter,arcee-ai/trinity-large-thinking,1775058318.0,,0.0,0.0
 OpenRouter,x-ai/grok-4.20-multi-agent,1774979158.0,,2.68,4.03
 OpenRouter,x-ai/grok-4.20,1774979019.0,,2.04,3.07
 OpenRouter,google/lyria-3-pro-preview,1774907286.0,,0.51,0.76
 OpenRouter,google/lyria-3-clip-preview,1774907255.0,,3.31,4.97
 OpenRouter,qwen/qwen3.6-plus-preview:free,1774891569.0,,0.35,0.4
 OpenRouter,kwaipilot/kat-coder-pro-v2,1774649310.0,,2.86,4.28
-OpenRouter,reka/reka-edge,1774026965.0,,1.5,2.24
+OpenRouter,rekaai/reka-edge,1774026965.0,,3.53,5.3
 OpenRouter,xiaomi/mimo-v2-omni,1773863703.0,,0.15,0.15
 OpenRouter,xiaomi/mimo-v2-pro,1773863643.0,,0.15,0.15
 OpenRouter,minimax/minimax-m2.7,1773836697.0,,0.5,0.5
@@ -305,8 +307,8 @@ OpenRouter,meta-llama/llama-3.2-3b-instruct,1727222400.0,,0.71,1.06
 OpenRouter,meta-llama/llama-3.2-1b-instruct,1727222400.0,,0.96,1.45
 OpenRouter,meta-llama/llama-3.2-11b-vision-instruct,1727222400.0,,0.67,1.01
 OpenRouter,qwen/qwen-2.5-72b-instruct,1726704000.0,,0.35,0.4
-OpenRouter,cohere/command-r-plus-08-2024,1724976000.0,,2.76,4.14
 OpenRouter,cohere/command-r-08-2024,1724976000.0,,1.13,1.7
+OpenRouter,cohere/command-r-plus-08-2024,1724976000.0,,2.76,4.14
 OpenRouter,sao10k/l3.1-euryale-70b,1724803200.0,,4.53,6.79
 OpenRouter,nousresearch/hermes-3-llama-3.1-70b,1723939200.0,,4.15,6.22
 OpenRouter,nousresearch/hermes-3-llama-3.1-405b:free,1723766400.0,,2.76,4.14
@@ -332,8 +334,8 @@ OpenRouter,microsoft/wizardlm-2-8x22b,1713225600.0,,2.74,4.11
 OpenRouter,openai/gpt-4-turbo,1712620800.0,,1.1,1.65
 OpenRouter,anthropic/claude-3-haiku,1710288000.0,,3.95,5.92
 OpenRouter,mistralai/mistral-large,1708905600.0,,4.44,6.66
-OpenRouter,openai/gpt-4-turbo-preview,1706140800.0,,2.59,3.89
 OpenRouter,openai/gpt-3.5-turbo-0613,1706140800.0,,0.5,1.5
+OpenRouter,openai/gpt-4-turbo-preview,1706140800.0,,2.59,3.89
 OpenRouter,mistralai/mixtral-8x7b-instruct,1702166400.0,,4.68,7.02
 OpenRouter,alpindale/goliath-120b,1699574400.0,,0.24,0.36
 OpenRouter,openrouter/auto,1699401600.0,,2.91,4.37
@@ -545,24 +547,24 @@ NVIDIA NIM,z-ai/glm5,735790403.0,z-ai,0.81,1.21
 NVIDIA NIM,zyphra/zamba2-7b-instruct,735790403.0,zyphra,0.22,0.33
 Cerebras,llama3.1-70b,,,3.26,4.89
 Cerebras,llama3.1-8b,,,2.93,4.4
-Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,2.51,3.77
-Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
-Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.13,1.7
-Groq,moonshotai/kimi-k2-instruct,1752435491.0,Moonshot AI,0.44,0.67
-Groq,canopylabs/orpheus-arabic-saudi,1765926439.0,Canopy Labs,2.66,3.99
-Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,0.35,0.4
-Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
-Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
 Groq,whisper-large-v3-turbo,1728413088.0,OpenAI,0.63,0.95
 Groq,moonshotai/kimi-k2-instruct-0905,1757046093.0,Moonshot AI,0.73,1.1
-Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
 Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.53,2.3
-Groq,meta-llama/llama-prompt-guard-2-86m,1748632165.0,Meta,0.18,0.28
-Groq,groq/compound,1756949530.0,Groq,1.48,2.21
-Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
 Groq,openai/gpt-oss-20b,1754407957.0,OpenAI,1.75,2.63
-Groq,whisper-large-v3,1693721698.0,OpenAI,0.54,0.81
+Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
+Groq,canopylabs/orpheus-arabic-saudi,1765926439.0,Canopy Labs,2.66,3.99
+Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.13,1.7
+Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,2.51,3.77
+Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
+Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
+Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
+Groq,groq/compound,1756949530.0,Groq,1.48,2.21
+Groq,meta-llama/llama-prompt-guard-2-86m,1748632165.0,Meta,0.18,0.28
+Groq,moonshotai/kimi-k2-instruct,1752435491.0,Moonshot AI,0.44,0.67
+Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
 Groq,allam-2-7b,1737672203.0,SDAIA,2.71,4.06
+Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,0.35,0.4
+Groq,whisper-large-v3,1693721698.0,OpenAI,0.54,0.81
 OpenAI,gpt-4o,,,2.5,10.0
 OpenAI,gpt-4o-mini,,,2.5,10.0
 OpenAI,gpt-3.5-turbo,,,0.5,1.5
