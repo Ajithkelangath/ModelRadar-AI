@@ -1,4 +1,7 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,1777393095.0,,0.6,0.6
+OpenRouter,poolside/laguna-xs.2:free,1777389604.0,,2.04,3.06
+OpenRouter,poolside/laguna-m.1:free,1777388504.0,,1.61,2.41
 OpenRouter,~anthropic/claude-haiku-latest,1777318492.0,,3.01,4.52
 OpenRouter,~openai/gpt-mini-latest,1777318471.0,,4.27,6.4
 OpenRouter,~google/gemini-pro-latest,1777318451.0,,0.17,0.26
@@ -20,7 +23,7 @@ OpenRouter,tencent/hy3-preview:free,1776878150.0,,2.53,3.79
 OpenRouter,xiaomi/mimo-v2.5-pro,1776874273.0,,0.15,0.15
 OpenRouter,xiaomi/mimo-v2.5,1776874269.0,,0.15,0.15
 OpenRouter,openai/gpt-5.4-image-2,1776797528.0,,0.45,0.68
-OpenRouter,inclusionai/ling-2.6-flash:free,1776795886.0,,3.88,5.83
+OpenRouter,inclusionai/ling-2.6-flash,1776795886.0,,1.73,2.59
 OpenRouter,~anthropic/claude-opus-latest,1776795361.0,,2.97,4.45
 OpenRouter,openrouter/pareto-code,1776747900.0,,3.83,5.74
 OpenRouter,baidu/qianfan-ocr-fast:free,1776707472.0,,3.17,4.75
@@ -273,7 +276,6 @@ OpenRouter,thedrummer/skyfall-36b-v2,1741636566.0,,2.16,3.23
 OpenRouter,perplexity/sonar-reasoning-pro,1741313308.0,,2.73,4.1
 OpenRouter,perplexity/sonar-pro,1741312423.0,,1.44,2.16
 OpenRouter,perplexity/sonar-deep-research,1741311246.0,,4.92,7.37
-OpenRouter,qwen/qwq-32b,1741208814.0,,0.35,0.4
 OpenRouter,google/gemini-2.0-flash-lite-001,1740506212.0,,3.12,4.69
 OpenRouter,anthropic/claude-3.7-sonnet,1740422110.0,,4.74,7.11
 OpenRouter,anthropic/claude-3.7-sonnet:thinking,1740422110.0,,0.94,1.41
@@ -468,6 +470,7 @@ NVIDIA NIM,nvidia/mistral-nemo-minitron-8b-8k-instruct,735790403.0,nvidia,3.41,5
 NVIDIA NIM,nvidia/nemoretriever-parse,735790403.0,nvidia,2.66,3.98
 NVIDIA NIM,nvidia/nemotron-3-content-safety,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3-nano-30b-a3b,735790403.0,nvidia,0.6,0.6
+NVIDIA NIM,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3-super-120b-a12b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3-super-120b-a12b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-4-340b-instruct,735790403.0,nvidia,0.6,0.6
@@ -512,22 +515,22 @@ NVIDIA NIM,z-ai/glm5,735790403.0,z-ai,0.81,1.21
 NVIDIA NIM,zyphra/zamba2-7b-instruct,735790403.0,zyphra,0.22,0.33
 Cerebras,llama3.1-70b,,,3.26,4.89
 Cerebras,llama3.1-8b,,,2.93,4.4
-Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
-Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,2.51,3.77
-Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.13,1.7
-Groq,openai/gpt-oss-20b,1754407957.0,OpenAI,1.75,2.63
-Groq,meta-llama/llama-prompt-guard-2-86m,1748632165.0,Meta,0.18,0.28
-Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
-Groq,whisper-large-v3,1693721698.0,OpenAI,0.54,0.81
 Groq,canopylabs/orpheus-arabic-saudi,1765926439.0,Canopy Labs,2.66,3.99
-Groq,allam-2-7b,1737672203.0,SDAIA,2.71,4.06
-Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
-Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,0.35,0.4
-Groq,groq/compound,1756949530.0,Groq,1.48,2.21
-Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
-Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.53,2.3
-Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
 Groq,whisper-large-v3-turbo,1728413088.0,OpenAI,0.63,0.95
+Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
+Groq,whisper-large-v3,1693721698.0,OpenAI,0.54,0.81
+Groq,groq/compound,1756949530.0,Groq,1.48,2.21
+Groq,openai/gpt-oss-20b,1754407957.0,OpenAI,1.75,2.63
+Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
+Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,2.51,3.77
+Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,0.35,0.4
+Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.53,2.3
+Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
+Groq,meta-llama/llama-prompt-guard-2-86m,1748632165.0,Meta,0.18,0.28
+Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.13,1.7
+Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
+Groq,allam-2-7b,1737672203.0,SDAIA,2.71,4.06
+Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
 OpenAI,gpt-4o,,,2.5,10.0
 OpenAI,gpt-4o-mini,,,2.5,10.0
 OpenAI,gpt-3.5-turbo,,,0.5,1.5
@@ -627,6 +630,7 @@ Novita AI,deepseek/deepseek-v3-turbo,1741174512.0,unknown,2.03,3.04
 Novita AI,deepseek/deepseek-r1-turbo,1741174465.0,unknown,1.81,2.71
 Novita AI,Sao10K/L3-8B-Stheno-v3.2,1732875917.0,unknown,3.78,5.66
 Novita AI,gryphe/mythomax-l2-13b,1714024873.0,unknown,2.04,3.06
+Novita AI,inclusionai/ling-2.6-flash,1777017414.0,unknown,1.73,2.59
 Novita AI,inclusionai/ling-2.6-1t,1776911025.0,unknown,4.53,6.8
 Novita AI,elephant,1775827701.0,unknown,0.41,0.61
 Novita AI,baidu/ernie-4.5-vl-28b-a3b-thinking,1764128673.0,unknown,4.51,6.77
