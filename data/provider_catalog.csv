@@ -277,8 +277,6 @@ OpenRouter,perplexity/sonar-reasoning-pro,1741313308.0,,2.73,4.1
 OpenRouter,perplexity/sonar-pro,1741312423.0,,1.44,2.16
 OpenRouter,perplexity/sonar-deep-research,1741311246.0,,4.92,7.37
 OpenRouter,google/gemini-2.0-flash-lite-001,1740506212.0,,3.12,4.69
-OpenRouter,anthropic/claude-3.7-sonnet,1740422110.0,,4.74,7.11
-OpenRouter,anthropic/claude-3.7-sonnet:thinking,1740422110.0,,0.94,1.41
 OpenRouter,mistralai/mistral-saba,1739803239.0,,0.12,0.18
 OpenRouter,meta-llama/llama-guard-3-8b,1739401318.0,,1.22,1.83
 OpenRouter,openai/o3-mini-high,1739372611.0,,4.73,7.09
@@ -423,14 +421,11 @@ NVIDIA NIM,microsoft/phi-4-multimodal-instruct,735790403.0,microsoft,4.64,6.96
 NVIDIA NIM,minimaxai/minimax-m2.5,735790403.0,minimaxai,0.5,0.5
 NVIDIA NIM,minimaxai/minimax-m2.7,735790403.0,minimaxai,0.5,0.5
 NVIDIA NIM,mistralai/codestral-22b-instruct-v0.1,735790403.0,mistralai,2.23,3.34
-NVIDIA NIM,mistralai/devstral-2-123b-instruct-2512,735790403.0,mistralai,2.91,4.36
-NVIDIA NIM,mistralai/magistral-small-2506,735790403.0,mistralai,3.59,5.38
 NVIDIA NIM,mistralai/ministral-14b-instruct-2512,735790403.0,mistralai,0.27,0.41
 NVIDIA NIM,mistralai/mistral-7b-instruct-v0.3,735790403.0,mistralai,4.4,6.6
 NVIDIA NIM,mistralai/mistral-large,735790403.0,mistralai,4.44,6.66
 NVIDIA NIM,mistralai/mistral-large-2-instruct,735790403.0,mistralai,3.97,5.95
 NVIDIA NIM,mistralai/mistral-large-3-675b-instruct-2512,735790403.0,mistralai,1.33,1.99
-NVIDIA NIM,mistralai/mistral-medium-3-instruct,735790403.0,mistralai,3.44,5.15
 NVIDIA NIM,mistralai/mistral-medium-3.5-128b,735790403.0,mistralai,2.62,3.94
 NVIDIA NIM,mistralai/mistral-nemotron,735790403.0,mistralai,0.6,0.6
 NVIDIA NIM,mistralai/mistral-small-4-119b-2603,735790403.0,mistralai,3.42,5.12
@@ -487,6 +482,7 @@ NVIDIA NIM,nvidia/nvclip,735790403.0,nvidia,4.78,7.17
 NVIDIA NIM,nvidia/nvidia-nemotron-nano-9b-v2,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/riva-translate-4b-instruct,735790403.0,nvidia,3.5,5.26
 NVIDIA NIM,nvidia/riva-translate-4b-instruct-v1.1,735790403.0,nvidia,1.99,2.98
+NVIDIA NIM,nvidia/vila,735790403.0,nvidia,2.53,3.8
 NVIDIA NIM,openai/gpt-oss-120b,735790403.0,openai,1.53,2.3
 NVIDIA NIM,openai/gpt-oss-120b,735790403.0,openai,1.53,2.3
 NVIDIA NIM,openai/gpt-oss-20b,735790403.0,openai,1.75,2.63
@@ -512,21 +508,21 @@ NVIDIA NIM,z-ai/glm5,735790403.0,z-ai,0.81,1.21
 NVIDIA NIM,zyphra/zamba2-7b-instruct,735790403.0,zyphra,0.22,0.33
 Cerebras,llama3.1-70b,,,3.26,4.89
 Cerebras,llama3.1-8b,,,2.93,4.4
-Groq,allam-2-7b,1737672203.0,SDAIA,2.71,4.06
-Groq,whisper-large-v3-turbo,1728413088.0,OpenAI,0.63,0.95
-Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
 Groq,canopylabs/orpheus-arabic-saudi,1765926439.0,Canopy Labs,2.66,3.99
 Groq,whisper-large-v3,1693721698.0,OpenAI,0.54,0.81
-Groq,groq/compound,1756949530.0,Groq,1.48,2.21
-Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
-Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
+Groq,allam-2-7b,1737672203.0,SDAIA,2.71,4.06
 Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,0.35,0.4
+Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
 Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.13,1.7
-Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
-Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
-Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.53,2.3
 Groq,openai/gpt-oss-20b,1754407957.0,OpenAI,1.75,2.63
+Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
+Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
+Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
+Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
+Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.53,2.3
 Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,2.51,3.77
+Groq,whisper-large-v3-turbo,1728413088.0,OpenAI,0.63,0.95
+Groq,groq/compound,1756949530.0,Groq,1.48,2.21
 Groq,meta-llama/llama-prompt-guard-2-86m,1748632165.0,Meta,0.18,0.28
 OpenAI,gpt-4o,,,2.5,10.0
 OpenAI,gpt-4o-mini,,,2.5,10.0
