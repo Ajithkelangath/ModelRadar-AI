@@ -1,29 +1,29 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-x-ai/grok-build-0.1,OpenRouter,0.6597,196.2,0.6597,0.6597
-google/gemini-3.5-flash,OpenRouter,0.8527,575.95,0.8527,0.8527
-anthropic/claude-opus-4.7-fast,OpenRouter,0.9427,64.14,0.9427,0.9427
-perceptron/perceptron-mk1,OpenRouter,0.6597,196.2,0.6597,0.6597
-inclusionai/ring-2.6-1t,OpenRouter,0.6597,196.2,0.6597,0.6597
-google/gemini-3.1-flash-lite,OpenRouter,0.8167,594.4,0.8167,0.8167
-baidu/cobuddy:free,OpenRouter,0.6597,196.2,0.6597,0.6597
-openai/gpt-chat-latest,OpenRouter,0.6597,196.2,0.6597,0.6597
-x-ai/grok-4.3,OpenRouter,0.6597,196.2,0.6597,0.6597
-ibm-granite/granite-4.1-8b,OpenRouter,0.6597,196.19,0.6597,0.6597
-nousresearch/hermes-3-llama-3.1-405b,OpenRouter,0.99,61.08,0.99,0.99
-mistralai/devstral-medium,OpenRouter,0.6597,196.19,0.6597,0.6597
-snowflake/arctic-embed-l,NVIDIA NIM,0.6597,196.19,0.6597,0.6597
-openai/gpt-5.2-pro,OpenRouter,0.6597,196.19,0.6597,0.6597
-deepseek/deepseek-r1-distill-llama-70b,OpenRouter,0.6597,196.19,0.6597,0.6597
-openrouter/owl-alpha,OpenRouter,0.6597,196.19,0.6597,0.6597
-z-ai/glm-5v-turbo,OpenRouter,0.6597,196.19,0.6597,0.6597
-azureml://registries/azureml-cohere/models/Cohere-embed-v3-multilingual/versions/3,GitHub Models,0.6597,196.19,0.6597,0.6597
-moonshotai/kimi-k2.5,Novita AI,0.6597,196.18,0.6597,0.6597
-meta/llama-3.1-70b-instruct,NVIDIA NIM,0.8657,311.98,0.8657,0.8657
-~openai/gpt-mini-latest,OpenRouter,0.8497,577.26,0.8497,0.8497
-~google/gemini-pro-latest,OpenRouter,0.8307,586.91,0.8307,0.8307
-~google/gemini-flash-latest,OpenRouter,0.8407,581.78,0.8407,0.8407
-qwen/qwen3.6-flash,OpenRouter,0.8097,597.94,0.8097,0.8097
-deepseek/deepseek-v4-flash:free,OpenRouter,0.8027,601.71,0.8027,0.8027
-deepseek/deepseek-v4-flash,OpenRouter,0.8567,573.74,0.8567,0.8567
-inclusionai/ling-2.6-flash,OpenRouter,0.8397,582.25,0.8397,0.8397
-minimax/minimax-m2.7,OpenRouter,0.8497,577.2,0.8498,0.8498
+qwen/qwen3.7-max,OpenRouter,0.6546,198.17,0.6546,0.6546
+x-ai/grok-build-0.1,OpenRouter,0.6546,198.17,0.6546,0.6546
+google/gemini-3.5-flash,OpenRouter,0.8316,601.76,0.8316,0.8316
+anthropic/claude-opus-4.7-fast,OpenRouter,0.9246,65.16,0.9246,0.9246
+perceptron/perceptron-mk1,OpenRouter,0.6546,198.16,0.6546,0.6546
+inclusionai/ring-2.6-1t,OpenRouter,0.6546,198.16,0.6546,0.6546
+google/gemini-3.1-flash-lite,OpenRouter,0.7666,639.22,0.7666,0.7666
+baidu/cobuddy:free,OpenRouter,0.6546,198.16,0.6546,0.6546
+openai/gpt-chat-latest,OpenRouter,0.6546,198.16,0.6546,0.6546
+x-ai/grok-4.3,OpenRouter,0.6546,198.16,0.6546,0.6546
+amazon/nova-premier-v1,OpenRouter,0.6547,198.16,0.6547,0.6547
+qwen/qwen3-30b-a3b-fp8,Novita AI,0.6547,198.16,0.6547,0.6547
+meta-llama/Meta-Llama-3-70B-Instruct,DeepInfra,0.6547,198.15,0.6547,0.6547
+openai/gpt-5-pro,OpenRouter,0.6547,198.15,0.6547,0.6547
+z-ai/glm-4.7-flash,OpenRouter,0.7777,632.46,0.7777,0.7777
+essentialai/rnj-1-instruct,OpenRouter,0.6547,198.15,0.6547,0.6547
+xiaomi/mimo-v2-omni,OpenRouter,0.6547,198.15,0.6547,0.6547
+stepfun-ai/step-3.5-flash,NVIDIA NIM,0.8307,602.15,0.8307,0.8307
+google/gemma-4-31b-it,NVIDIA NIM,0.8127,612.09,0.8127,0.8127
+deepseek/deepseek-r1,OpenRouter,0.6547,198.15,0.6547,0.6547
+~openai/gpt-mini-latest,OpenRouter,0.7557,645.87,0.7557,0.7557
+~google/gemini-pro-latest,OpenRouter,0.8207,607.59,0.8207,0.8207
+~google/gemini-flash-latest,OpenRouter,0.7937,622.91,0.7937,0.7937
+qwen/qwen3.6-flash,OpenRouter,0.7797,631.16,0.7797,0.7797
+deepseek/deepseek-v4-flash:free,OpenRouter,0.7617,642.09,0.7617,0.7617
+deepseek/deepseek-v4-flash,OpenRouter,0.7757,633.53,0.7757,0.7757
+inclusionai/ling-2.6-flash,OpenRouter,0.7547,646.42,0.7547,0.7547
+minimax/minimax-m2.7,OpenRouter,0.7867,626.96,0.7867,0.7867
