@@ -1,27 +1,28 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-minimax/minimax-m3,OpenRouter,0.8138,611.19,0.8138,0.8138
-stepfun/step-3.7-flash,OpenRouter,0.8288,602.89,0.8288,0.8288
-anthropic/claude-opus-4.8-fast,OpenRouter,0.9318,64.71,0.9318,0.9318
-anthropic/claude-opus-4.8,OpenRouter,0.9728,62.24,0.9728,0.9728
-qwen/qwen3.7-max,OpenRouter,0.6548,198.11,0.6548,0.6548
-x-ai/grok-build-0.1,OpenRouter,0.6548,198.11,0.6548,0.6548
-google/gemini-3.5-flash,OpenRouter,0.8518,590.55,0.8518,0.8518
-anthropic/claude-opus-4.7-fast,OpenRouter,0.9408,64.15,0.9408,0.9408
-openrouter/fusion,OpenRouter,0.6548,198.1,0.6548,0.6548
-perceptron/perceptron-mk1,OpenRouter,0.6548,198.1,0.6548,0.6548
-qwen/qwen3.6-flash,OpenRouter,0.7688,637.36,0.7688,0.7688
-nvidia/nemotron-3-super-120b-a12b,NVIDIA NIM,0.6548,198.1,0.6548,0.6548
-nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,OpenRouter,0.6548,198.1,0.6548,0.6548
-openai/gpt-4o-2024-08-06,OpenRouter,0.9838,61.6,0.9838,0.9838
-qwen/qwen-plus-2025-07-28,OpenRouter,0.6548,198.09,0.6548,0.6548
-nousresearch/hermes-3-llama-3.1-405b,OpenRouter,0.9238,65.22,0.9238,0.9238
-qwen/qwen3-coder-flash,OpenRouter,0.8088,613.82,0.8088,0.8088
-nvidia/nv-embed-v1,NVIDIA NIM,0.6548,198.09,0.6548,0.6548
-mistralai/devstral-2512,OpenRouter,0.6548,198.09,0.6548,0.6548
-zai-org/glm-5-turbo,Novita AI,0.6548,198.09,0.6548,0.6548
-google/gemini-3.1-flash-lite,OpenRouter,0.8278,603.22,0.8278,0.8278
-~openai/gpt-mini-latest,OpenRouter,0.7548,645.87,0.7548,0.7548
-~google/gemini-pro-latest,OpenRouter,0.7768,632.38,0.7768,0.7768
-~google/gemini-flash-latest,OpenRouter,0.7878,625.84,0.7878,0.7878
-deepseek/deepseek-v4-flash,OpenRouter,0.7948,621.74,0.7948,0.7948
-inclusionai/ling-2.6-flash,OpenRouter,0.7578,643.95,0.7578,0.7578
+qwen/qwen3.7-plus,OpenRouter,0.6563,197.5,0.6563,0.6563
+minimax/minimax-m3,OpenRouter,0.7663,633.57,0.7663,0.7663
+stepfun/step-3.7-flash,OpenRouter,0.7713,630.56,0.7713,0.7713
+anthropic/claude-opus-4.8-fast,OpenRouter,0.9753,62.12,0.9753,0.9753
+anthropic/claude-opus-4.8,OpenRouter,0.9693,62.47,0.9693,0.9693
+qwen/qwen3.7-max,OpenRouter,0.6563,197.49,0.6563,0.6563
+x-ai/grok-build-0.1,OpenRouter,0.6563,197.49,0.6564,0.6564
+google/gemini-3.5-flash,OpenRouter,0.8094,608.63,0.8094,0.8094
+anthropic/claude-opus-4.7-fast,OpenRouter,0.99,60.43,0.99,0.99
+openrouter/fusion,OpenRouter,0.6564,197.49,0.6564,0.6564
+azureml://registries/azureml-meta/models/Meta-Llama-3.1-405B-Instruct/versions/1,GitHub Models,0.9584,63.12,0.9584,0.9584
+gt-4p,Novita AI,0.6564,197.49,0.6564,0.6564
+inclusionai/ling-2.6-1t,OpenRouter,0.6564,197.48,0.6564,0.6564
+writer/palmyra-x5,OpenRouter,0.6564,197.48,0.6564,0.6564
+allenai/olmo-3-32b-think,OpenRouter,0.6564,197.48,0.6564,0.6564
+z-ai/glm-5.1,OpenRouter,0.6564,197.48,0.6564,0.6564
+openai/gpt-5.2,OpenRouter,0.6564,197.48,0.6564,0.6564
+anthropic/claude-sonnet-4,OpenRouter,0.99,60.65,0.99,0.99
+nv-mistralai/mistral-nemo-12b-instruct,NVIDIA NIM,0.6564,197.48,0.6564,0.6564
+qwen/qwen3-coder-480b-a35b-instruct,Novita AI,0.6564,197.48,0.6564,0.6564
+google/gemini-3.1-flash-lite,OpenRouter,0.8264,599.18,0.8264,0.8264
+~openai/gpt-mini-latest,OpenRouter,0.8084,609.02,0.8084,0.8084
+~google/gemini-pro-latest,OpenRouter,0.7644,634.52,0.7644,0.7644
+~google/gemini-flash-latest,OpenRouter,0.8524,585.47,0.8524,0.8524
+qwen/qwen3.6-flash,OpenRouter,0.8424,590.65,0.8424,0.8424
+deepseek/deepseek-v4-flash,OpenRouter,0.7914,618.59,0.7914,0.7914
+inclusionai/ling-2.6-flash,OpenRouter,0.8084,608.97,0.8084,0.8084
