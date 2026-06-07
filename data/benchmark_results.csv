@@ -1,29 +1,29 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-nvidia/nemotron-3.5-content-safety:free,OpenRouter,0.6509,199.64,0.6509,0.6509
-nvidia/nemotron-3-ultra-550b-a55b:free,OpenRouter,0.6509,199.64,0.6509,0.6509
-nvidia/nemotron-3-ultra-550b-a55b,OpenRouter,0.6509,199.63,0.6509,0.6509
-qwen/qwen3.7-plus,OpenRouter,0.6509,199.63,0.6509,0.6509
-minimax/minimax-m3,OpenRouter,0.7869,639.71,0.7869,0.7869
-stepfun/step-3.7-flash,OpenRouter,0.7569,658.66,0.7569,0.7569
-anthropic/claude-opus-4.8-fast,OpenRouter,0.99,60.74,0.99,0.99
-anthropic/claude-opus-4.8,OpenRouter,0.9019,66.56,0.9019,0.9019
-qwen/qwen3.7-max,OpenRouter,0.6509,199.63,0.6509,0.6509
-x-ai/grok-build-0.1,OpenRouter,0.6509,199.63,0.6509,0.6509
-qwen/qwen3-vl-8b-instruct,OpenRouter,0.6509,199.63,0.6509,0.6509
-qwen/qwen3.6-35b-a3b,OpenRouter,0.6509,199.62,0.6509,0.6509
-baidu/cobuddy,Novita AI,0.6509,199.62,0.6509,0.6509
-google/gemini-3.1-flash-image-preview,OpenRouter,0.8429,606.99,0.8429,0.8429
-z-ai/glm-4.5v,OpenRouter,0.6509,199.62,0.6509,0.6509
-sao10k/l3.1-euryale-70b,OpenRouter,0.651,199.62,0.651,0.651
-google/gemma-3-12b-it,Novita AI,0.843,606.96,0.843,0.843
-openai/gpt-oss-20b,Groq,1.0,507.41,0.5,0.5
-google/gemma-4-31b-it,Novita AI,0.8211,618.63,0.8211,0.8211
-gpt-4o-mini,Aimbase,0.9561,63.15,0.9562,0.9562
-google/gemini-3.5-flash,OpenRouter,0.8102,624.99,0.8102,0.8102
-google/gemini-3.1-flash-lite,OpenRouter,0.8002,630.89,0.8002,0.8002
-~openai/gpt-mini-latest,OpenRouter,0.8342,611.21,0.8342,0.8342
-~google/gemini-pro-latest,OpenRouter,0.8272,615.15,0.8272,0.8272
-~google/gemini-flash-latest,OpenRouter,0.7592,656.32,0.7592,0.7592
-qwen/qwen3.6-flash,OpenRouter,0.8102,624.93,0.8102,0.8102
-deepseek/deepseek-v4-flash,OpenRouter,0.7932,635.04,0.7932,0.7932
-inclusionai/ling-2.6-flash,OpenRouter,0.7902,636.85,0.7902,0.7902
+nvidia/nemotron-3.5-content-safety:free,OpenRouter,0.659,196.46,0.659,0.659
+nvidia/nemotron-3-ultra-550b-a55b:free,OpenRouter,0.659,196.46,0.659,0.659
+nvidia/nemotron-3-ultra-550b-a55b,OpenRouter,0.659,196.46,0.659,0.659
+qwen/qwen3.7-plus,OpenRouter,0.659,196.46,0.659,0.659
+minimax/minimax-m3,OpenRouter,0.797,607.1,0.797,0.797
+stepfun/step-3.7-flash,OpenRouter,0.795,608.2,0.795,0.795
+anthropic/claude-opus-4.8-fast,OpenRouter,0.943,64.1,0.943,0.943
+anthropic/claude-opus-4.8,OpenRouter,0.985,61.61,0.985,0.985
+qwen/qwen3.7-max,OpenRouter,0.659,196.45,0.659,0.659
+x-ai/grok-build-0.1,OpenRouter,0.659,196.45,0.659,0.659
+azureml://registries/azure-openai/models/text-embedding-3-small/versions/1,GitHub Models,0.818,595.65,0.818,0.818
+upstage/solar-pro-3,OpenRouter,0.659,196.45,0.659,0.659
+bytedance-seed/seed-1.6-flash,OpenRouter,0.8,605.36,0.8,0.8
+qwen/qwen3-max-thinking,OpenRouter,0.659,196.45,0.659,0.659
+zai-org/glm-ocr,Novita AI,0.659,196.45,0.659,0.659
+ai_infer_test_2,Novita AI,0.659,196.44,0.659,0.659
+deepseek/deepseek-v3.1-terminus,Novita AI,0.659,196.44,0.6591,0.6591
+sao10k/l3-70b-euryale-v2.1,Novita AI,0.6591,196.44,0.6591,0.6591
+nvidia/ising-calibration-1-35b-a3b,NVIDIA NIM,0.6591,196.44,0.6591,0.6591
+openai/o3-deep-research,OpenRouter,0.6591,196.44,0.6591,0.6591
+google/gemini-3.5-flash,OpenRouter,0.8031,603.63,0.8031,0.8031
+google/gemini-3.1-flash-lite,OpenRouter,0.8001,605.27,0.8001,0.8001
+~openai/gpt-mini-latest,OpenRouter,0.8041,603.07,0.8041,0.8041
+~google/gemini-pro-latest,OpenRouter,0.8111,599.26,0.8111,0.8111
+~google/gemini-flash-latest,OpenRouter,0.7911,610.22,0.7911,0.7911
+qwen/qwen3.6-flash,OpenRouter,0.8441,581.98,0.8441,0.8441
+deepseek/deepseek-v4-flash,OpenRouter,0.8071,601.39,0.8071,0.8071
+inclusionai/ling-2.6-flash,OpenRouter,0.7811,615.82,0.7811,0.7811
