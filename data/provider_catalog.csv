@@ -185,7 +185,6 @@ OpenRouter,qwen/qwen3-next-80b-a3b-instruct,1757612213.0,,0.35,0.4
 OpenRouter,qwen/qwen-plus-2025-07-28:thinking,1757347599.0,,0.35,0.4
 OpenRouter,qwen/qwen-plus-2025-07-28,1757347599.0,,0.35,0.4
 OpenRouter,nvidia/nemotron-nano-9b-v2:free,1757106807.0,,0.6,0.6
-OpenRouter,nvidia/nemotron-nano-9b-v2,1757106807.0,,0.6,0.6
 OpenRouter,moonshotai/kimi-k2-0905,1757021147.0,,1.78,2.67
 OpenRouter,qwen/qwen3-30b-a3b-thinking-2507,1756399192.0,,0.35,0.4
 OpenRouter,nousresearch/hermes-4-70b,1756236182.0,,0.78,1.17
@@ -467,22 +466,10 @@ NVIDIA NIM,z-ai/glm-5.1,735790403.0,z-ai,1.0,1.5
 NVIDIA NIM,zyphra/zamba2-7b-instruct,735790403.0,zyphra,0.22,0.33
 Cerebras,llama3.1-70b,,,3.26,4.89
 Cerebras,llama3.1-8b,,,2.93,4.4
-Groq,groq/compound,1756949530.0,Groq,1.48,2.21
-Groq,openai/gpt-oss-120b,1754408224.0,OpenAI,1.53,2.3
-Groq,canopylabs/orpheus-arabic-saudi,1765926439.0,Canopy Labs,2.66,3.99
-Groq,canopylabs/orpheus-v1-english,1766186316.0,Canopy Labs,2.51,3.77
-Groq,openai/gpt-oss-safeguard-20b,1761708789.0,OpenAI,3.92,5.88
-Groq,llama-3.1-8b-instant,1693721698.0,Meta,0.05,0.08
-Groq,qwen/qwen3-32b,1748396646.0,Alibaba Cloud,0.35,0.4
-Groq,allam-2-7b,1737672203.0,SDAIA,2.71,4.06
-Groq,meta-llama/llama-prompt-guard-2-86m,1748632165.0,Meta,0.18,0.28
-Groq,groq/compound-mini,1756949707.0,Groq,2.76,4.13
-Groq,llama-3.3-70b-versatile,1733447754.0,Meta,3.92,5.88
-Groq,meta-llama/llama-prompt-guard-2-22m,1748632101.0,Meta,4.51,6.76
-Groq,openai/gpt-oss-20b,1754407957.0,OpenAI,1.75,2.63
-Groq,whisper-large-v3-turbo,1728413088.0,OpenAI,0.63,0.95
-Groq,meta-llama/llama-4-scout-17b-16e-instruct,1743874824.0,Meta,1.13,1.7
-Groq,whisper-large-v3,1693721698.0,OpenAI,0.54,0.81
+Groq,llama-3.1-70b-versatile,,,0.59,0.79
+Groq,llama-3.1-8b-instant,,,0.05,0.08
+Groq,mixtral-8x7b-32768,,,0.24,0.24
+Groq,gemma2-9b-it,,,0.2,0.2
 OpenAI,gpt-4o,,,2.5,10.0
 OpenAI,gpt-4o-mini,,,2.5,10.0
 OpenAI,gpt-3.5-turbo,,,0.5,1.5
@@ -504,6 +491,7 @@ Novita AI,minimax/minimax-m3,1780282959.0,unknown,0.5,0.5
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,unknown,0.39,0.58
 Novita AI,deepseek/deepseek-v4-flash,1777001037.0,unknown,1.61,2.41
 Novita AI,deepseek/deepseek-v3.2,1764588967.0,unknown,0.12,0.19
+Novita AI,stepfun/step-3.7-flash,1781231066.0,unknown,1.43,2.15
 Novita AI,nvidia/nemotron-3-nano-30b-a3b,1781004459.0,unknown,0.6,0.6
 Novita AI,baidu/cobuddy,1780454207.0,unknown,0.16,0.24
 Novita AI,xiaomimimo/mimo-v2.5,1780040346.0,unknown,0.15,0.15
