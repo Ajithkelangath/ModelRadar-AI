@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,moonshotai/kimi-k2.7-code,1781266361.0,,0.85,1.27
 OpenRouter,~anthropic/claude-fable-latest,1781029944.0,,4.6,6.9
 OpenRouter,anthropic/claude-fable-5,1781007515.0,,4.91,7.36
 OpenRouter,nex-agi/nex-n2-pro:free,1780937140.0,,4.01,6.01
@@ -263,7 +264,6 @@ OpenRouter,perplexity/sonar-reasoning-pro,1741313308.0,,2.73,4.1
 OpenRouter,perplexity/sonar-pro,1741312423.0,,1.44,2.16
 OpenRouter,perplexity/sonar-deep-research,1741311246.0,,4.92,7.37
 OpenRouter,mistralai/mistral-saba,1739803239.0,,0.12,0.18
-OpenRouter,meta-llama/llama-guard-3-8b,1739401318.0,,1.22,1.83
 OpenRouter,openai/o3-mini-high,1739372611.0,,4.73,7.09
 OpenRouter,aion-labs/aion-1.0,1738697557.0,,4.06,6.1
 OpenRouter,aion-labs/aion-1.0-mini,1738697107.0,,2.87,4.31
@@ -389,6 +389,7 @@ NVIDIA NIM,microsoft/phi-3.5-moe-instruct,735790403.0,microsoft,0.1,0.1
 NVIDIA NIM,microsoft/phi-4-mini-instruct,735790403.0,microsoft,1.67,2.51
 NVIDIA NIM,microsoft/phi-4-multimodal-instruct,735790403.0,microsoft,4.64,6.96
 NVIDIA NIM,minimaxai/minimax-m2.7,735790403.0,minimaxai,0.5,0.5
+NVIDIA NIM,minimaxai/minimax-m3,735790403.0,minimaxai,0.5,0.5
 NVIDIA NIM,mistralai/codestral-22b-instruct-v0.1,735790403.0,mistralai,2.23,3.34
 NVIDIA NIM,mistralai/ministral-14b-instruct-2512,735790403.0,mistralai,0.27,0.41
 NVIDIA NIM,mistralai/mistral-7b-instruct-v0.3,735790403.0,mistralai,4.4,6.6
@@ -491,6 +492,7 @@ Novita AI,minimax/minimax-m3,1780282959.0,unknown,0.5,0.5
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,unknown,0.39,0.58
 Novita AI,deepseek/deepseek-v4-flash,1777001037.0,unknown,1.61,2.41
 Novita AI,deepseek/deepseek-v3.2,1764588967.0,unknown,0.12,0.19
+Novita AI,moonshotai/kimi-k2.7-code,1781260548.0,unknown,0.85,1.27
 Novita AI,stepfun/step-3.7-flash,1781231066.0,unknown,1.43,2.15
 Novita AI,nvidia/nemotron-3-nano-30b-a3b,1781004459.0,unknown,0.6,0.6
 Novita AI,baidu/cobuddy,1780454207.0,unknown,0.16,0.24
