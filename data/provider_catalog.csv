@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,openrouter/fusion,1781371647.0,,2.77,4.16
 OpenRouter,moonshotai/kimi-k2.7-code,1781266361.0,,0.85,1.27
 OpenRouter,~anthropic/claude-fable-latest,1781029944.0,,4.6,6.9
 OpenRouter,anthropic/claude-fable-5,1781007515.0,,4.91,7.36
@@ -15,7 +16,6 @@ OpenRouter,qwen/qwen3.7-max,1779376861.0,,0.35,0.4
 OpenRouter,x-ai/grok-build-0.1,1779298123.0,,1.76,2.64
 OpenRouter,google/gemini-3.5-flash,1779193800.0,,1.56,2.34
 OpenRouter,anthropic/claude-opus-4.7-fast,1778613011.0,,3.99,5.98
-OpenRouter,openrouter/fusion,1778603606.0,,2.77,4.16
 OpenRouter,perceptron/perceptron-mk1,1778597029.0,,2.51,3.76
 OpenRouter,inclusionai/ring-2.6-1t,1778247440.0,,4.03,6.04
 OpenRouter,google/gemini-3.1-flash-lite,1778168828.0,,3.91,5.87
