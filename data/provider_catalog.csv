@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,z-ai/glm-5.2,1781631930.0,,1.34,2.01
 OpenRouter,openrouter/fusion,1781371647.0,,2.77,4.16
 OpenRouter,moonshotai/kimi-k2.7-code,1781266361.0,,0.85,1.27
 OpenRouter,~anthropic/claude-fable-latest,1781029944.0,,4.6,6.9
@@ -272,7 +273,6 @@ OpenRouter,qwen/qwen2.5-vl-72b-instruct,1738410311.0,,0.35,0.4
 OpenRouter,qwen/qwen-plus,1738409840.0,,0.35,0.4
 OpenRouter,openai/o3-mini,1738351721.0,,1.29,1.93
 OpenRouter,mistralai/mistral-small-24b-instruct-2501,1738255409.0,,2.52,3.78
-OpenRouter,deepseek/deepseek-r1-distill-qwen-32b,1738194830.0,,0.35,0.4
 OpenRouter,perplexity/sonar,1738013808.0,,2.44,3.66
 OpenRouter,deepseek/deepseek-r1-distill-llama-70b,1737663169.0,,1.79,2.68
 OpenRouter,deepseek/deepseek-r1,1737381095.0,,0.8,1.2
@@ -488,6 +488,7 @@ DeepSeek,deepseek-chat,,,0.14,0.28
 DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
+Novita AI,zai-org/glm-5.2,1781262235.0,unknown,4.69,7.03
 Novita AI,moonshotai/kimi-k2.7-code,1781260548.0,unknown,0.85,1.27
 Novita AI,minimax/minimax-m3,1780282959.0,unknown,0.5,0.5
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,unknown,0.39,0.58
