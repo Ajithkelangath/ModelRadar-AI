@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,google/gemini-3.1-flash-image,1781754065.0,,1.11,1.67
+OpenRouter,google/gemini-3-pro-image,1781754054.0,,3.15,4.73
 OpenRouter,cohere/north-mini-code:free,1781723748.0,,0.2,0.3
 OpenRouter,z-ai/glm-5.2,1781631930.0,,1.34,2.01
 OpenRouter,openrouter/fusion,1781371647.0,,2.77,4.16
@@ -28,7 +30,9 @@ OpenRouter,mistralai/mistral-medium-3-5,1777570439.0,,4.97,7.46
 OpenRouter,openrouter/owl-alpha,1777398589.0,,1.03,1.54
 OpenRouter,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,1777393095.0,,0.6,0.6
 OpenRouter,poolside/laguna-xs.2:free,1777389604.0,,2.04,3.06
+OpenRouter,poolside/laguna-xs.2,1777389604.0,,3.98,5.97
 OpenRouter,poolside/laguna-m.1:free,1777388504.0,,1.61,2.41
+OpenRouter,poolside/laguna-m.1,1777388504.0,,2.95,4.43
 OpenRouter,~anthropic/claude-haiku-latest,1777318492.0,,3.01,4.52
 OpenRouter,~openai/gpt-mini-latest,1777318471.0,,4.27,6.4
 OpenRouter,~google/gemini-pro-latest,1777318451.0,,0.17,0.26
