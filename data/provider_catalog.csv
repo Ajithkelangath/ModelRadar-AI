@@ -299,13 +299,13 @@ OpenRouter,thedrummer/unslopnemo-12b,1731103448.0,,4.53,6.79
 OpenRouter,anthropic/claude-3.5-haiku,1730678400.0,,0.19,0.29
 OpenRouter,anthracite-org/magnum-v4-72b,1729555200.0,,4.84,7.26
 OpenRouter,qwen/qwen-2.5-7b-instruct,1729036800.0,,0.35,0.4
-OpenRouter,inflection/inflection-3-pi,1728604800.0,,0.95,1.43
 OpenRouter,inflection/inflection-3-productivity,1728604800.0,,4.59,6.88
+OpenRouter,inflection/inflection-3-pi,1728604800.0,,0.95,1.43
 OpenRouter,thedrummer/rocinante-12b,1727654400.0,,1.54,2.32
 OpenRouter,meta-llama/llama-3.2-3b-instruct:free,1727222400.0,,3.62,5.43
 OpenRouter,meta-llama/llama-3.2-3b-instruct,1727222400.0,,0.71,1.06
-OpenRouter,meta-llama/llama-3.2-11b-vision-instruct,1727222400.0,,0.67,1.01
 OpenRouter,meta-llama/llama-3.2-1b-instruct,1727222400.0,,0.96,1.45
+OpenRouter,meta-llama/llama-3.2-11b-vision-instruct,1727222400.0,,0.67,1.01
 OpenRouter,qwen/qwen-2.5-72b-instruct,1726704000.0,,0.35,0.4
 OpenRouter,cohere/command-r-plus-08-2024,1724976000.0,,2.76,4.14
 OpenRouter,cohere/command-r-08-2024,1724976000.0,,1.13,1.7
@@ -318,8 +318,8 @@ OpenRouter,openai/gpt-4o-2024-08-06,1722902400.0,,2.5,10.0
 OpenRouter,meta-llama/llama-3.1-8b-instruct,1721692800.0,,0.97,1.45
 OpenRouter,meta-llama/llama-3.1-70b-instruct,1721692800.0,,1.51,2.26
 OpenRouter,mistralai/mistral-nemo,1721347200.0,,2.22,3.33
-OpenRouter,openai/gpt-4o-mini,1721260800.0,,2.5,10.0
 OpenRouter,openai/gpt-4o-mini-2024-07-18,1721260800.0,,2.5,10.0
+OpenRouter,openai/gpt-4o-mini,1721260800.0,,2.5,10.0
 OpenRouter,google/gemma-2-27b-it,1720828800.0,,2.46,3.69
 OpenRouter,openai/gpt-4o-2024-05-13,1715558400.0,,2.5,10.0
 OpenRouter,openai/gpt-4o,1715558400.0,,2.5,10.0
