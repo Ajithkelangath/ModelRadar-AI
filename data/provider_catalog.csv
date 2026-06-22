@@ -8,6 +8,7 @@ OpenRouter,moonshotai/kimi-k2.7-code,1781266361.0,,0.85,1.27
 OpenRouter,~anthropic/claude-fable-latest,1781029944.0,,4.6,6.9
 OpenRouter,anthropic/claude-fable-5,1781007515.0,,4.91,7.36
 OpenRouter,nex-agi/nex-n2-pro:free,1780937140.0,,4.01,6.01
+OpenRouter,nex-agi/nex-n2-pro,1780937140.0,,1.66,2.5
 OpenRouter,nvidia/nemotron-3.5-content-safety:free,1780581864.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3-ultra-550b-a55b:free,1780551208.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3-ultra-550b-a55b,1780551208.0,,0.6,0.6
@@ -296,7 +297,6 @@ OpenRouter,openai/gpt-4o-2024-11-20,1732127594.0,,2.5,10.0
 OpenRouter,mistralai/mistral-large-2407,1731978415.0,,3.21,4.82
 OpenRouter,qwen/qwen-2.5-coder-32b-instruct,1731368400.0,,0.35,0.4
 OpenRouter,thedrummer/unslopnemo-12b,1731103448.0,,4.53,6.79
-OpenRouter,anthropic/claude-3.5-haiku,1730678400.0,,0.19,0.29
 OpenRouter,anthracite-org/magnum-v4-72b,1729555200.0,,4.84,7.26
 OpenRouter,qwen/qwen-2.5-7b-instruct,1729036800.0,,0.35,0.4
 OpenRouter,inflection/inflection-3-productivity,1728604800.0,,4.59,6.88
