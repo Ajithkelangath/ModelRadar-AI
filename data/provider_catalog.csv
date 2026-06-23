@@ -7,7 +7,6 @@ OpenRouter,openrouter/fusion,1781371647.0,,2.77,4.16
 OpenRouter,moonshotai/kimi-k2.7-code,1781266361.0,,0.85,1.27
 OpenRouter,~anthropic/claude-fable-latest,1781029944.0,,4.6,6.9
 OpenRouter,anthropic/claude-fable-5,1781007515.0,,4.91,7.36
-OpenRouter,nex-agi/nex-n2-pro:free,1780937140.0,,4.01,6.01
 OpenRouter,nex-agi/nex-n2-pro,1780937140.0,,1.66,2.5
 OpenRouter,nvidia/nemotron-3.5-content-safety:free,1780581864.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3-ultra-550b-a55b:free,1780551208.0,,0.6,0.6
@@ -67,6 +66,7 @@ OpenRouter,google/gemma-4-26b-a4b-it,1775227989.0,,3.31,4.97
 OpenRouter,google/gemma-4-31b-it:free,1775148486.0,,4.06,6.09
 OpenRouter,google/gemma-4-31b-it,1775148486.0,,2.94,4.41
 OpenRouter,qwen/qwen3.6-plus,1775133557.0,,0.35,0.4
+OpenRouter,z-ai/glm-5v-turbo,1775061458.0,,4.14,6.21
 OpenRouter,arcee-ai/trinity-large-thinking,1775058318.0,,0.0,0.0
 OpenRouter,x-ai/grok-4.20-multi-agent,1774979158.0,,2.68,4.03
 OpenRouter,x-ai/grok-4.20,1774979019.0,,2.04,3.07
@@ -548,7 +548,6 @@ Novita AI,deepseek/deepseek-v3.1-terminus,1758549812.0,unknown,3.8,5.7
 Novita AI,qwen/qwen3-vl-235b-a22b-instruct,1758695214.0,unknown,0.35,0.4
 Novita AI,qwen/qwen3-max,1758682246.0,unknown,0.35,0.4
 Novita AI,nex-agi/nex-n2-pro,1780541483.0,unknown,1.66,2.5
-Novita AI,zai-org/glm-ocr,1770172705.0,unknown,4.99,7.49
 Novita AI,deepseek/deepseek-v3.1,1755759094.0,unknown,4.73,7.1
 Novita AI,moonshotai/kimi-k2-0905,1757052991.0,unknown,1.78,2.67
 Novita AI,qwen/qwen3-coder-480b-a35b-instruct,1753233789.0,unknown,0.35,0.4
