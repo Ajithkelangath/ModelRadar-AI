@@ -60,7 +60,6 @@ OpenRouter,~anthropic/claude-opus-latest,1776795361.0,,2.97,4.45
 OpenRouter,openrouter/pareto-code,1776747900.0,,3.83,5.74
 OpenRouter,moonshotai/kimi-k2.6,1776699402.0,,4.09,6.13
 OpenRouter,anthropic/claude-opus-4.7,1776351100.0,,3.44,5.16
-OpenRouter,anthropic/claude-opus-4.6-fast,1775592472.0,,3.78,5.67
 OpenRouter,z-ai/glm-5.1,1775578025.0,,1.0,1.5
 OpenRouter,google/gemma-4-26b-a4b-it:free,1775227989.0,,1.86,2.79
 OpenRouter,google/gemma-4-26b-a4b-it,1775227989.0,,3.31,4.97
