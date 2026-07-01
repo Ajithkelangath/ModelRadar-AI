@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,anthropic/claude-sonnet-5,1782843083.0,,4.47,6.7
+OpenRouter,google/gemini-3.1-flash-lite-image,1782837225.0,,1.07,1.61
 OpenRouter,sakana/fugu-ultra,1782276303.0,,0.73,1.1
 OpenRouter,google/gemini-3.1-flash-image,1781754065.0,,1.11,1.67
 OpenRouter,google/gemini-3-pro-image,1781754054.0,,3.15,4.73
@@ -28,7 +30,6 @@ OpenRouter,openai/gpt-chat-latest,1778000212.0,,4.73,7.09
 OpenRouter,x-ai/grok-4.3,1777591821.0,,2.37,3.56
 OpenRouter,ibm-granite/granite-4.1-8b,1777577071.0,,0.69,1.03
 OpenRouter,mistralai/mistral-medium-3-5,1777570439.0,,4.97,7.46
-OpenRouter,openrouter/owl-alpha,1777398589.0,,1.03,1.54
 OpenRouter,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,1777393095.0,,0.6,0.6
 OpenRouter,poolside/laguna-xs.2:free,1777389604.0,,2.04,3.06
 OpenRouter,poolside/laguna-xs.2,1777389604.0,,3.98,5.97
@@ -158,7 +159,6 @@ OpenRouter,nvidia/nemotron-nano-12b-v2-vl:free,1761675565.0,,0.6,0.6
 OpenRouter,minimax/minimax-m2,1761252093.0,,0.5,0.5
 OpenRouter,qwen/qwen3-vl-32b-instruct,1761231332.0,,0.35,0.4
 OpenRouter,ibm-granite/granite-4.0-h-micro,1760927695.0,,3.16,4.74
-OpenRouter,microsoft/phi-4-mini-instruct,1760726049.0,,1.67,2.51
 OpenRouter,openai/gpt-5-image-mini,1760624583.0,,1.9,2.86
 OpenRouter,anthropic/claude-haiku-4.5,1760547638.0,,2.44,3.65
 OpenRouter,qwen/qwen3-vl-8b-thinking,1760463746.0,,0.35,0.4
@@ -297,13 +297,13 @@ OpenRouter,qwen/qwen-2.5-coder-32b-instruct,1731368400.0,,0.35,0.4
 OpenRouter,thedrummer/unslopnemo-12b,1731103448.0,,4.53,6.79
 OpenRouter,anthracite-org/magnum-v4-72b,1729555200.0,,4.84,7.26
 OpenRouter,qwen/qwen-2.5-7b-instruct,1729036800.0,,0.35,0.4
-OpenRouter,inflection/inflection-3-productivity,1728604800.0,,4.59,6.88
 OpenRouter,inflection/inflection-3-pi,1728604800.0,,0.95,1.43
+OpenRouter,inflection/inflection-3-productivity,1728604800.0,,4.59,6.88
 OpenRouter,thedrummer/rocinante-12b,1727654400.0,,1.54,2.32
-OpenRouter,meta-llama/llama-3.2-3b-instruct:free,1727222400.0,,3.62,5.43
-OpenRouter,meta-llama/llama-3.2-3b-instruct,1727222400.0,,0.71,1.06
 OpenRouter,meta-llama/llama-3.2-1b-instruct,1727222400.0,,0.96,1.45
 OpenRouter,meta-llama/llama-3.2-11b-vision-instruct,1727222400.0,,0.67,1.01
+OpenRouter,meta-llama/llama-3.2-3b-instruct:free,1727222400.0,,3.62,5.43
+OpenRouter,meta-llama/llama-3.2-3b-instruct,1727222400.0,,0.71,1.06
 OpenRouter,qwen/qwen-2.5-72b-instruct,1726704000.0,,0.35,0.4
 OpenRouter,cohere/command-r-08-2024,1724976000.0,,1.13,1.7
 OpenRouter,cohere/command-r-plus-08-2024,1724976000.0,,2.76,4.14
@@ -316,8 +316,8 @@ OpenRouter,openai/gpt-4o-2024-08-06,1722902400.0,,2.5,10.0
 OpenRouter,meta-llama/llama-3.1-8b-instruct,1721692800.0,,0.97,1.45
 OpenRouter,meta-llama/llama-3.1-70b-instruct,1721692800.0,,1.51,2.26
 OpenRouter,mistralai/mistral-nemo,1721347200.0,,2.22,3.33
-OpenRouter,openai/gpt-4o-mini,1721260800.0,,2.5,10.0
 OpenRouter,openai/gpt-4o-mini-2024-07-18,1721260800.0,,2.5,10.0
+OpenRouter,openai/gpt-4o-mini,1721260800.0,,2.5,10.0
 OpenRouter,google/gemma-2-27b-it,1720828800.0,,2.46,3.69
 OpenRouter,openai/gpt-4o-2024-05-13,1715558400.0,,2.5,10.0
 OpenRouter,openai/gpt-4o,1715558400.0,,2.5,10.0
@@ -327,8 +327,8 @@ OpenRouter,microsoft/wizardlm-2-8x22b,1713225600.0,,2.74,4.11
 OpenRouter,openai/gpt-4-turbo,1712620800.0,,1.1,1.65
 OpenRouter,anthropic/claude-3-haiku,1710288000.0,,3.95,5.92
 OpenRouter,mistralai/mistral-large,1708905600.0,,4.44,6.66
-OpenRouter,openai/gpt-4-turbo-preview,1706140800.0,,2.59,3.89
 OpenRouter,openai/gpt-3.5-turbo-0613,1706140800.0,,0.5,1.5
+OpenRouter,openai/gpt-4-turbo-preview,1706140800.0,,2.59,3.89
 OpenRouter,openrouter/auto,1699401600.0,,2.91,4.37
 OpenRouter,openai/gpt-3.5-turbo-instruct,1695859200.0,,0.5,1.5
 OpenRouter,openai/gpt-3.5-turbo-16k,1693180800.0,,0.5,1.5
