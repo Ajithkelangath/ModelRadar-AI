@@ -464,7 +464,6 @@ NVIDIA NIM,writer/palmyra-creative-122b,735790403.0,writer,4.78,7.17
 NVIDIA NIM,writer/palmyra-fin-70b-32k,735790403.0,writer,2.44,3.65
 NVIDIA NIM,writer/palmyra-med-70b,735790403.0,writer,2.65,3.97
 NVIDIA NIM,writer/palmyra-med-70b-32k,735790403.0,writer,4.54,6.81
-NVIDIA NIM,z-ai/glm-5.1,735790403.0,z-ai,1.0,1.5
 NVIDIA NIM,zyphra/zamba2-7b-instruct,735790403.0,zyphra,0.22,0.33
 Cerebras,llama3.1-70b,,,3.26,4.89
 Cerebras,llama3.1-8b,,,2.93,4.4
