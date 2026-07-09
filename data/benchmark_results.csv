@@ -1,27 +1,29 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-aion-labs/aion-3.0-mini,OpenRouter,0.7753,634.94,0.7753,0.7753
-aion-labs/aion-3.0,OpenRouter,0.6543,198.28,0.6543,0.6543
-tencent/hy3:free,OpenRouter,0.6543,198.27,0.6544,0.6544
-tencent/hy3,OpenRouter,0.6544,198.27,0.6544,0.6544
-poolside/laguna-xs-2.1:free,OpenRouter,0.6544,198.27,0.6544,0.6544
-poolside/laguna-xs-2.1,OpenRouter,0.6544,198.27,0.6544,0.6544
-anthropic/claude-sonnet-5,OpenRouter,0.9454,63.86,0.9454,0.9454
-google/gemini-3.1-flash-lite-image,OpenRouter,0.7644,641.56,0.7644,0.7644
-nex-agi/nex-n2-mini,OpenRouter,0.8034,618.34,0.8034,0.8034
-sakana/fugu-ultra,OpenRouter,0.6544,198.27,0.6544,0.6544
-qwen/qwen3-32b,OpenRouter,0.6544,198.26,0.6544,0.6544
-~anthropic/claude-sonnet-latest,OpenRouter,0.9654,62.66,0.9654,0.9654
-inclusionai/ling-2.6-1t,Novita AI,0.6544,198.26,0.6544,0.6544
-microsoft/phi-4-mini-instruct,NVIDIA NIM,0.8484,593.51,0.8484,0.8484
-nousresearch/hermes-3-llama-3.1-70b,OpenRouter,0.8244,328.52,0.8244,0.8244
-qwen/qwen3.5-35b-a3b,Novita AI,0.6544,198.26,0.6544,0.6544
-nvidia/nemotron-3-ultra-550b-a55b,OpenRouter,0.6544,198.26,0.6544,0.6544
-minimax/minimax-m2.7,Novita AI,0.7794,632.31,0.7794,0.7794
-nvidia/nemotron-nano-12b-v2-vl,NVIDIA NIM,0.6544,198.25,0.6544,0.6544
-google/gemini-3.1-flash-image,OpenRouter,0.8224,607.51,0.8224,0.8224
-google/gemini-3-pro-image,OpenRouter,0.8284,604.19,0.8284,0.8284
-cohere/north-mini-code:free,OpenRouter,0.8514,591.84,0.8514,0.8514
-minimax/minimax-m3,OpenRouter,0.7654,640.75,0.7654,0.7654
-stepfun/step-3.7-flash,OpenRouter,0.7934,623.95,0.7934,0.7934
-google/gemini-3.5-flash,OpenRouter,0.7834,629.83,0.7834,0.7834
-google/gemini-3.1-flash-lite,OpenRouter,0.7844,629.22,0.7844,0.7844
+x-ai/grok-4.5,OpenRouter,0.6546,198.17,0.6546,0.6546
+~x-ai/grok-latest,OpenRouter,0.6546,198.17,0.6546,0.6546
+aion-labs/aion-3.0-mini,OpenRouter,0.7676,638.72,0.7676,0.7676
+aion-labs/aion-3.0,OpenRouter,0.6546,198.17,0.6546,0.6546
+tencent/hy3:free,OpenRouter,0.6546,198.17,0.6546,0.6546
+tencent/hy3,OpenRouter,0.6546,198.17,0.6546,0.6546
+poolside/laguna-xs-2.1:free,OpenRouter,0.6546,198.17,0.6546,0.6546
+poolside/laguna-xs-2.1,OpenRouter,0.6546,198.17,0.6546,0.6546
+anthropic/claude-sonnet-5,OpenRouter,0.9866,61.44,0.9866,0.9866
+google/gemini-3.1-flash-lite-image,OpenRouter,0.7736,634.99,0.7736,0.7736
+x-ai/grok-4.20-multi-agent,OpenRouter,0.6546,198.16,0.6546,0.6546
+nvidia/llama-3.1-nemotron-nano-8b-v1,NVIDIA NIM,0.6546,198.16,0.6546,0.6546
+nvidia/llama-3.1-nemotron-safety-guard-8b-v3,NVIDIA NIM,0.6546,198.16,0.6546,0.6546
+qwen/qwen3.6-27b,OpenRouter,0.6546,198.16,0.6546,0.6546
+deepseek/deepseek-chat-v3-0324,OpenRouter,0.6546,198.16,0.6546,0.6546
+nvidia/nv-embed-v1,NVIDIA NIM,0.6546,198.16,0.6546,0.6546
+azureml://registries/azure-openai/models/gpt-4o-mini/versions/1,GitHub Models,0.9896,61.27,0.9897,0.9897
+xiaomimimo/mimo-v2.5,Novita AI,0.6547,198.16,0.6547,0.6547
+teknium/openhermes-2.5-mistral-7b,Novita AI,0.6547,198.15,0.6547,0.6547
+openai/gpt-4.1,OpenRouter,0.9267,65.03,0.9267,0.9267
+nex-agi/nex-n2-mini,OpenRouter,0.8087,614.39,0.8087,0.8087
+google/gemini-3.1-flash-image,OpenRouter,0.8117,612.69,0.8117,0.8117
+google/gemini-3-pro-image,OpenRouter,0.7557,645.92,0.7557,0.7557
+cohere/north-mini-code:free,OpenRouter,0.7577,644.66,0.7577,0.7577
+minimax/minimax-m3,OpenRouter,0.8327,601.06,0.8327,0.8327
+stepfun/step-3.7-flash,OpenRouter,0.7967,621.21,0.7967,0.7967
+google/gemini-3.5-flash,OpenRouter,0.8037,617.17,0.8037,0.8037
+google/gemini-3.1-flash-lite,OpenRouter,0.8167,609.82,0.8167,0.8167
