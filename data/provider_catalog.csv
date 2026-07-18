@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,thinkingmachines/inkling,1784325956.0,,1.41,2.12
+OpenRouter,openrouter/auto-beta,1784311165.0,,3.1,4.64
 OpenRouter,moonshotai/kimi-k3,1784215858.0,,2.75,4.12
 OpenRouter,meta/muse-spark-1.1,1784215741.0,,4.14,6.21
 OpenRouter,kwaipilot/kat-coder-air-v2.5,1783714590.0,,4.4,6.6
@@ -179,7 +181,6 @@ OpenRouter,qwen/qwen3-vl-8b-instruct,1760463308.0,,0.35,0.4
 OpenRouter,openai/gpt-5-image,1760447986.0,,1.28,1.92
 OpenRouter,openai/o3-deep-research,1760129661.0,,4.67,7.01
 OpenRouter,openai/o4-mini-deep-research,1760129642.0,,4.4,6.61
-OpenRouter,nvidia/llama-3.3-nemotron-super-49b-v1.5,1760101395.0,,0.6,0.6
 OpenRouter,google/gemini-2.5-flash-image,1759870431.0,,4.18,6.27
 OpenRouter,qwen/qwen3-vl-30b-a3b-thinking,1759794479.0,,0.35,0.4
 OpenRouter,qwen/qwen3-vl-30b-a3b-instruct,1759794476.0,,0.35,0.4
@@ -307,7 +308,6 @@ OpenRouter,qwen/qwen-2.5-7b-instruct,1729036800.0,,0.35,0.4
 OpenRouter,inflection/inflection-3-pi,1728604800.0,,0.95,1.43
 OpenRouter,inflection/inflection-3-productivity,1728604800.0,,4.59,6.88
 OpenRouter,thedrummer/rocinante-12b,1727654400.0,,1.54,2.32
-OpenRouter,meta-llama/llama-3.2-11b-vision-instruct,1727222400.0,,0.67,1.01
 OpenRouter,meta-llama/llama-3.2-1b-instruct,1727222400.0,,0.96,1.45
 OpenRouter,meta-llama/llama-3.2-3b-instruct,1727222400.0,,0.71,1.06
 OpenRouter,meta-llama/llama-3.2-3b-instruct:free,1727222400.0,,3.62,5.43
@@ -493,6 +493,7 @@ DeepSeek,deepseek-chat,,,0.14,0.28
 DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
+Novita AI,moonshotai/kimi-k3,1784168859.0,unknown,2.75,4.12
 Novita AI,tencent/hy3,1782798401.0,unknown,1.92,2.88
 Novita AI,zai-org/glm-5.2,1781262235.0,unknown,4.69,7.03
 Novita AI,moonshotai/kimi-k2.7-code,1781260548.0,unknown,0.85,1.27
