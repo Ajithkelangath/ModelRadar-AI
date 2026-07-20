@@ -199,7 +199,6 @@ OpenRouter,deepseek/deepseek-v3.1-terminus,1758548275.0,,3.8,5.7
 OpenRouter,qwen/qwen3-coder-flash,1758115536.0,,0.35,0.4
 OpenRouter,qwen/qwen3-next-80b-a3b-thinking,1757612284.0,,0.35,0.4
 OpenRouter,qwen/qwen3-next-80b-a3b-instruct,1757612213.0,,0.35,0.4
-OpenRouter,qwen/qwen3-next-80b-a3b-instruct:free,1757612213.0,,0.35,0.4
 OpenRouter,qwen/qwen-plus-2025-07-28,1757347599.0,,0.35,0.4
 OpenRouter,qwen/qwen-plus-2025-07-28:thinking,1757347599.0,,0.35,0.4
 OpenRouter,nvidia/nemotron-nano-9b-v2:free,1757106807.0,,0.6,0.6
@@ -226,13 +225,11 @@ OpenRouter,z-ai/glm-4.5,1753471347.0,,0.4,0.4
 OpenRouter,z-ai/glm-4.5-air,1753471258.0,,0.4,0.4
 OpenRouter,qwen/qwen3-235b-a22b-thinking-2507,1753449557.0,,0.35,0.4
 OpenRouter,qwen/qwen3-coder,1753230546.0,,0.35,0.4
-OpenRouter,qwen/qwen3-coder:free,1753230546.0,,0.35,0.4
 OpenRouter,bytedance/ui-tars-1.5-7b,1753205056.0,,0.51,0.76
 OpenRouter,google/gemini-2.5-flash-lite,1753200276.0,,0.59,0.89
 OpenRouter,qwen/qwen3-235b-a22b-2507,1753119555.0,,0.35,0.4
 OpenRouter,moonshotai/kimi-k2,1752263252.0,,4.27,6.4
 OpenRouter,cognitivecomputations/dolphin-mistral-24b-venice-edition,1752094966.0,,4.36,6.54
-OpenRouter,cognitivecomputations/dolphin-mistral-24b-venice-edition:free,1752094966.0,,1.38,2.07
 OpenRouter,tencent/hunyuan-a13b-instruct,1751987664.0,,4.48,6.72
 OpenRouter,morph/morph-v3-large,1751910858.0,,4.52,6.78
 OpenRouter,morph/morph-v3-fast,1751910002.0,,1.14,1.72
@@ -295,7 +292,6 @@ OpenRouter,sao10k/l3.3-euryale-70b,1734535928.0,,2.59,3.89
 OpenRouter,openai/o1,1734459999.0,,2.92,4.38
 OpenRouter,cohere/command-r7b-12-2024,1734158152.0,,3.97,5.96
 OpenRouter,meta-llama/llama-3.3-70b-instruct,1733506137.0,,1.14,1.71
-OpenRouter,meta-llama/llama-3.3-70b-instruct:free,1733506137.0,,3.05,4.58
 OpenRouter,amazon/nova-lite-v1,1733437363.0,,1.4,2.09
 OpenRouter,amazon/nova-micro-v1,1733437237.0,,2.89,4.34
 OpenRouter,amazon/nova-pro-v1,1733436303.0,,4.97,7.45
@@ -310,14 +306,12 @@ OpenRouter,inflection/inflection-3-productivity,1728604800.0,,4.59,6.88
 OpenRouter,thedrummer/rocinante-12b,1727654400.0,,1.54,2.32
 OpenRouter,meta-llama/llama-3.2-1b-instruct,1727222400.0,,0.96,1.45
 OpenRouter,meta-llama/llama-3.2-3b-instruct,1727222400.0,,0.71,1.06
-OpenRouter,meta-llama/llama-3.2-3b-instruct:free,1727222400.0,,3.62,5.43
 OpenRouter,qwen/qwen-2.5-72b-instruct,1726704000.0,,0.35,0.4
 OpenRouter,cohere/command-r-08-2024,1724976000.0,,1.13,1.7
 OpenRouter,cohere/command-r-plus-08-2024,1724976000.0,,2.76,4.14
 OpenRouter,sao10k/l3.1-euryale-70b,1724803200.0,,4.53,6.79
 OpenRouter,nousresearch/hermes-3-llama-3.1-70b,1723939200.0,,4.15,6.22
 OpenRouter,nousresearch/hermes-3-llama-3.1-405b,1723766400.0,,0.31,0.47
-OpenRouter,nousresearch/hermes-3-llama-3.1-405b:free,1723766400.0,,2.76,4.14
 OpenRouter,sao10k/l3-lunaris-8b,1723507200.0,,1.38,2.07
 OpenRouter,openai/gpt-4o-2024-08-06,1722902400.0,,2.5,10.0
 OpenRouter,meta-llama/llama-3.1-70b-instruct,1721692800.0,,1.51,2.26
@@ -456,7 +450,6 @@ NVIDIA NIM,openai/gpt-oss-120b,735790403.0,openai,1.53,2.3
 NVIDIA NIM,openai/gpt-oss-20b,735790403.0,openai,1.75,2.63
 NVIDIA NIM,poolside/laguna-xs-2.1,735790403.0,poolside,3.98,5.97
 NVIDIA NIM,qwen/qwen3-next-80b-a3b-instruct,735790403.0,qwen,0.35,0.4
-NVIDIA NIM,qwen/qwen3.5-122b-a10b,735790403.0,qwen,0.35,0.4
 NVIDIA NIM,qwen/qwen3.5-397b-a17b,735790403.0,qwen,0.35,0.4
 NVIDIA NIM,sarvamai/sarvam-m,735790403.0,sarvamai,2.42,3.63
 NVIDIA NIM,snowflake/arctic-embed-l,735790403.0,snowflake,1.2,1.79
