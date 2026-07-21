@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,meituan/longcat-2.0,1784554658.0,,0.59,0.88
 OpenRouter,thinkingmachines/inkling,1784325956.0,,1.41,2.12
 OpenRouter,openrouter/auto-beta,1784311165.0,,3.1,4.64
 OpenRouter,moonshotai/kimi-k3,1784215858.0,,2.75,4.12
@@ -16,7 +17,6 @@ OpenRouter,~x-ai/grok-latest,1783519360.0,,2.33,3.5
 OpenRouter,aion-labs/aion-3.0-mini,1783443096.0,,3.33,4.99
 OpenRouter,aion-labs/aion-3.0,1783443095.0,,4.25,6.38
 OpenRouter,tencent/hy3,1783344048.0,,1.92,2.88
-OpenRouter,tencent/hy3:free,1783344048.0,,4.75,7.12
 OpenRouter,poolside/laguna-xs-2.1,1783002429.0,,3.98,5.97
 OpenRouter,poolside/laguna-xs-2.1:free,1783002429.0,,4.1,6.15
 OpenRouter,anthropic/claude-sonnet-5,1782843083.0,,4.47,6.7
