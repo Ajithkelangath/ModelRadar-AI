@@ -1,4 +1,8 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,poolside/laguna-s-2.1,1784652683.0,,2.07,3.1
+OpenRouter,poolside/laguna-s-2.1:free,1784652683.0,,4.92,7.37
+OpenRouter,google/gemini-3.6-flash,1784646733.0,,2.42,3.64
+OpenRouter,google/gemini-3.5-flash-lite,1784646726.0,,3.0,4.51
 OpenRouter,meituan/longcat-2.0,1784554658.0,,0.59,0.88
 OpenRouter,thinkingmachines/inkling,1784325956.0,,1.41,2.12
 OpenRouter,openrouter/auto-beta,1784311165.0,,3.1,4.64
@@ -597,6 +601,7 @@ Novita AI,deepseek/deepseek-v3/community,1739525912.0,unknown,2.3,3.44
 Novita AI,deepseek/deepseek-r1/community,1739525865.0,unknown,2.53,3.79
 Novita AI,Sao10K/L3-8B-Stheno-v3.2,1732875917.0,unknown,3.78,5.66
 Novita AI,gryphe/mythomax-l2-13b,1714024873.0,unknown,2.04,3.06
+Novita AI,gpt-image-2-oai,1784623688.0,unknown,0.27,0.4
 Novita AI,inclusionai/ring-2.6-1t,1778229656.0,unknown,4.03,6.04
 Novita AI,inclusionai/ling-2.6-flash,1777017414.0,unknown,1.73,2.59
 Novita AI,inclusionai/ling-2.6-1t,1776911025.0,unknown,4.53,6.8
