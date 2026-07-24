@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,inclusionai/ling-3.0-flash:free,1784818580.0,,4.48,6.72
 OpenRouter,poolside/laguna-s-2.1,1784652683.0,,2.07,3.1
 OpenRouter,poolside/laguna-s-2.1:free,1784652683.0,,4.92,7.37
 OpenRouter,google/gemini-3.6-flash,1784646733.0,,2.42,3.64
@@ -398,7 +399,6 @@ NVIDIA NIM,mistralai/ministral-14b-instruct-2512,735790403.0,mistralai,0.27,0.41
 NVIDIA NIM,mistralai/mistral-7b-instruct-v0.3,735790403.0,mistralai,4.4,6.6
 NVIDIA NIM,mistralai/mistral-large,735790403.0,mistralai,4.44,6.66
 NVIDIA NIM,mistralai/mistral-large-2-instruct,735790403.0,mistralai,3.97,5.95
-NVIDIA NIM,mistralai/mistral-large-3-675b-instruct-2512,735790403.0,mistralai,1.33,1.99
 NVIDIA NIM,mistralai/mistral-medium-3.5-128b,735790403.0,mistralai,2.62,3.94
 NVIDIA NIM,mistralai/mistral-nemotron,735790403.0,mistralai,0.6,0.6
 NVIDIA NIM,mistralai/mistral-small-4-119b-2603,735790403.0,mistralai,3.42,5.12
@@ -411,6 +411,7 @@ NVIDIA NIM,nvidia/cosmos-reason2-8b,735790403.0,nvidia,3.08,4.62
 NVIDIA NIM,nvidia/embed-qa-4,735790403.0,nvidia,1.88,2.81
 NVIDIA NIM,nvidia/gliner-pii,735790403.0,nvidia,0.71,1.07
 NVIDIA NIM,nvidia/ising-calibration-1-35b-a3b,735790403.0,nvidia,1.91,2.86
+NVIDIA NIM,nvidia/ising-calibration-1.5-31b,735790403.0,nvidia,2.55,3.82
 NVIDIA NIM,nvidia/llama-3.1-nemoguard-8b-content-safety,735790403.0,nvidia,3.11,4.67
 NVIDIA NIM,nvidia/llama-3.1-nemoguard-8b-topic-control,735790403.0,nvidia,4.33,6.5
 NVIDIA NIM,nvidia/llama-3.1-nemotron-51b-instruct,735790403.0,nvidia,0.6,0.6
@@ -498,6 +499,7 @@ Novita AI,minimax/minimax-m3,1780282959.0,unknown,0.5,0.5
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,unknown,0.39,0.58
 Novita AI,deepseek/deepseek-v4-flash,1777001037.0,unknown,1.61,2.41
 Novita AI,deepseek/deepseek-v3.2,1764588967.0,unknown,0.12,0.19
+Novita AI,inclusionai/ling-3.0-flash,1784701806.0,unknown,1.51,2.26
 Novita AI,stepfun/step-3.7-flash,1781231066.0,unknown,1.43,2.15
 Novita AI,nvidia/nemotron-3-nano-30b-a3b,1781004459.0,unknown,0.6,0.6
 Novita AI,baidu/cobuddy,1780454207.0,unknown,0.16,0.24
