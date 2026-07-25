@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,anthropic/claude-opus-5-fast,1784912546.0,,4.29,6.44
+OpenRouter,anthropic/claude-opus-5,1784912544.0,,4.64,6.95
 OpenRouter,inclusionai/ling-3.0-flash:free,1784818580.0,,4.48,6.72
 OpenRouter,poolside/laguna-s-2.1,1784652683.0,,2.07,3.1
 OpenRouter,poolside/laguna-s-2.1:free,1784652683.0,,4.92,7.37
@@ -500,6 +502,7 @@ Novita AI,deepseek/deepseek-v4-pro,1777000931.0,unknown,0.39,0.58
 Novita AI,deepseek/deepseek-v4-flash,1777001037.0,unknown,1.61,2.41
 Novita AI,deepseek/deepseek-v3.2,1764588967.0,unknown,0.12,0.19
 Novita AI,inclusionai/ling-3.0-flash,1784701806.0,unknown,1.51,2.26
+Novita AI,mindai/macaron-v1-venti,1784605406.0,unknown,2.87,4.3
 Novita AI,stepfun/step-3.7-flash,1781231066.0,unknown,1.43,2.15
 Novita AI,nvidia/nemotron-3-nano-30b-a3b,1781004459.0,unknown,0.6,0.6
 Novita AI,baidu/cobuddy,1780454207.0,unknown,0.16,0.24
