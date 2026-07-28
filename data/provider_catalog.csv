@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,qwen/qwen3.7-flash,1785190561.0,,0.35,0.4
 OpenRouter,anthropic/claude-opus-5-fast,1784912546.0,,4.29,6.44
 OpenRouter,anthropic/claude-opus-5,1784912544.0,,4.64,6.95
 OpenRouter,inclusionai/ling-3.0-flash:free,1784818580.0,,4.48,6.72
@@ -217,7 +218,6 @@ OpenRouter,deepseek/deepseek-chat-v3.1,1755779628.0,,0.14,0.28
 OpenRouter,mistralai/mistral-medium-3.1,1755095639.0,,2.76,4.14
 OpenRouter,z-ai/glm-4.5v,1754922288.0,,0.4,0.4
 OpenRouter,ai21/jamba-large-1.7,1754669020.0,,3.7,5.55
-OpenRouter,openai/gpt-5-chat,1754587837.0,,1.91,2.87
 OpenRouter,openai/gpt-5,1754587413.0,,0.52,0.78
 OpenRouter,openai/gpt-5-mini,1754587407.0,,1.26,1.89
 OpenRouter,openai/gpt-5-nano,1754587402.0,,3.12,4.69
@@ -274,8 +274,6 @@ OpenRouter,mistralai/mistral-small-3.1-24b-instruct,1742238937.0,,4.97,7.46
 OpenRouter,google/gemma-3-4b-it,1741905510.0,,2.55,3.82
 OpenRouter,google/gemma-3-12b-it,1741902625.0,,2.78,4.16
 OpenRouter,cohere/command-a,1741894342.0,,2.03,3.04
-OpenRouter,openai/gpt-4o-mini-search-preview,1741818122.0,,2.5,10.0
-OpenRouter,openai/gpt-4o-search-preview,1741817949.0,,2.5,10.0
 OpenRouter,rekaai/reka-flash-3,1741812813.0,,1.12,1.68
 OpenRouter,google/gemma-3-27b-it,1741756359.0,,0.66,0.99
 OpenRouter,thedrummer/skyfall-36b-v2,1741636566.0,,2.16,3.23
@@ -399,7 +397,6 @@ NVIDIA NIM,nv-mistralai/mistral-nemo-12b-instruct,735790403.0,nv-mistralai,4.95,
 NVIDIA NIM,nvidia/ai-synthetic-video-detector,735790403.0,nvidia,1.14,1.71
 NVIDIA NIM,nvidia/cosmos-reason2-8b,735790403.0,nvidia,3.08,4.62
 NVIDIA NIM,nvidia/embed-qa-4,735790403.0,nvidia,1.88,2.81
-NVIDIA NIM,nvidia/ising-calibration-1-35b-a3b,735790403.0,nvidia,1.91,2.86
 NVIDIA NIM,nvidia/ising-calibration-1.5-31b,735790403.0,nvidia,2.55,3.82
 NVIDIA NIM,nvidia/llama-3.1-nemoguard-8b-content-safety,735790403.0,nvidia,3.11,4.67
 NVIDIA NIM,nvidia/llama-3.1-nemoguard-8b-topic-control,735790403.0,nvidia,4.33,6.5
@@ -439,6 +436,7 @@ NVIDIA NIM,nvidia/nvclip,735790403.0,nvidia,4.78,7.17
 NVIDIA NIM,nvidia/nvidia-nemotron-nano-9b-v2,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/riva-translate-4b-instruct,735790403.0,nvidia,3.5,5.26
 NVIDIA NIM,nvidia/riva-translate-4b-instruct-v1.1,735790403.0,nvidia,1.99,2.98
+NVIDIA NIM,nvidia/riva-translate-4b-instruct-v2,735790403.0,nvidia,0.74,1.11
 NVIDIA NIM,nvidia/vila,735790403.0,nvidia,2.53,3.8
 NVIDIA NIM,openai/gpt-oss-120b,735790403.0,openai,1.53,2.3
 NVIDIA NIM,openai/gpt-oss-20b,735790403.0,openai,1.75,2.63
@@ -479,12 +477,12 @@ Novita AI,moonshotai/kimi-k3,1784168859.0,unknown,2.75,4.12
 Novita AI,tencent/hy3,1782798401.0,unknown,1.92,2.88
 Novita AI,zai-org/glm-5.2,1781262235.0,unknown,4.69,7.03
 Novita AI,moonshotai/kimi-k2.7-code,1781260548.0,unknown,0.85,1.27
+Novita AI,mindai/macaron-v1-venti,1784605406.0,unknown,2.87,4.3
 Novita AI,minimax/minimax-m3,1780282959.0,unknown,0.5,0.5
-Novita AI,deepseek/deepseek-v4-pro,1777000931.0,unknown,0.39,0.58
 Novita AI,deepseek/deepseek-v4-flash,1777001037.0,unknown,1.61,2.41
+Novita AI,deepseek/deepseek-v4-pro,1777000931.0,unknown,0.39,0.58
 Novita AI,deepseek/deepseek-v3.2,1764588967.0,unknown,0.12,0.19
 Novita AI,inclusionai/ling-3.0-flash,1784701806.0,unknown,1.51,2.26
-Novita AI,mindai/macaron-v1-venti,1784605406.0,unknown,2.87,4.3
 Novita AI,stepfun/step-3.7-flash,1781231066.0,unknown,1.43,2.15
 Novita AI,nvidia/nemotron-3-nano-30b-a3b,1781004459.0,unknown,0.6,0.6
 Novita AI,baidu/cobuddy,1780454207.0,unknown,0.16,0.24
