@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,meta/muse-spark-1.2,1785959287.0,,2.41,3.61
 OpenRouter,qwen/qwen3.8-max,1785731612.0,,0.35,0.4
 OpenRouter,~deepseek/deepseek-v4-flash-latest,1785606009.0,,1.87,2.8
 OpenRouter,deepseek/deepseek-v4-flash-0731,1785478908.0,,0.23,0.34
@@ -6,6 +7,7 @@ OpenRouter,thinkingmachines/inkling-small,1785443117.0,,1.83,2.75
 OpenRouter,qwen/qwen3.7-flash,1785190561.0,,0.35,0.4
 OpenRouter,anthropic/claude-opus-5-fast,1784912546.0,,4.29,6.44
 OpenRouter,anthropic/claude-opus-5,1784912544.0,,4.64,6.95
+OpenRouter,inclusionai/ling-3.0-flash,1784818580.0,,1.51,2.26
 OpenRouter,inclusionai/ling-3.0-flash:free,1784818580.0,,4.48,6.72
 OpenRouter,poolside/laguna-s-2.1,1784652683.0,,2.07,3.1
 OpenRouter,poolside/laguna-s-2.1:free,1784652683.0,,4.92,7.37
