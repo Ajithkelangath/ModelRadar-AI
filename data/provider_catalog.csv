@@ -410,8 +410,7 @@ NVIDIA NIM,baai/bge-m3,735790403.0,baai,3.67,5.5
 NVIDIA NIM,bigcode/starcoder2-15b,735790403.0,bigcode,0.25,0.38
 NVIDIA NIM,databricks/dbrx-instruct,735790403.0,databricks,2.39,3.59
 NVIDIA NIM,deepseek-ai/deepseek-coder-6.7b-instruct,735790403.0,deepseek-ai,0.14,0.28
-NVIDIA NIM,deepseek-ai/deepseek-v4-flash,735790403.0,deepseek-ai,4.61,6.91
-NVIDIA NIM,deepseek-ai/deepseek-v4-pro,735790403.0,deepseek-ai,1.26,1.89
+NVIDIA NIM,deepseek-ai/deepseek-v4-flash-0731,735790403.0,deepseek-ai,4.73,7.09
 NVIDIA NIM,google/codegemma-1.1-7b,735790403.0,google,2.27,3.4
 NVIDIA NIM,google/codegemma-7b,735790403.0,google,3.68,5.52
 NVIDIA NIM,google/deplot,735790403.0,google,2.41,3.61
@@ -443,7 +442,6 @@ NVIDIA NIM,mistralai/codestral-22b-instruct-v0.1,735790403.0,mistralai,2.23,3.34
 NVIDIA NIM,mistralai/mistral-7b-instruct-v0.3,735790403.0,mistralai,4.4,6.6
 NVIDIA NIM,mistralai/mistral-large,735790403.0,mistralai,4.44,6.66
 NVIDIA NIM,mistralai/mistral-large-2-instruct,735790403.0,mistralai,3.97,5.95
-NVIDIA NIM,mistralai/mistral-medium-3.5-128b,735790403.0,mistralai,2.62,3.94
 NVIDIA NIM,mistralai/mistral-nemotron,735790403.0,mistralai,0.6,0.6
 NVIDIA NIM,mistralai/mixtral-8x22b-v0.1,735790403.0,mistralai,0.93,1.4
 NVIDIA NIM,moonshotai/kimi-k2.6,735790403.0,moonshotai,4.09,6.13
