@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,upstage/solar-pro4,1786371636.0,,2.08,3.13
+OpenRouter,meta/muse-glimmer-30b,1786302394.0,,2.8,4.19
 OpenRouter,inclusionai/ling-3.0-tiny:free,1786034890.0,,4.06,6.1
 OpenRouter,meta/muse-spark-1.2,1785959287.0,,2.41,3.61
 OpenRouter,qwen/qwen3.8-max,1785731612.0,,0.35,0.4
@@ -144,7 +146,6 @@ OpenRouter,openai/gpt-5.4-pro:batch,1772734366.0,,3.54,5.31
 OpenRouter,openai/gpt-5.4,1772734352.0,,2.79,4.19
 OpenRouter,openai/gpt-5.4:batch,1772734352.0,,3.09,4.63
 OpenRouter,inception/mercury-2,1772636275.0,,0.26,0.39
-OpenRouter,openai/gpt-5.3-chat,1772564061.0,,3.25,4.87
 OpenRouter,google/gemini-3.1-flash-lite-preview,1772512673.0,,4.54,6.81
 OpenRouter,bytedance-seed/seed-2.0-mini,1772131107.0,,0.78,1.17
 OpenRouter,google/gemini-3.1-flash-image-preview,1772119558.0,,1.4,2.09
@@ -434,6 +435,7 @@ NVIDIA NIM,meta/llama-3.2-90b-vision-instruct,735790403.0,meta,0.45,0.67
 NVIDIA NIM,meta/llama-3.3-70b-instruct,735790403.0,meta,3.98,5.97
 NVIDIA NIM,meta/llama-guard-4-12b,735790403.0,meta,4.21,6.32
 NVIDIA NIM,meta/llama2-70b,735790403.0,meta,2.65,3.97
+NVIDIA NIM,meta/muse-glimmer-30b,735790403.0,meta,2.8,4.19
 NVIDIA NIM,microsoft/kosmos-2,735790403.0,microsoft,2.12,3.19
 NVIDIA NIM,microsoft/phi-3-vision-128k-instruct,735790403.0,microsoft,0.1,0.1
 NVIDIA NIM,microsoft/phi-3.5-moe-instruct,735790403.0,microsoft,0.1,0.1
