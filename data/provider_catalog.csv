@@ -1,4 +1,9 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,bytedance-seed/seed-2-1-turbo,1786552176.0,,2.23,3.34
+OpenRouter,qwen/qwen3.8-2.4t-a95b,1786551702.0,,0.35,0.4
+OpenRouter,bytedance-seed/seed-2.0-code,1786550701.0,,4.91,7.36
+OpenRouter,deepseek/deepseek-v4-pro-0813,1786549364.0,,3.27,4.9
+OpenRouter,x-ai/grok-4.6,1786548957.0,,3.75,5.63
 OpenRouter,liquid/lfm-2.5-2.6b:free,1786470519.0,,2.17,3.25
 OpenRouter,nvidia/nemotron-3.5-lightning,1786452751.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3.5-lightning:free,1786452751.0,,0.6,0.6
@@ -10,7 +15,6 @@ OpenRouter,meta/muse-spark-1.2,1785959287.0,,2.41,3.61
 OpenRouter,qwen/qwen3.8-max,1785731612.0,,0.35,0.4
 OpenRouter,~deepseek/deepseek-v4-flash-latest,1785606009.0,,1.87,2.8
 OpenRouter,deepseek/deepseek-v4-flash-0731,1785478908.0,,0.23,0.34
-OpenRouter,bytedance-seed/seed-2.0-code,1785451719.0,,4.91,7.36
 OpenRouter,thinkingmachines/inkling-small,1785443117.0,,1.83,2.75
 OpenRouter,qwen/qwen3.7-flash,1785190561.0,,0.35,0.4
 OpenRouter,anthropic/claude-opus-5-fast,1784912546.0,,4.29,6.44
