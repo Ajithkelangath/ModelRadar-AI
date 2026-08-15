@@ -538,6 +538,7 @@ DeepSeek,deepseek-chat,,,0.14,0.28
 DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
+Novita AI,deepseek/deepseek-v4-pro-0813,1786588436.0,unknown,3.27,4.9
 Novita AI,moonshotai/kimi-k3,1784168859.0,unknown,2.75,4.12
 Novita AI,tencent/hy3,1782798401.0,unknown,1.92,2.88
 Novita AI,zai-org/glm-5.2,1781262235.0,unknown,4.69,7.03
