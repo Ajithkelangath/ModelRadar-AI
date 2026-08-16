@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,qwen/qwen3.8-27b,1786722910.0,,0.35,0.4
+OpenRouter,dots-studio/dots-3-note-preview:free,1786680361.0,,0.58,0.86
 OpenRouter,google/gemini-3.7-flash,1786640581.0,,4.34,6.51
 OpenRouter,google/gemini-3.7-flash:batch,1786640581.0,,2.72,4.08
 OpenRouter,bytedance-seed/seed-2-1-turbo,1786552176.0,,2.23,3.34
