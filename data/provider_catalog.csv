@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,z-ai/glm-5.3,1787086655.0,,2.72,4.09
 OpenRouter,qwen/qwen3.8-27b,1786722910.0,,0.35,0.4
 OpenRouter,dots-studio/dots-3-note-preview:free,1786680361.0,,0.58,0.86
 OpenRouter,google/gemini-3.7-flash,1786640581.0,,4.34,6.51
@@ -552,7 +553,9 @@ Novita AI,minimax/minimax-m3,1780282959.0,unknown,0.5,0.5
 Novita AI,deepseek/deepseek-v4-flash,1777001037.0,unknown,1.61,2.41
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,unknown,0.39,0.58
 Novita AI,deepseek/deepseek-v3.2,1764588967.0,unknown,0.12,0.19
+Novita AI,inclusionai/ling-3.0-flash-fast,1787022607.0,unknown,4.56,6.84
 Novita AI,inclusionai/ling-3.0-tiny,1785941340.0,unknown,0.6,0.89
+Novita AI,qwen/qwen3.8-max,1785494178.0,unknown,0.35,0.4
 Novita AI,inclusionai/ling-3.0-flash,1784701806.0,unknown,1.51,2.26
 Novita AI,mindai/macaron-v1-tall,1784113196.0,unknown,2.22,3.32
 Novita AI,stepfun/step-3.7-flash,1781231066.0,unknown,1.43,2.15
@@ -658,7 +661,6 @@ Novita AI,deepseek/deepseek-v3/community,1739525912.0,unknown,2.3,3.44
 Novita AI,deepseek/deepseek-r1/community,1739525865.0,unknown,2.53,3.79
 Novita AI,Sao10K/L3-8B-Stheno-v3.2,1732875917.0,unknown,3.78,5.66
 Novita AI,gryphe/mythomax-l2-13b,1714024873.0,unknown,2.04,3.06
-Novita AI,qwen/qwen3.8-max,1785494178.0,unknown,0.35,0.4
 Novita AI,inclusionai/ring-2.6-1t,1778229656.0,unknown,4.03,6.04
 Novita AI,inclusionai/ling-2.6-flash,1777017414.0,unknown,1.73,2.59
 Novita AI,inclusionai/ling-2.6-1t,1776911025.0,unknown,4.53,6.8
