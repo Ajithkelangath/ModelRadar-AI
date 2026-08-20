@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,~z-ai/glm-latest,1787151053.0,,1.37,2.06
 OpenRouter,z-ai/glm-5.3,1787086655.0,,2.72,4.09
 OpenRouter,qwen/qwen3.8-27b,1786722910.0,,0.35,0.4
 OpenRouter,dots-studio/dots-3-note-preview:free,1786680361.0,,0.58,0.86
@@ -269,7 +270,6 @@ OpenRouter,nousresearch/hermes-4-405b,1756235463.0,,3.22,4.82
 OpenRouter,deepseek/deepseek-chat-v3.1,1755779628.0,,0.14,0.28
 OpenRouter,mistralai/mistral-medium-3.1,1755095639.0,,2.76,4.14
 OpenRouter,z-ai/glm-4.5v,1754922288.0,,0.4,0.4
-OpenRouter,ai21/jamba-large-1.7,1754669020.0,,3.7,5.55
 OpenRouter,openai/gpt-5,1754587413.0,,0.52,0.78
 OpenRouter,openai/gpt-5:batch,1754587413.0,,3.07,4.61
 OpenRouter,openai/gpt-5-mini,1754587407.0,,1.26,1.89
@@ -408,7 +408,6 @@ OpenRouter,openai/gpt-4-turbo-preview,1706140800.0,,2.59,3.89
 OpenRouter,openrouter/auto,1699401600.0,,2.91,4.37
 OpenRouter,openai/gpt-3.5-turbo-instruct,1695859200.0,,0.5,1.5
 OpenRouter,openai/gpt-3.5-turbo-16k,1693180800.0,,0.5,1.5
-OpenRouter,mancer/weaver,1690934400.0,,0.52,0.78
 OpenRouter,undi95/remm-slerp-l2-13b,1689984000.0,,4.79,7.19
 OpenRouter,gryphe/mythomax-l2-13b,1688256000.0,,2.04,3.06
 OpenRouter,openai/gpt-3.5-turbo,1685232000.0,,0.5,1.5
@@ -542,6 +541,7 @@ DeepSeek,deepseek-chat,,,0.14,0.28
 DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
+Novita AI,zai-org/glm-5.3,1787105676.0,unknown,4.18,6.27
 Novita AI,deepseek/deepseek-v4-pro-0813,1786588436.0,unknown,3.27,4.9
 Novita AI,moonshotai/kimi-k3,1784168859.0,unknown,2.75,4.12
 Novita AI,tencent/hy3,1782798401.0,unknown,1.92,2.88
