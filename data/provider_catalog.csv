@@ -1,4 +1,7 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,stealth/ox-alpha,1787256295.0,,2.72,4.09
+OpenRouter,tencent/hy-mt2-1.8b,1787231581.0,,1.72,2.59
+OpenRouter,tencent/hy-mt2-30b-a3b,1787231561.0,,2.46,3.69
 OpenRouter,~z-ai/glm-latest,1787151053.0,,1.37,2.06
 OpenRouter,z-ai/glm-5.3,1787086655.0,,2.72,4.09
 OpenRouter,qwen/qwen3.8-27b,1786722910.0,,0.35,0.4
@@ -375,6 +378,7 @@ OpenRouter,mistralai/mistral-large-2407,1731978415.0,,3.21,4.82
 OpenRouter,qwen/qwen-2.5-coder-32b-instruct,1731368400.0,,0.35,0.4
 OpenRouter,thedrummer/unslopnemo-12b,1731103448.0,,4.53,6.79
 OpenRouter,anthracite-org/magnum-v4-72b,1729555200.0,,4.84,7.26
+OpenRouter,mistralai/ministral-8b,1729123200.0,,3.61,5.41
 OpenRouter,qwen/qwen-2.5-7b-instruct,1729036800.0,,0.35,0.4
 OpenRouter,thedrummer/rocinante-12b,1727654400.0,,1.54,2.32
 OpenRouter,meta-llama/llama-3.2-1b-instruct,1727222400.0,,0.96,1.45
@@ -408,6 +412,7 @@ OpenRouter,openai/gpt-4-turbo-preview,1706140800.0,,2.59,3.89
 OpenRouter,openrouter/auto,1699401600.0,,2.91,4.37
 OpenRouter,openai/gpt-3.5-turbo-instruct,1695859200.0,,0.5,1.5
 OpenRouter,openai/gpt-3.5-turbo-16k,1693180800.0,,0.5,1.5
+OpenRouter,mancer/weaver,1690934400.0,,0.52,0.78
 OpenRouter,undi95/remm-slerp-l2-13b,1689984000.0,,4.79,7.19
 OpenRouter,gryphe/mythomax-l2-13b,1688256000.0,,2.04,3.06
 OpenRouter,openai/gpt-3.5-turbo,1685232000.0,,0.5,1.5
@@ -460,6 +465,7 @@ NVIDIA NIM,mistralai/mistral-large-2-instruct,735790403.0,mistralai,3.97,5.95
 NVIDIA NIM,mistralai/mistral-nemotron,735790403.0,mistralai,0.6,0.6
 NVIDIA NIM,mistralai/mixtral-8x22b-v0.1,735790403.0,mistralai,0.93,1.4
 NVIDIA NIM,moonshotai/kimi-k2.6,735790403.0,moonshotai,4.09,6.13
+NVIDIA NIM,moonshotai/kimi-k3,735790403.0,moonshotai,2.75,4.12
 NVIDIA NIM,nv-mistralai/mistral-nemo-12b-instruct,735790403.0,nv-mistralai,4.95,7.42
 NVIDIA NIM,nvidia/ai-synthetic-video-detector,735790403.0,nvidia,1.14,1.71
 NVIDIA NIM,nvidia/cosmos-reason2-8b,735790403.0,nvidia,3.08,4.62
