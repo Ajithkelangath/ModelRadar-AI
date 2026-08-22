@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,meta/muse-spark-1.2-contributor,1787336476.0,,2.6,3.9
+OpenRouter,deepseek/deepseek-v4-flash-vision-exp,1787311563.0,,0.21,0.32
 OpenRouter,stealth/ox-alpha,1787256295.0,,2.72,4.09
 OpenRouter,tencent/hy-mt2-1.8b,1787231581.0,,1.72,2.59
 OpenRouter,tencent/hy-mt2-30b-a3b,1787231561.0,,2.46,3.69
@@ -24,6 +26,7 @@ OpenRouter,qwen/qwen3.8-max,1785731612.0,,0.35,0.4
 OpenRouter,~deepseek/deepseek-v4-flash-latest,1785606009.0,,1.87,2.8
 OpenRouter,deepseek/deepseek-v4-flash-0731,1785478908.0,,0.23,0.34
 OpenRouter,thinkingmachines/inkling-small,1785443117.0,,1.83,2.75
+OpenRouter,thinkingmachines/inkling-small:free,1785443117.0,,1.53,2.29
 OpenRouter,qwen/qwen3.7-flash,1785190561.0,,0.35,0.4
 OpenRouter,anthropic/claude-opus-5-fast,1784912546.0,,4.29,6.44
 OpenRouter,anthropic/claude-opus-5,1784912544.0,,4.64,6.95
@@ -38,6 +41,7 @@ OpenRouter,google/gemini-3.5-flash-lite:batch,1784646726.0,,0.57,0.86
 OpenRouter,meituan/longcat-2.0,1784554658.0,,0.59,0.88
 OpenRouter,thinkingmachines/inkling,1784325956.0,,1.41,2.12
 OpenRouter,thinkingmachines/inkling:batch,1784325956.0,,2.93,4.39
+OpenRouter,thinkingmachines/inkling:free,1784325956.0,,1.78,2.67
 OpenRouter,openrouter/auto-beta,1784311165.0,,3.1,4.64
 OpenRouter,moonshotai/kimi-k3,1784215858.0,,2.75,4.12
 OpenRouter,meta/muse-spark-1.1,1784215741.0,,4.14,6.21
@@ -223,7 +227,6 @@ OpenRouter,anthropic/claude-opus-4.5,1764010580.0,,4.87,7.31
 OpenRouter,anthropic/claude-opus-4.5:batch,1764010580.0,,4.83,7.25
 OpenRouter,allenai/olmo-3-32b-think,1763758276.0,,0.2,0.2
 OpenRouter,google/gemini-3-pro-image-preview,1763653797.0,,3.66,5.49
-OpenRouter,deepcogito/cogito-v2.1-671b,1763071233.0,,1.65,2.48
 OpenRouter,openai/gpt-5.1,1763060305.0,,2.94,4.41
 OpenRouter,openai/gpt-5.1:batch,1763060305.0,,3.67,5.51
 OpenRouter,openai/gpt-5.1-codex,1763060298.0,,3.61,5.42
@@ -281,7 +284,6 @@ OpenRouter,openai/gpt-5-nano,1754587402.0,,3.12,4.69
 OpenRouter,openai/gpt-5-nano:batch,1754587402.0,,1.83,2.74
 OpenRouter,openai/gpt-oss-120b,1754414231.0,,1.53,2.3
 OpenRouter,openai/gpt-oss-20b,1754414229.0,,1.75,2.63
-OpenRouter,openai/gpt-oss-20b:free,1754414229.0,,2.92,4.39
 OpenRouter,anthropic/claude-opus-4.1,1754411591.0,,1.44,2.15
 OpenRouter,anthropic/claude-opus-4.1:batch,1754411591.0,,0.48,0.72
 OpenRouter,mistralai/codestral-2508,1754079630.0,,0.82,1.24
@@ -522,7 +524,6 @@ NVIDIA NIM,writer/palmyra-creative-122b,735790403.0,writer,4.78,7.17
 NVIDIA NIM,writer/palmyra-fin-70b-32k,735790403.0,writer,2.44,3.65
 NVIDIA NIM,writer/palmyra-med-70b,735790403.0,writer,2.65,3.97
 NVIDIA NIM,writer/palmyra-med-70b-32k,735790403.0,writer,4.54,6.81
-NVIDIA NIM,z-ai/glm-5.2,735790403.0,z-ai,1.34,2.01
 NVIDIA NIM,zyphra/zamba2-7b-instruct,735790403.0,zyphra,0.22,0.33
 Cerebras,llama3.1-70b,,,3.26,4.89
 Cerebras,llama3.1-8b,,,2.93,4.4
