@@ -102,7 +102,6 @@ OpenRouter,google/gemini-3.5-flash,1779193800.0,,1.56,2.34
 OpenRouter,google/gemini-3.5-flash:batch,1779193800.0,,0.51,0.77
 OpenRouter,anthropic/claude-opus-4.7-fast,1778613011.0,,3.99,5.98
 OpenRouter,perceptron/perceptron-mk1,1778597029.0,,2.51,3.76
-OpenRouter,inclusionai/ring-2.6-1t,1778247440.0,,4.03,6.04
 OpenRouter,google/gemini-3.1-flash-lite,1778168828.0,,3.91,5.87
 OpenRouter,google/gemini-3.1-flash-lite:batch,1778168828.0,,2.62,3.93
 OpenRouter,openai/gpt-chat-latest,1778000212.0,,4.73,7.09
@@ -128,12 +127,10 @@ OpenRouter,openai/gpt-5.5,1777051893.0,,0.3,0.46
 OpenRouter,openai/gpt-5.5:batch,1777051893.0,,4.16,6.24
 OpenRouter,deepseek/deepseek-v4-pro,1777000679.0,,0.39,0.58
 OpenRouter,deepseek/deepseek-v4-flash,1777000666.0,,1.61,2.41
-OpenRouter,inclusionai/ling-2.6-1t,1776948238.0,,4.53,6.8
 OpenRouter,tencent/hy3-preview,1776878150.0,,2.83,4.25
 OpenRouter,xiaomi/mimo-v2.5-pro,1776874273.0,,0.15,0.15
 OpenRouter,xiaomi/mimo-v2.5,1776874269.0,,0.15,0.15
 OpenRouter,openai/gpt-5.4-image-2,1776797528.0,,0.45,0.68
-OpenRouter,inclusionai/ling-2.6-flash,1776795886.0,,1.73,2.59
 OpenRouter,~anthropic/claude-opus-latest,1776795361.0,,2.97,4.45
 OpenRouter,openrouter/pareto-code,1776747900.0,,3.83,5.74
 OpenRouter,moonshotai/kimi-k2.6,1776699402.0,,4.09,6.13
@@ -208,12 +205,12 @@ OpenRouter,z-ai/glm-4.7,1766378014.0,,0.4,0.4
 OpenRouter,google/gemini-3-flash-preview,1765987078.0,,1.84,2.76
 OpenRouter,google/gemini-3-flash-preview:batch,1765987078.0,,3.22,4.83
 OpenRouter,nvidia/nemotron-3-nano-30b-a3b,1765731275.0,,0.6,0.6
-OpenRouter,nvidia/nemotron-3-nano-30b-a3b:free,1765731275.0,,0.6,0.6
 OpenRouter,openai/gpt-5.2-chat,1765389783.0,,0.8,1.2
 OpenRouter,openai/gpt-5.2-pro,1765389780.0,,1.89,2.83
 OpenRouter,openai/gpt-5.2-pro:batch,1765389780.0,,1.94,2.91
 OpenRouter,openai/gpt-5.2,1765389775.0,,4.94,7.4
 OpenRouter,openai/gpt-5.2:batch,1765389775.0,,2.64,3.95
+OpenRouter,mistralai/devstral-2512,1765285419.0,,4.37,6.56
 OpenRouter,relace/relace-search,1765213560.0,,4.98,7.46
 OpenRouter,z-ai/glm-4.6v,1765207462.0,,0.4,0.4
 OpenRouter,openrouter/bodybuilder,1764903653.0,,3.85,5.78
@@ -237,7 +234,6 @@ OpenRouter,amazon/nova-premier-v1,1761950332.0,,1.45,2.17
 OpenRouter,perplexity/sonar-pro-search,1761854366.0,,4.67,7.0
 OpenRouter,mistralai/voxtral-small-24b-2507,1761835144.0,,4.79,7.18
 OpenRouter,openai/gpt-oss-safeguard-20b,1761752836.0,,3.92,5.88
-OpenRouter,nvidia/nemotron-nano-12b-v2-vl:free,1761675565.0,,0.6,0.6
 OpenRouter,minimax/minimax-m2,1761252093.0,,0.5,0.5
 OpenRouter,qwen/qwen3-vl-32b-instruct,1761231332.0,,0.35,0.4
 OpenRouter,ibm-granite/granite-4.0-h-micro,1760927695.0,,3.16,4.74
@@ -269,7 +265,6 @@ OpenRouter,qwen/qwen3-next-80b-a3b-thinking,1757612284.0,,0.35,0.4
 OpenRouter,qwen/qwen3-next-80b-a3b-instruct,1757612213.0,,0.35,0.4
 OpenRouter,qwen/qwen-plus-2025-07-28,1757347599.0,,0.35,0.4
 OpenRouter,qwen/qwen-plus-2025-07-28:thinking,1757347599.0,,0.35,0.4
-OpenRouter,nvidia/nemotron-nano-9b-v2:free,1757106807.0,,0.6,0.6
 OpenRouter,moonshotai/kimi-k2-0905,1757021147.0,,1.78,2.67
 OpenRouter,qwen/qwen3-30b-a3b-thinking-2507,1756399192.0,,0.35,0.4
 OpenRouter,nousresearch/hermes-4-70b,1756236182.0,,0.78,1.17
@@ -555,6 +550,7 @@ Novita AI,moonshotai/kimi-k3,1784168859.0,unknown,2.75,4.12
 Novita AI,tencent/hy3,1782798401.0,unknown,1.92,2.88
 Novita AI,zai-org/glm-5.2,1781262235.0,unknown,4.69,7.03
 Novita AI,moonshotai/kimi-k2.7-code,1781260548.0,unknown,0.85,1.27
+Novita AI,deepseek/deepseek-v4-flash-vision-exp,1787550870.0,unknown,0.21,0.32
 Novita AI,deepseek/deepseek-v4-flash-0731,1785546565.0,unknown,0.23,0.34
 Novita AI,mindai/macaron-v1-venti,1784605406.0,unknown,2.87,4.3
 Novita AI,minimax/minimax-m3,1780282959.0,unknown,0.5,0.5
