@@ -92,6 +92,7 @@ OpenRouter,nvidia/nemotron-3-ultra-550b-a55b:free,1780551208.0,,0.6,0.6
 OpenRouter,qwen/qwen3.7-plus,1780491783.0,,0.35,0.4
 OpenRouter,minimax/minimax-m3,1780245374.0,,0.5,0.5
 OpenRouter,minimax/minimax-m3:batch,1780245374.0,,0.5,0.5
+OpenRouter,minimax/minimax-m3:free,1780245374.0,,0.5,0.5
 OpenRouter,stepfun/step-3.7-flash,1779985069.0,,1.43,2.15
 OpenRouter,anthropic/claude-opus-4.8-fast,1779913703.0,,3.85,5.77
 OpenRouter,anthropic/claude-opus-4.8,1779905091.0,,3.11,4.66
@@ -151,6 +152,7 @@ OpenRouter,google/lyria-3-clip-preview,1774907255.0,,3.31,4.97
 OpenRouter,kwaipilot/kat-coder-pro-v2,1774649310.0,,2.86,4.28
 OpenRouter,rekaai/reka-edge,1774026965.0,,3.53,5.3
 OpenRouter,minimax/minimax-m2.7,1773836697.0,,0.5,0.5
+OpenRouter,minimax/minimax-m2.7:free,1773836697.0,,0.5,0.5
 OpenRouter,openai/gpt-5.4-nano,1773748187.0,,4.61,6.92
 OpenRouter,openai/gpt-5.4-nano:batch,1773748187.0,,3.14,4.71
 OpenRouter,openai/gpt-5.4-mini,1773748178.0,,0.59,0.89
@@ -264,7 +266,6 @@ OpenRouter,qwen/qwen3-coder-flash,1758115536.0,,0.35,0.4
 OpenRouter,qwen/qwen3-next-80b-a3b-thinking,1757612284.0,,0.35,0.4
 OpenRouter,qwen/qwen3-next-80b-a3b-instruct,1757612213.0,,0.35,0.4
 OpenRouter,qwen/qwen-plus-2025-07-28,1757347599.0,,0.35,0.4
-OpenRouter,qwen/qwen-plus-2025-07-28:thinking,1757347599.0,,0.35,0.4
 OpenRouter,moonshotai/kimi-k2-0905,1757021147.0,,1.78,2.67
 OpenRouter,qwen/qwen3-30b-a3b-thinking-2507,1756399192.0,,0.35,0.4
 OpenRouter,nousresearch/hermes-4-70b,1756236182.0,,0.78,1.17
@@ -311,7 +312,6 @@ OpenRouter,google/gemini-2.5-pro-preview,1749137257.0,,3.09,4.64
 OpenRouter,deepseek/deepseek-r1-0528,1748455170.0,,3.78,5.67
 OpenRouter,anthropic/claude-opus-4,1747931245.0,,4.88,7.32
 OpenRouter,anthropic/claude-sonnet-4,1747930371.0,,2.14,3.22
-OpenRouter,google/gemma-3n-e4b-it,1747776824.0,,4.52,6.78
 OpenRouter,mistralai/mistral-medium-3,1746627341.0,,0.33,0.5
 OpenRouter,google/gemini-2.5-pro-preview-05-06,1746578513.0,,1.5,2.25
 OpenRouter,arcee-ai/virtuoso-large,1746478885.0,,0.18,0.27
@@ -423,7 +423,6 @@ NVIDIA NIM,01-ai/yi-large,735790403.0,01-ai,3.66,5.49
 NVIDIA NIM,adept/fuyu-8b,735790403.0,adept,4.64,6.96
 NVIDIA NIM,ai21labs/jamba-1.5-large-instruct,735790403.0,ai21labs,4.48,6.71
 NVIDIA NIM,aisingapore/sea-lion-7b-instruct,735790403.0,aisingapore,3.31,4.97
-NVIDIA NIM,baai/bge-m3,735790403.0,baai,3.67,5.5
 NVIDIA NIM,bigcode/starcoder2-15b,735790403.0,bigcode,0.25,0.38
 NVIDIA NIM,databricks/dbrx-instruct,735790403.0,databricks,2.39,3.59
 NVIDIA NIM,deepseek-ai/deepseek-coder-6.7b-instruct,735790403.0,deepseek-ai,0.14,0.28
@@ -481,11 +480,9 @@ NVIDIA NIM,nvidia/llama-3.2-nemoretriever-1b-vlm-embed-v1,735790403.0,nvidia,1.5
 NVIDIA NIM,nvidia/llama-3.2-nv-embedqa-1b-v1,735790403.0,nvidia,4.38,6.57
 NVIDIA NIM,nvidia/llama-3.3-nemotron-super-49b-v1,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/llama-3.3-nemotron-super-49b-v1.5,735790403.0,nvidia,0.6,0.6
-NVIDIA NIM,nvidia/llama-nemotron-embed-1b-v2,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/llama-nemotron-embed-vl-1b-v2,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/llama3-chatqa-1.5-70b,735790403.0,nvidia,1.49,2.23
 NVIDIA NIM,nvidia/mistral-nemo-minitron-8b-8k-instruct,735790403.0,nvidia,3.41,5.11
-NVIDIA NIM,nvidia/nemoretriever-parse,735790403.0,nvidia,2.66,3.98
 NVIDIA NIM,nvidia/nemotron-3-embed-1b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3-nano-30b-a3b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning,735790403.0,nvidia,0.6,0.6
@@ -500,9 +497,6 @@ NVIDIA NIM,nvidia/nemotron-nano-12b-v2-vl,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-nano-3-30b-a3b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-parse,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/neva-22b,735790403.0,nvidia,4.42,6.63
-NVIDIA NIM,nvidia/nv-embed-v1,735790403.0,nvidia,4.78,7.17
-NVIDIA NIM,nvidia/nv-embedcode-7b-v1,735790403.0,nvidia,4.62,6.94
-NVIDIA NIM,nvidia/nv-embedqa-e5-v5,735790403.0,nvidia,2.42,3.62
 NVIDIA NIM,nvidia/nv-embedqa-mistral-7b-v2,735790403.0,nvidia,4.12,6.18
 NVIDIA NIM,nvidia/nvclip,735790403.0,nvidia,4.78,7.17
 NVIDIA NIM,nvidia/nvidia-nemotron-nano-9b-v2,735790403.0,nvidia,0.6,0.6
@@ -515,7 +509,6 @@ NVIDIA NIM,openai/gpt-oss-20b,735790403.0,openai,1.75,2.63
 NVIDIA NIM,poolside/laguna-xs-2.1,735790403.0,poolside,3.98,5.97
 NVIDIA NIM,snowflake/arctic-embed-l,735790403.0,snowflake,1.2,1.79
 NVIDIA NIM,stepfun-ai/step-3.7-flash,735790403.0,stepfun-ai,1.17,1.75
-NVIDIA NIM,thinkingmachines/inkling,735790403.0,thinkingmachines,1.41,2.12
 NVIDIA NIM,writer/palmyra-creative-122b,735790403.0,writer,4.78,7.17
 NVIDIA NIM,writer/palmyra-fin-70b-32k,735790403.0,writer,2.44,3.65
 NVIDIA NIM,writer/palmyra-med-70b,735790403.0,writer,2.65,3.97
