@@ -3,6 +3,7 @@ OpenRouter,tencent/hy4-preview,1787897375.0,,2.9,4.35
 OpenRouter,inclusionai/ling-3.0-flash-fin:free,1787846290.0,,2.66,3.98
 OpenRouter,qwen/qwen3.8-flash,1787773060.0,,0.35,0.4
 OpenRouter,z-ai/glm-5.3-flash,1787752741.0,,1.43,2.14
+OpenRouter,z-ai/glm-5.3-flash:batch,1787752741.0,,3.93,5.89
 OpenRouter,meta/muse-spark-1.2-contributor,1787336476.0,,2.6,3.9
 OpenRouter,deepseek/deepseek-v4-flash-vision-exp,1787311563.0,,0.21,0.32
 OpenRouter,tencent/hy-mt2-1.8b,1787231581.0,,1.72,2.59
@@ -16,8 +17,10 @@ OpenRouter,google/gemini-3.7-flash,1786640581.0,,4.34,6.51
 OpenRouter,google/gemini-3.7-flash:batch,1786640581.0,,2.72,4.08
 OpenRouter,bytedance-seed/seed-2-1-turbo,1786552176.0,,2.23,3.34
 OpenRouter,qwen/qwen3.8-2.4t-a95b,1786551702.0,,0.35,0.4
+OpenRouter,qwen/qwen3.8-2.4t-a95b:batch,1786551702.0,,0.35,0.4
 OpenRouter,bytedance-seed/seed-2.0-code,1786550701.0,,4.91,7.36
 OpenRouter,deepseek/deepseek-v4-pro-0813,1786549364.0,,3.27,4.9
+OpenRouter,deepseek/deepseek-v4-pro-0813:batch,1786549364.0,,3.94,5.9
 OpenRouter,x-ai/grok-4.6,1786548957.0,,3.75,5.63
 OpenRouter,liquid/lfm-2.5-2.6b:free,1786470519.0,,2.17,3.25
 OpenRouter,nvidia/nemotron-3.5-lightning,1786452751.0,,0.6,0.6
@@ -25,11 +28,14 @@ OpenRouter,nvidia/nemotron-3.5-lightning:free,1786452751.0,,0.6,0.6
 OpenRouter,sakana/sakana-namazu,1786410129.0,,2.66,3.99
 OpenRouter,upstage/solar-pro4,1786371636.0,,2.08,3.13
 OpenRouter,meta/muse-glimmer-30b,1786302394.0,,2.8,4.19
+OpenRouter,meta/muse-glimmer-30b:batch,1786302394.0,,4.24,6.36
 OpenRouter,meta/muse-spark-1.2,1785959287.0,,2.41,3.61
 OpenRouter,qwen/qwen3.8-max,1785731612.0,,0.35,0.4
 OpenRouter,~deepseek/deepseek-v4-flash-latest,1785606009.0,,1.87,2.8
 OpenRouter,deepseek/deepseek-v4-flash-0731,1785478908.0,,0.23,0.34
+OpenRouter,deepseek/deepseek-v4-flash-0731:batch,1785478908.0,,2.84,4.26
 OpenRouter,thinkingmachines/inkling-small,1785443117.0,,1.83,2.75
+OpenRouter,thinkingmachines/inkling-small:batch,1785443117.0,,2.64,3.95
 OpenRouter,thinkingmachines/inkling-small:free,1785443117.0,,1.53,2.29
 OpenRouter,qwen/qwen3.7-flash,1785190561.0,,0.35,0.4
 OpenRouter,anthropic/claude-opus-5-fast,1784912546.0,,4.29,6.44
@@ -48,6 +54,7 @@ OpenRouter,thinkingmachines/inkling:batch,1784325956.0,,2.93,4.39
 OpenRouter,thinkingmachines/inkling:free,1784325956.0,,1.78,2.67
 OpenRouter,openrouter/auto-beta,1784311165.0,,3.1,4.64
 OpenRouter,moonshotai/kimi-k3,1784215858.0,,2.75,4.12
+OpenRouter,moonshotai/kimi-k3:batch,1784215858.0,,2.95,4.42
 OpenRouter,meta/muse-spark-1.1,1784215741.0,,4.14,6.21
 OpenRouter,kwaipilot/kat-coder-air-v2.5,1783714590.0,,4.4,6.6
 OpenRouter,kwaipilot/kat-coder-pro-v2.5,1783714589.0,,0.27,0.4
@@ -135,6 +142,7 @@ OpenRouter,z-ai/glm-5.1,1775578025.0,,1.0,1.5
 OpenRouter,google/gemma-4-26b-a4b-it,1775227989.0,,3.31,4.97
 OpenRouter,google/gemma-4-26b-a4b-it:free,1775227989.0,,1.86,2.79
 OpenRouter,google/gemma-4-31b-it,1775148486.0,,2.94,4.41
+OpenRouter,google/gemma-4-31b-it:batch,1775148486.0,,4.92,7.38
 OpenRouter,google/gemma-4-31b-it:free,1775148486.0,,4.06,6.09
 OpenRouter,qwen/qwen3.6-plus,1775133557.0,,0.35,0.4
 OpenRouter,z-ai/glm-5v-turbo,1775061458.0,,4.14,6.21
@@ -156,6 +164,7 @@ OpenRouter,nvidia/nemotron-3-super-120b-a12b,1773245239.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3-super-120b-a12b:free,1773245239.0,,0.6,0.6
 OpenRouter,bytedance-seed/seed-2.0-lite,1773157231.0,,1.44,2.15
 OpenRouter,qwen/qwen3.5-9b,1773152396.0,,0.35,0.4
+OpenRouter,qwen/qwen3.5-9b:batch,1773152396.0,,0.35,0.4
 OpenRouter,openai/gpt-5.4-pro,1772734366.0,,3.43,5.14
 OpenRouter,openai/gpt-5.4,1772734352.0,,2.79,4.19
 OpenRouter,inception/mercury-2,1772636275.0,,0.26,0.39
@@ -216,7 +225,6 @@ OpenRouter,mistralai/mistral-large-2512:batch,1764624472.0,,0.99,1.49
 OpenRouter,deepseek/deepseek-v3.2,1764594642.0,,0.12,0.19
 OpenRouter,anthropic/claude-opus-4.5,1764010580.0,,4.87,7.31
 OpenRouter,anthropic/claude-opus-4.5:batch,1764010580.0,,4.83,7.25
-OpenRouter,allenai/olmo-3-32b-think,1763758276.0,,0.2,0.2
 OpenRouter,google/gemini-3-pro-image-preview,1763653797.0,,3.66,5.49
 OpenRouter,openai/gpt-5.1,1763060305.0,,2.94,4.41
 OpenRouter,openai/gpt-5.1-codex,1763060298.0,,3.61,5.42
@@ -266,7 +274,9 @@ OpenRouter,openai/gpt-5,1754587413.0,,0.52,0.78
 OpenRouter,openai/gpt-5-mini,1754587407.0,,1.26,1.89
 OpenRouter,openai/gpt-5-nano,1754587402.0,,3.12,4.69
 OpenRouter,openai/gpt-oss-120b,1754414231.0,,1.53,2.3
+OpenRouter,openai/gpt-oss-120b:batch,1754414231.0,,1.53,2.29
 OpenRouter,openai/gpt-oss-20b,1754414229.0,,1.75,2.63
+OpenRouter,openai/gpt-oss-20b:batch,1754414229.0,,3.26,4.88
 OpenRouter,anthropic/claude-opus-4.1,1754411591.0,,1.44,2.15
 OpenRouter,anthropic/claude-opus-4.1:batch,1754411591.0,,0.48,0.72
 OpenRouter,mistralai/codestral-2508,1754079630.0,,0.82,1.24
@@ -300,7 +310,6 @@ OpenRouter,anthropic/claude-opus-4,1747931245.0,,4.88,7.32
 OpenRouter,anthropic/claude-sonnet-4,1747930371.0,,2.14,3.22
 OpenRouter,mistralai/mistral-medium-3,1746627341.0,,0.33,0.5
 OpenRouter,google/gemini-2.5-pro-preview-05-06,1746578513.0,,1.5,2.25
-OpenRouter,arcee-ai/virtuoso-large,1746478885.0,,0.18,0.27
 OpenRouter,meta-llama/llama-guard-4-12b,1745975193.0,,1.13,1.69
 OpenRouter,qwen/qwen3-30b-a3b,1745878604.0,,0.35,0.4
 OpenRouter,qwen/qwen3-8b,1745876632.0,,0.35,0.4
@@ -467,7 +476,6 @@ NVIDIA NIM,openai/gpt-oss-120b,735790403.0,openai,1.53,2.3
 NVIDIA NIM,openai/gpt-oss-20b,735790403.0,openai,1.75,2.63
 NVIDIA NIM,poolside/laguna-xs-2.1,735790403.0,poolside,3.98,5.97
 NVIDIA NIM,snowflake/arctic-embed-l,735790403.0,snowflake,1.2,1.79
-NVIDIA NIM,stepfun-ai/step-3.7-flash,735790403.0,stepfun-ai,1.17,1.75
 NVIDIA NIM,writer/palmyra-creative-122b,735790403.0,writer,4.78,7.17
 NVIDIA NIM,writer/palmyra-fin-70b-32k,735790403.0,writer,2.44,3.65
 NVIDIA NIM,writer/palmyra-med-70b,735790403.0,writer,2.65,3.97

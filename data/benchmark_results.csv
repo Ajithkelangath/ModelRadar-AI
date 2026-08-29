@@ -1,27 +1,26 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-tencent/hy4-preview,OpenRouter,0.6572,197.15,0.6572,0.6572
-inclusionai/ling-3.0-flash-fin:free,OpenRouter,0.7792,622.91,0.7792,0.7792
-qwen/qwen3.8-flash,OpenRouter,0.8492,584.66,0.8492,0.8492
-z-ai/glm-5.3-flash,OpenRouter,0.7572,635.96,0.7572,0.7572
-meta/muse-spark-1.2-contributor,OpenRouter,0.6572,197.14,0.6572,0.6572
-deepseek/deepseek-v4-flash-vision-exp,OpenRouter,0.7902,616.53,0.7902,0.7902
-tencent/hy-mt2-1.8b,OpenRouter,0.6572,197.14,0.6572,0.6573
-tencent/hy-mt2-30b-a3b,OpenRouter,0.6573,197.14,0.6573,0.6573
-~z-ai/glm-latest,OpenRouter,0.6573,197.14,0.6573,0.6573
-tencent/hy-mt2-7b,OpenRouter,0.6573,197.14,0.6573,0.6573
-minimax/minimax-m2.7,Novita AI,0.8123,604.19,0.8123,0.8123
-sao10k/l3.1-euryale-70b,OpenRouter,0.6573,197.14,0.6573,0.6573
-google/gemini-2.5-flash:batch,OpenRouter,0.8253,597.13,0.8253,0.8253
-relace/relace-search,OpenRouter,0.6573,197.13,0.6573,0.6573
-~moonshotai/kimi-latest,OpenRouter,0.6573,197.13,0.6573,0.6573
-ai_infer_test_2,Novita AI,0.6573,197.13,0.6573,0.6573
-bytedance/ui-tars-1.5-7b,OpenRouter,0.6573,197.13,0.6573,0.6573
-meta-llama/llama-guard-4-12b,OpenRouter,0.6573,197.13,0.6573,0.6573
-qwen/qwen3.6-35b-a3b,Novita AI,0.6573,197.13,0.6573,0.6573
-nvidia/riva-translate-4b-instruct-v1.1,NVIDIA NIM,0.6573,197.13,0.6573,0.6573
-google/gemini-3.7-flash,OpenRouter,0.8363,591.23,0.8363,0.8363
-google/gemini-3.7-flash:batch,OpenRouter,0.8223,598.65,0.8223,0.8223
-~deepseek/deepseek-v4-flash-latest,OpenRouter,0.7773,623.85,0.7773,0.7773
-deepseek/deepseek-v4-flash-0731,OpenRouter,0.8483,584.97,0.8483,0.8483
-qwen/qwen3.7-flash,OpenRouter,0.8073,606.79,0.8073,0.8073
-inclusionai/ling-3.0-flash,OpenRouter,0.7653,630.9,0.7653,0.7653
+tencent/hy4-preview,OpenRouter,0.6574,197.09,0.6574,0.6574
+inclusionai/ling-3.0-flash-fin:free,OpenRouter,0.8514,583.15,0.8514,0.8514
+qwen/qwen3.8-flash,OpenRouter,0.8304,594.05,0.8304,0.8304
+z-ai/glm-5.3-flash,OpenRouter,0.8044,608.13,0.8044,0.8044
+z-ai/glm-5.3-flash:batch,OpenRouter,0.8044,608.11,0.8044,0.8044
+meta/muse-spark-1.2-contributor,OpenRouter,0.6574,197.08,0.6574,0.6574
+deepseek/deepseek-v4-flash-vision-exp,OpenRouter,0.8364,590.85,0.8364,0.8364
+tencent/hy-mt2-1.8b,OpenRouter,0.6574,197.08,0.6574,0.6574
+tencent/hy-mt2-30b-a3b,OpenRouter,0.6574,197.08,0.6574,0.6574
+~z-ai/glm-latest,OpenRouter,0.6574,197.08,0.6574,0.6574
+qwen/qwen3.5-122b-a10b,Novita AI,0.6574,197.08,0.6574,0.6574
+qwen/qwen3-vl-32b-instruct,OpenRouter,0.6574,197.08,0.6574,0.6574
+poolside/laguna-xs-2.1,OpenRouter,0.6574,197.08,0.6574,0.6574
+qwen/qwen3-8b-fp8,Novita AI,0.6574,197.07,0.6574,0.6574
+qwen/qwen3-omni-30b-a3b-thinking,Novita AI,0.6574,197.07,0.6574,0.6574
+openai/gpt-3.5-turbo-0613,OpenRouter,0.6574,197.07,0.6574,0.6574
+meta-llama/llama-4-scout-17b-16e-instruct,Novita AI,0.6574,197.07,0.6574,0.6574
+zai-org/glm-5.2,Novita AI,0.6574,197.07,0.6574,0.6574
+anthropic/claude-fable-5,OpenRouter,0.6574,197.07,0.6574,0.6574
+qwen/qwen3-vl-235b-a22b-instruct,Novita AI,0.6574,197.07,0.6574,0.6574
+google/gemini-3.7-flash,OpenRouter,0.8034,608.47,0.8034,0.8034
+google/gemini-3.7-flash:batch,OpenRouter,0.8354,591.19,0.8354,0.8354
+~deepseek/deepseek-v4-flash-latest,OpenRouter,0.8205,599.15,0.8205,0.8205
+deepseek/deepseek-v4-flash-0731,OpenRouter,0.8445,586.49,0.8445,0.8445
+deepseek/deepseek-v4-flash-0731:batch,OpenRouter,0.8145,602.37,0.8145,0.8145
