@@ -8,6 +8,7 @@ OpenRouter,anthropic/claude-fable-5.1:batch,1788285838.0,,3.17,4.75
 OpenRouter,inception/mercury-2.5-preview,1788209864.0,,2.1,3.15
 OpenRouter,ibm-granite/granite-4.2-8b,1788206780.0,,0.49,0.74
 OpenRouter,tencent/hy4-preview,1787897375.0,,2.9,4.35
+OpenRouter,inclusionai/ling-3.0-flash-fin,1787846290.0,,1.05,1.58
 OpenRouter,inclusionai/ling-3.0-flash-fin:free,1787846290.0,,2.66,3.98
 OpenRouter,~z-ai/glm-flash-latest,1787817633.0,,0.71,1.06
 OpenRouter,qwen/qwen3.8-flash,1787773060.0,,0.35,0.4
@@ -100,6 +101,7 @@ OpenRouter,~anthropic/claude-fable-latest,1781029944.0,,4.6,6.9
 OpenRouter,anthropic/claude-fable-5,1781007515.0,,4.91,7.36
 OpenRouter,anthropic/claude-fable-5:batch,1781007515.0,,3.36,5.04
 OpenRouter,nex-agi/nex-n2-pro,1780937140.0,,1.66,2.5
+OpenRouter,nvidia/nemotron-3.5-content-safety,1780581864.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3.5-content-safety:free,1780581864.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3-ultra-550b-a55b,1780551208.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3-ultra-550b-a55b:free,1780551208.0,,0.6,0.6
@@ -119,6 +121,7 @@ OpenRouter,google/gemini-3.1-flash-lite,1778168828.0,,3.91,5.87
 OpenRouter,google/gemini-3.1-flash-lite:batch,1778168828.0,,2.62,3.93
 OpenRouter,openai/gpt-chat-latest,1778000212.0,,4.73,7.09
 OpenRouter,x-ai/grok-4.3,1777591821.0,,2.37,3.56
+OpenRouter,x-ai/grok-4.3:batch,1777591821.0,,3.45,5.17
 OpenRouter,ibm-granite/granite-4.1-8b,1777577071.0,,0.69,1.03
 OpenRouter,mistralai/mistral-medium-3-5,1777570439.0,,4.97,7.46
 OpenRouter,mistralai/mistral-medium-3-5:batch,1777570439.0,,2.97,4.46
@@ -499,7 +502,6 @@ NVIDIA NIM,nvidia/riva-translate-4b-instruct,735790403.0,nvidia,3.5,5.26
 NVIDIA NIM,nvidia/riva-translate-4b-instruct-v1.1,735790403.0,nvidia,1.99,2.98
 NVIDIA NIM,nvidia/riva-translate-4b-instruct-v2,735790403.0,nvidia,0.74,1.11
 NVIDIA NIM,nvidia/vila,735790403.0,nvidia,2.53,3.8
-NVIDIA NIM,openai/gpt-oss-120b,735790403.0,openai,1.53,2.3
 NVIDIA NIM,openai/gpt-oss-20b,735790403.0,openai,1.75,2.63
 NVIDIA NIM,poolside/laguna-xs-2.1,735790403.0,poolside,3.98,5.97
 NVIDIA NIM,snowflake/arctic-embed-l,735790403.0,snowflake,1.2,1.79
@@ -657,6 +659,8 @@ Novita AI,deepseek/deepseek-v3/community,1739525912.0,novita,2.3,3.44
 Novita AI,deepseek/deepseek-r1/community,1739525865.0,novita,2.53,3.79
 Novita AI,Sao10K/L3-8B-Stheno-v3.2,1732875917.0,novita,3.78,5.66
 Novita AI,gryphe/mythomax-l2-13b,1714024873.0,novita,2.04,3.06
+Novita AI,inclusionai/ling-3.0-flash-vl,1788406767.0,novita,3.58,5.36
+Novita AI,inclusionai/ling-3.0-flash-sante,1788406672.0,novita,3.29,4.94
 Novita AI,inclusionai/ring-2.6-1t,1778229656.0,novita,4.03,6.04
 Novita AI,inclusionai/ling-2.6-flash,1777017414.0,novita,1.73,2.59
 Novita AI,inclusionai/ling-2.6-1t,1776911025.0,novita,4.53,6.8
