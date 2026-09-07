@@ -99,7 +99,6 @@ OpenRouter,google/gemini-3.1-flash-image,1781754065.0,,1.11,1.67
 OpenRouter,google/gemini-3-pro-image,1781754054.0,,3.15,4.73
 OpenRouter,cohere/north-mini-code:free,1781723748.0,,0.2,0.3
 OpenRouter,z-ai/glm-5.2,1781631930.0,,1.34,2.01
-OpenRouter,z-ai/glm-5.2:free,1781631930.0,,2.8,4.2
 OpenRouter,openrouter/fusion,1781371647.0,,2.77,4.16
 OpenRouter,moonshotai/kimi-k2.7-code,1781266361.0,,0.85,1.27
 OpenRouter,~anthropic/claude-fable-latest,1781029944.0,,4.6,6.9
