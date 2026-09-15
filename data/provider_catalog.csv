@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,~deepseek/deepseek-pro-latest,1789399174.0,,1.15,1.73
+OpenRouter,~deepseek/deepseek-flash-latest,1789399150.0,,4.58,6.86
 OpenRouter,inference-net/schematron-v2-turbo,1789176949.0,,3.84,5.76
 OpenRouter,inference-net/schematron-v2-small,1789176933.0,,2.9,4.35
 OpenRouter,~openai/gpt-astra-latest,1789130932.0,,2.06,3.1
@@ -348,7 +350,6 @@ OpenRouter,deepseek/deepseek-r1-0528,1748455170.0,,3.78,5.67
 OpenRouter,anthropic/claude-opus-4,1747931245.0,,4.88,7.32
 OpenRouter,anthropic/claude-sonnet-4,1747930371.0,,2.14,3.22
 OpenRouter,mistralai/mistral-medium-3,1746627341.0,,0.33,0.5
-OpenRouter,google/gemini-2.5-pro-preview-05-06,1746578513.0,,1.5,2.25
 OpenRouter,meta-llama/llama-guard-4-12b,1745975193.0,,1.13,1.69
 OpenRouter,qwen/qwen3-30b-a3b,1745878604.0,,0.35,0.4
 OpenRouter,qwen/qwen3-8b,1745876632.0,,0.35,0.4
@@ -434,7 +435,6 @@ OpenRouter,openai/gpt-4-turbo:batch,1712620800.0,,3.93,5.9
 OpenRouter,anthropic/claude-3-haiku,1710288000.0,,3.95,5.92
 OpenRouter,mistralai/mistral-large,1708905600.0,,4.44,6.66
 OpenRouter,openai/gpt-3.5-turbo-0613,1706140800.0,,0.5,1.5
-OpenRouter,openai/gpt-4-turbo-preview,1706140800.0,,2.59,3.89
 OpenRouter,openrouter/auto,1699401600.0,,2.91,4.37
 OpenRouter,openai/gpt-3.5-turbo-instruct,1695859200.0,,0.5,1.5
 OpenRouter,openai/gpt-3.5-turbo-16k,1693180800.0,,0.5,1.5
@@ -455,7 +455,6 @@ NVIDIA NIM,bigcode/starcoder2-15b,735790403.0,bigcode,0.25,0.38
 NVIDIA NIM,databricks/dbrx-instruct,735790403.0,databricks,2.39,3.59
 NVIDIA NIM,deepseek-ai/deepseek-coder-6.7b-instruct,735790403.0,deepseek-ai,0.14,0.28
 NVIDIA NIM,deepseek-ai/deepseek-v4-flash-0731,735790403.0,deepseek-ai,4.73,7.09
-NVIDIA NIM,deepseek-ai/deepseek-v4-pro-0813,735790403.0,deepseek-ai,0.13,0.19
 NVIDIA NIM,google/codegemma-1.1-7b,735790403.0,google,2.27,3.4
 NVIDIA NIM,google/codegemma-7b,735790403.0,google,3.68,5.52
 NVIDIA NIM,google/deplot,735790403.0,google,2.41,3.61
