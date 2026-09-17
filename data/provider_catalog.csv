@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,stealth/union-alpha,1789569723.0,,0.13,0.19
 OpenRouter,~deepseek/deepseek-pro-latest,1789399174.0,,1.15,1.73
 OpenRouter,~deepseek/deepseek-flash-latest,1789399150.0,,4.58,6.86
 OpenRouter,inference-net/schematron-v2-turbo,1789176949.0,,3.84,5.76
