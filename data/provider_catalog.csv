@@ -1,5 +1,5 @@
 provider,model_id,created,owned_by,input,output
-OpenRouter,stealth/union-alpha,1789569723.0,,0.13,0.19
+OpenRouter,unbiased/pareto,1789686178.0,,4.59,6.89
 OpenRouter,~deepseek/deepseek-pro-latest,1789399174.0,,1.15,1.73
 OpenRouter,~deepseek/deepseek-flash-latest,1789399150.0,,4.58,6.86
 OpenRouter,inference-net/schematron-v2-turbo,1789176949.0,,3.84,5.76
@@ -46,6 +46,7 @@ OpenRouter,tencent/hy-mt2-7b,1787148797.0,,4.91,7.36
 OpenRouter,z-ai/glm-5.3,1787086655.0,,2.72,4.09
 OpenRouter,z-ai/glm-5.3:batch,1787086655.0,,1.35,2.03
 OpenRouter,qwen/qwen3.8-27b,1786722910.0,,0.35,0.4
+OpenRouter,qwen/qwen3.8-27b:free,1786722910.0,,0.35,0.4
 OpenRouter,dots-studio/dots-3-note-preview:free,1786680361.0,,0.58,0.86
 OpenRouter,google/gemini-3.7-flash,1786640581.0,,4.34,6.51
 OpenRouter,google/gemini-3.7-flash:batch,1786640581.0,,2.72,4.08
@@ -67,6 +68,7 @@ OpenRouter,meta/muse-spark-1.2,1785959287.0,,2.41,3.61
 OpenRouter,~deepseek/deepseek-v4-flash-latest,1785606009.0,,1.87,2.8
 OpenRouter,deepseek/deepseek-v4-flash-0731,1785478908.0,,0.23,0.34
 OpenRouter,deepseek/deepseek-v4-flash-0731:batch,1785478908.0,,2.84,4.26
+OpenRouter,deepseek/deepseek-v4-flash-0731:free,1785478908.0,,4.87,7.3
 OpenRouter,thinkingmachines/inkling-small,1785443117.0,,1.83,2.75
 OpenRouter,thinkingmachines/inkling-small:free,1785443117.0,,1.53,2.29
 OpenRouter,qwen/qwen3.7-flash,1785190561.0,,0.35,0.4
@@ -552,6 +554,7 @@ DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
 Novita AI,zai-org/glm-5.3-flash,1787754787.0,novita,0.15,0.22
+Novita AI,tencent/hy4-preview,1789634674.0,novita,2.9,4.35
 Novita AI,deepseek/deepseek-v4.1-flash-z,1789458112.0,novita,1.39,2.08
 Novita AI,zai-org/glm-5.3-p,1789095097.0,novita,4.55,6.82
 Novita AI,deepseek/deepseek-v4.1-flash,1789024319.0,novita,0.5,0.75
