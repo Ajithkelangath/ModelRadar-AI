@@ -1,5 +1,6 @@
 provider,model_id,created,owned_by,input,output
 OpenRouter,prism-ml/ternary-bonsai-2-27b,1789754046.0,,0.24,0.36
+OpenRouter,z-ai/glm-5.3-flashx,1789744020.0,,0.22,0.33
 OpenRouter,unbiased/pareto,1789686178.0,,4.59,6.89
 OpenRouter,~deepseek/deepseek-pro-latest,1789399174.0,,1.15,1.73
 OpenRouter,~deepseek/deepseek-flash-latest,1789399150.0,,4.58,6.86
