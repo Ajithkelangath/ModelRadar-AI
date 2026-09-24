@@ -1,4 +1,10 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,z-ai/glm-5.3-prime,1790199651.0,,0.29,0.43
+OpenRouter,qwen/qwen3.8-max-prime,1790191228.0,,0.35,0.4
+OpenRouter,stealth/space-bunny-alpha,1790174884.0,,1.71,2.56
+OpenRouter,aion-labs/aion-3.5-mini,1790170962.0,,4.32,6.48
+OpenRouter,aion-labs/aion-3.5,1790170961.0,,0.68,1.02
+OpenRouter,upstage/solar-mini4,1790160358.0,,4.89,7.33
 OpenRouter,cohere/command-a-plus,1790102896.0,,4.64,6.96
 OpenRouter,openai/gpt-6-luna-pro,1790100791.0,,0.61,0.92
 OpenRouter,openai/gpt-6-luna-pro:batch,1790100791.0,,1.9,2.85
@@ -29,7 +35,6 @@ OpenRouter,~openai/gpt-luna-latest,1789130922.0,,1.99,2.98
 OpenRouter,sakana/fugu-ultra-v2,1789105383.0,,4.29,6.44
 OpenRouter,sakana/fugu-max,1789104771.0,,1.86,2.78
 OpenRouter,inclusionai/ling-3.0-flash-vl,1789056114.0,,3.58,5.36
-OpenRouter,inclusionai/ling-3.0-flash-vl:free,1789056114.0,,2.86,4.28
 OpenRouter,deepseek/deepseek-v4.1-flash,1789021285.0,,0.5,0.75
 OpenRouter,deepseek/deepseek-v4.1-flash:batch,1789021285.0,,0.34,0.51
 OpenRouter,inception/mercury-2.5,1788892137.0,,0.56,0.83
@@ -259,7 +264,6 @@ OpenRouter,openai/gpt-5.2-pro,1765389780.0,,1.89,2.83
 OpenRouter,openai/gpt-5.2-pro:batch,1765389780.0,,1.94,2.91
 OpenRouter,openai/gpt-5.2,1765389775.0,,4.94,7.4
 OpenRouter,openai/gpt-5.2:batch,1765389775.0,,2.64,3.95
-OpenRouter,mistralai/devstral-2512,1765285419.0,,4.37,6.56
 OpenRouter,relace/relace-search,1765213560.0,,4.98,7.46
 OpenRouter,z-ai/glm-4.6v,1765207462.0,,0.4,0.4
 OpenRouter,openrouter/bodybuilder,1764903653.0,,3.85,5.78
@@ -326,6 +330,7 @@ OpenRouter,openai/gpt-5-mini:batch,1754587407.0,,2.35,3.53
 OpenRouter,openai/gpt-5-nano,1754587402.0,,3.12,4.69
 OpenRouter,openai/gpt-5-nano:batch,1754587402.0,,1.83,2.74
 OpenRouter,openai/gpt-oss-120b,1754414231.0,,1.53,2.3
+OpenRouter,openai/gpt-oss-120b:batch,1754414231.0,,1.53,2.29
 OpenRouter,openai/gpt-oss-20b,1754414229.0,,1.75,2.63
 OpenRouter,openai/gpt-oss-20b:batch,1754414229.0,,3.26,4.88
 OpenRouter,anthropic/claude-opus-4.1,1754411591.0,,1.44,2.15
