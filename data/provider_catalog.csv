@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,fireworks/ember-1,1790208461.0,,2.24,3.36
 OpenRouter,z-ai/glm-5.3-prime,1790199651.0,,0.29,0.43
 OpenRouter,qwen/qwen3.8-max-prime,1790191228.0,,0.35,0.4
 OpenRouter,stealth/space-bunny-alpha,1790174884.0,,1.71,2.56
@@ -38,9 +39,7 @@ OpenRouter,inclusionai/ling-3.0-flash-vl,1789056114.0,,3.58,5.36
 OpenRouter,deepseek/deepseek-v4.1-flash,1789021285.0,,0.5,0.75
 OpenRouter,deepseek/deepseek-v4.1-flash:batch,1789021285.0,,0.34,0.51
 OpenRouter,inception/mercury-2.5,1788892137.0,,0.56,0.83
-OpenRouter,nex-agi/nex-n2.5-mini,1788890061.0,,1.97,2.95
 OpenRouter,nex-agi/nex-n2.5-mini:free,1788890061.0,,4.33,6.49
-OpenRouter,nex-agi/nex-n2.5-pro,1788890050.0,,3.87,5.8
 OpenRouter,nex-agi/nex-n2.5-pro:free,1788890050.0,,1.87,2.81
 OpenRouter,openai/gpt-6-astra,1788552838.0,,3.59,5.39
 OpenRouter,openai/gpt-6-astra:batch,1788552838.0,,2.57,3.85
@@ -264,6 +263,7 @@ OpenRouter,openai/gpt-5.2-pro,1765389780.0,,1.89,2.83
 OpenRouter,openai/gpt-5.2-pro:batch,1765389780.0,,1.94,2.91
 OpenRouter,openai/gpt-5.2,1765389775.0,,4.94,7.4
 OpenRouter,openai/gpt-5.2:batch,1765389775.0,,2.64,3.95
+OpenRouter,mistralai/devstral-2512,1765285419.0,,4.37,6.56
 OpenRouter,relace/relace-search,1765213560.0,,4.98,7.46
 OpenRouter,z-ai/glm-4.6v,1765207462.0,,0.4,0.4
 OpenRouter,openrouter/bodybuilder,1764903653.0,,3.85,5.78
@@ -273,6 +273,7 @@ OpenRouter,mistralai/ministral-14b-2512,1764681735.0,,1.98,2.97
 OpenRouter,mistralai/ministral-8b-2512,1764681654.0,,4.68,7.02
 OpenRouter,mistralai/ministral-8b-2512:batch,1764681654.0,,2.14,3.2
 OpenRouter,mistralai/ministral-3b-2512,1764681560.0,,4.49,6.74
+OpenRouter,mistralai/mistral-large-2512,1764624472.0,,3.29,4.93
 OpenRouter,mistralai/mistral-large-2512:batch,1764624472.0,,0.99,1.49
 OpenRouter,deepseek/deepseek-v3.2,1764594642.0,,0.12,0.19
 OpenRouter,anthropic/claude-opus-4.5,1764010580.0,,4.87,7.31
@@ -567,8 +568,10 @@ DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
 Novita AI,zai-org/glm-5.3-flash,1787754787.0,novita,0.15,0.22
+Novita AI,deepseek/deepseek-v4.1-flash-p,1790240765.0,novita,2.75,4.13
+Novita AI,xiaomimimo/mimo-v2.6-flash,1790230295.0,novita,0.15,0.15
+Novita AI,xiaomimimo/mimo-v2.6-pro,1790230183.0,novita,0.15,0.15
 Novita AI,tencent/hy4-preview,1789634674.0,novita,2.9,4.35
-Novita AI,deepseek/deepseek-v4.1-flash-z,1789458112.0,novita,1.39,2.08
 Novita AI,zai-org/glm-5.3-p,1789095097.0,novita,4.55,6.82
 Novita AI,deepseek/deepseek-v4.1-flash,1789024319.0,novita,0.5,0.75
 Novita AI,zai-org/glm-5.3,1787105676.0,novita,4.18,6.27
