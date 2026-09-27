@@ -566,6 +566,8 @@ DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
 Novita AI,zai-org/glm-5.3-flash,1787754787.0,novita,0.15,0.22
+Novita AI,deepseek/deepseek-v4-pro-0813-p,1790471016.0,novita,1.56,2.34
+Novita AI,deepseek/deepseek-v4.1-flash-dst,1790413998.0,novita,0.18,0.28
 Novita AI,deepseek/deepseek-v4.1-flash-p,1790240765.0,novita,2.75,4.13
 Novita AI,xiaomimimo/mimo-v2.6-flash,1790230295.0,novita,0.15,0.15
 Novita AI,xiaomimimo/mimo-v2.6-pro,1790230183.0,novita,0.15,0.15
@@ -578,6 +580,7 @@ Novita AI,moonshotai/kimi-k3,1784168859.0,novita,2.75,4.12
 Novita AI,tencent/hy3,1782798401.0,novita,1.92,2.88
 Novita AI,zai-org/glm-5.2,1781262235.0,novita,4.69,7.03
 Novita AI,moonshotai/kimi-k2.7-code,1781260548.0,novita,0.85,1.27
+Novita AI,deepseek/deepseek-v4-flash-0731-p,1790471310.0,novita,4.51,6.77
 Novita AI,qwen/qwen3.8-flash,1787815610.0,novita,0.35,0.4
 Novita AI,deepseek/deepseek-v4-flash-vision-exp,1787550870.0,novita,0.21,0.32
 Novita AI,deepseek/deepseek-v4-flash-0731,1785546565.0,novita,0.23,0.34
