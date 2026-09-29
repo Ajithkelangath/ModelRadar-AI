@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,anthropic/claude-sonnet-5.5,1790618686.0,,2.44,3.65
+OpenRouter,anthropic/claude-sonnet-5.5:batch,1790618686.0,,1.92,2.88
 OpenRouter,typesafe/jev-router,1790363560.0,,0.68,1.02
 OpenRouter,perceptron/perceptron-mk1.5,1790352661.0,,1.7,2.56
 OpenRouter,fireworks/ember-1,1790208461.0,,2.24,3.36
@@ -41,6 +43,8 @@ OpenRouter,inclusionai/ling-3.0-flash-vl,1789056114.0,,3.58,5.36
 OpenRouter,deepseek/deepseek-v4.1-flash,1789021285.0,,0.5,0.75
 OpenRouter,deepseek/deepseek-v4.1-flash:batch,1789021285.0,,0.34,0.51
 OpenRouter,inception/mercury-2.5,1788892137.0,,0.56,0.83
+OpenRouter,nex-agi/nex-n2.5-mini,1788890061.0,,1.97,2.95
+OpenRouter,nex-agi/nex-n2.5-pro,1788890050.0,,3.87,5.8
 OpenRouter,openai/gpt-6-astra,1788552838.0,,3.59,5.39
 OpenRouter,openai/gpt-6-astra:batch,1788552838.0,,2.57,3.85
 OpenRouter,openai/gpt-6-astra-pro,1788552835.0,,2.51,3.76
@@ -56,7 +60,6 @@ OpenRouter,anthropic/claude-fable-5.1:batch,1788285838.0,,3.17,4.75
 OpenRouter,ibm-granite/granite-4.2-8b,1788206780.0,,0.49,0.74
 OpenRouter,tencent/hy4-preview,1787897375.0,,2.9,4.35
 OpenRouter,inclusionai/ling-3.0-flash-fin,1787846290.0,,1.05,1.58
-OpenRouter,inclusionai/ling-3.0-flash-fin:free,1787846290.0,,2.66,3.98
 OpenRouter,~z-ai/glm-flash-latest,1787817633.0,,0.71,1.06
 OpenRouter,qwen/qwen3.8-flash,1787773060.0,,0.35,0.4
 OpenRouter,z-ai/glm-5.3-flash,1787752741.0,,1.43,2.14
@@ -404,7 +407,6 @@ OpenRouter,openai/o3-mini,1738351721.0,,1.29,1.93
 OpenRouter,openai/o3-mini:batch,1738351721.0,,4.33,6.5
 OpenRouter,mistralai/mistral-small-24b-instruct-2501,1738255409.0,,2.52,3.78
 OpenRouter,perplexity/sonar,1738013808.0,,2.44,3.66
-OpenRouter,deepseek/deepseek-r1-distill-llama-70b,1737663169.0,,1.79,2.68
 OpenRouter,deepseek/deepseek-r1,1737381095.0,,0.8,1.2
 OpenRouter,minimax/minimax-01,1736915462.0,,0.5,0.5
 OpenRouter,microsoft/phi-4,1736489872.0,,3.87,5.8
@@ -494,7 +496,6 @@ NVIDIA NIM,mistralai/codestral-22b-instruct-v0.1,735790403.0,mistralai,2.23,3.34
 NVIDIA NIM,mistralai/mistral-7b-instruct-v0.3,735790403.0,mistralai,4.4,6.6
 NVIDIA NIM,mistralai/mistral-large,735790403.0,mistralai,4.44,6.66
 NVIDIA NIM,mistralai/mistral-large-2-instruct,735790403.0,mistralai,3.97,5.95
-NVIDIA NIM,mistralai/mistral-nemotron,735790403.0,mistralai,0.6,0.6
 NVIDIA NIM,mistralai/mixtral-8x22b-v0.1,735790403.0,mistralai,0.93,1.4
 NVIDIA NIM,moonshotai/kimi-k2.6,735790403.0,moonshotai,4.09,6.13
 NVIDIA NIM,moonshotai/kimi-k3,735790403.0,moonshotai,2.75,4.12
@@ -588,7 +589,7 @@ Novita AI,mindai/macaron-v1-venti,1784605406.0,novita,2.87,4.3
 Novita AI,minimax/minimax-m3,1780282959.0,novita,0.5,0.5
 Novita AI,deepseek/deepseek-v4-flash,1777001037.0,novita,1.61,2.41
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,novita,0.39,0.58
-Novita AI,deepseek/deepseek-v3.2,1764588967.0,novita,0.12,0.19
+Novita AI,inclusionai/ling-3.1-flash,1790563605.0,novita,1.77,2.66
 Novita AI,qwen/qwen3.8-27b,1787737609.0,novita,0.35,0.4
 Novita AI,inclusionai/ling-3.0-flash-fin,1787726682.0,novita,1.05,1.58
 Novita AI,qwen/qwen3.8-2.4t-a95b,1787637817.0,novita,0.35,0.4
@@ -630,17 +631,14 @@ Novita AI,zai-org/autoglm-phone-9b-multilingual,1765370191.0,novita,3.9,5.85
 Novita AI,moonshotai/kimi-k2-thinking,1762480786.0,novita,1.89,2.84
 Novita AI,minimax/minimax-m2,1761536024.0,novita,0.5,0.5
 Novita AI,paddlepaddle/paddleocr-vl,1761138629.0,novita,3.63,5.44
-Novita AI,deepseek/deepseek-v3.2-exp,1759142233.0,novita,2.0,3.0
 Novita AI,qwen/qwen3-vl-235b-a22b-thinking,1758695177.0,novita,0.35,0.4
 Novita AI,qwen/qwen3.6-plus,1776757830.0,novita,0.35,0.4
 Novita AI,zai-org/glm-4.6v,1765204180.0,novita,0.4,0.4
 Novita AI,zai-org/glm-4.6,1759220284.0,novita,0.4,0.4
 Novita AI,qwen/qwen3.6-35b-a3b,1776765179.0,novita,0.35,0.4
 Novita AI,qwen/qwen3-next-80b-a3b-instruct,1757534155.0,novita,0.35,0.4
-Novita AI,deepseek/deepseek-v3.1-terminus,1758549812.0,novita,3.8,5.7
 Novita AI,qwen/qwen3-vl-235b-a22b-instruct,1758695214.0,novita,0.35,0.4
 Novita AI,qwen/qwen3-max,1758682246.0,novita,0.35,0.4
-Novita AI,deepseek/deepseek-v3.1,1755759094.0,novita,4.73,7.1
 Novita AI,moonshotai/kimi-k2-0905,1757052991.0,novita,1.78,2.67
 Novita AI,qwen/qwen3-coder-480b-a35b-instruct,1753233789.0,novita,0.35,0.4
 Novita AI,qwen/qwen3-coder-30b-a3b-instruct,1759991077.0,novita,0.35,0.4
@@ -660,9 +658,7 @@ Novita AI,minimaxai/minimax-m1-80k,1750139830.0,novita,0.5,0.5
 Novita AI,deepseek/deepseek-r1-0528,1748457624.0,novita,3.78,5.67
 Novita AI,microsoft/wizardlm-2-8x22b,1713938472.0,novita,2.74,4.11
 Novita AI,deepseek/deepseek-r1-0528-qwen3-8b,1748526709.0,novita,0.35,0.4
-Novita AI,deepseek/deepseek-r1-distill-llama-70b,1737957190.0,novita,1.79,2.68
 Novita AI,qwen/qwen3-235b-a22b-fp8,1745897024.0,novita,0.35,0.4
-Novita AI,deepseek/deepseek-r1,1737876558.0,novita,0.8,1.2
 Novita AI,meta-llama/llama-4-maverick-17b-128e-instruct-fp8,1743906990.0,novita,3.54,5.32
 Novita AI,meta-llama/llama-4-scout-17b-16e-instruct,1743906925.0,novita,1.13,1.7
 Novita AI,nousresearch/hermes-2-pro-llama-3-8b,1719493012.0,novita,4.92,7.38
@@ -672,7 +668,6 @@ Novita AI,baichuan/baichuan-m2-32b,1755106514.0,novita,1.27,1.9
 Novita AI,baidu/ernie-4.5-vl-424b-a47b,1751258620.0,novita,0.12,0.18
 Novita AI,google/gemma-3-27b-it,1742889385.0,novita,0.66,0.99
 Novita AI,deepseek/deepseek-r1-turbo,1741174465.0,novita,1.81,2.71
-Novita AI,deepseek/deepseek-v3/community,1739525912.0,novita,2.3,3.44
 Novita AI,deepseek/deepseek-r1/community,1739525865.0,novita,2.53,3.79
 Novita AI,Sao10K/L3-8B-Stheno-v3.2,1732875917.0,novita,3.78,5.66
 Novita AI,gryphe/mythomax-l2-13b,1714024873.0,novita,2.04,3.06
