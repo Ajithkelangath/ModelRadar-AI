@@ -1,4 +1,8 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,openai/gpt-6.1-sol-pro,1790702886.0,,3.02,4.53
+OpenRouter,openai/gpt-6.1-sol-pro:batch,1790702886.0,,4.03,6.05
+OpenRouter,openai/gpt-6.1-sol,1790702882.0,,2.6,3.9
+OpenRouter,openai/gpt-6.1-sol:batch,1790702882.0,,0.37,0.55
 OpenRouter,anthropic/claude-sonnet-5.5,1790618686.0,,2.44,3.65
 OpenRouter,anthropic/claude-sonnet-5.5:batch,1790618686.0,,1.92,2.88
 OpenRouter,typesafe/jev-router,1790363560.0,,0.68,1.02
