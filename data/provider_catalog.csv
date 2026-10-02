@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,apodex/apodex-1.1-mini:free,1790875335.0,,3.35,5.02
+OpenRouter,unbiased/pareto-26.10-preview,1790863623.0,,3.49,5.23
 OpenRouter,openai/gpt-6.1-sol-pro,1790702886.0,,3.02,4.53
 OpenRouter,openai/gpt-6.1-sol,1790702882.0,,2.6,3.9
 OpenRouter,anthropic/claude-sonnet-5.5,1790618686.0,,2.44,3.65
@@ -592,6 +594,7 @@ Novita AI,mindai/macaron-v1-venti,1784605406.0,novita,2.87,4.3
 Novita AI,minimax/minimax-m3,1780282959.0,novita,0.5,0.5
 Novita AI,deepseek/deepseek-v4-flash,1777001037.0,novita,1.61,2.41
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,novita,0.39,0.58
+Novita AI,apodex/apodex-1.1-mini,1790824276.0,novita,4.95,7.43
 Novita AI,inclusionai/ling-3.1-flash,1790563605.0,novita,1.77,2.66
 Novita AI,qwen/qwen3.8-27b,1787737609.0,novita,0.35,0.4
 Novita AI,inclusionai/ling-3.0-flash-fin,1787726682.0,novita,1.05,1.58
