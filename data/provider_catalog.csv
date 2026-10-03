@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,inclusionai/ling-3.1-flash,1790950024.0,,1.77,2.66
 OpenRouter,apodex/apodex-1.1-mini:free,1790875335.0,,3.35,5.02
 OpenRouter,unbiased/pareto-26.10-preview,1790863623.0,,3.49,5.23
 OpenRouter,openai/gpt-6.1-sol-pro,1790702886.0,,3.02,4.53
@@ -25,6 +26,7 @@ OpenRouter,openai/gpt-6-sol,1790100775.0,,4.26,6.39
 OpenRouter,openai/gpt-6-sol:batch,1790100775.0,,4.41,6.62
 OpenRouter,anthropic/claude-opus-5.5,1790094732.0,,3.24,4.86
 OpenRouter,anthropic/claude-opus-5.5:batch,1790094732.0,,3.9,5.84
+OpenRouter,nvidia/switchyard,1790025947.0,,4.87,7.3
 OpenRouter,xiaomi/mimo-v2.6-pro-ultraspeed,1790021267.0,,0.15,0.15
 OpenRouter,xiaomi/mimo-v2.6-flash,1790021264.0,,0.15,0.15
 OpenRouter,xiaomi/mimo-v2.6-pro,1790021259.0,,0.15,0.15
