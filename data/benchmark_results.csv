@@ -1,28 +1,29 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-inclusionai/ling-3.1-flash,OpenRouter,0.8176,606.57,0.8176,0.8176
-apodex/apodex-1.1-mini:free,OpenRouter,0.8506,588.87,0.8506,0.8506
-unbiased/pareto-26.10-preview,OpenRouter,0.6556,197.8,0.6556,0.6556
-openai/gpt-6.1-sol-pro,OpenRouter,0.6556,197.8,0.6556,0.6556
-openai/gpt-6.1-sol,OpenRouter,0.6556,197.79,0.6556,0.6556
-anthropic/claude-sonnet-5.5,OpenRouter,0.9656,62.67,0.9656,0.9656
-anthropic/claude-sonnet-5.5:batch,OpenRouter,0.99,60.57,0.99,0.99
-typesafe/jev-router,OpenRouter,0.6556,197.79,0.6556,0.6556
-perceptron/perceptron-mk1.5,OpenRouter,0.6556,197.79,0.6556,0.6556
-fireworks/ember-1,OpenRouter,0.6556,197.79,0.6556,0.6556
-mistralai/ministral-8b-2512,OpenRouter,0.8086,611.46,0.8086,0.8086
-llama3.1-8b,Cerebras,0.6556,197.79,0.6556,0.6556
-relace/relace-search,OpenRouter,0.6556,197.78,0.6556,0.6556
-google/diffusiongemma-26b-a4b-it,NVIDIA NIM,0.7746,631.1,0.7746,0.7746
-meituan/longcat-2.0,OpenRouter,0.6556,197.78,0.6556,0.6556
-mistral-small-latest,Mistral,0.7886,622.82,0.7886,0.7886
-qwen/qwen3-vl-8b-instruct,OpenRouter,0.6556,197.78,0.6556,0.6556
-anthropic/claude-opus-4.5,OpenRouter,0.9466,63.81,0.9466,0.9466
-nvidia/cosmos-reason2-8b,NVIDIA NIM,0.6556,197.78,0.6556,0.6556
-aion-labs/aion-3.5-mini,OpenRouter,0.8126,609.12,0.8126,0.8126
-upstage/solar-mini4,OpenRouter,0.8056,613.03,0.8056,0.8056
-xiaomi/mimo-v2.6-flash,OpenRouter,0.7616,638.86,0.7616,0.7616
-qwen/qwen3.8-omni-flash,OpenRouter,0.7966,618.12,0.7966,0.7966
-z-ai/glm-5.3-flashx,OpenRouter,0.8396,594.41,0.8396,0.8396
-~deepseek/deepseek-flash-latest,OpenRouter,0.8096,610.73,0.8096,0.8096
-inclusionai/ling-3.0-flash-vl,OpenRouter,0.8486,589.66,0.8486,0.8486
-deepseek/deepseek-v4.1-flash,OpenRouter,0.8396,594.38,0.8396,0.8396
+inclusionai/ling-3.1-flash,OpenRouter,0.7626,655.99,0.7626,0.7626
+apodex/apodex-1.1-mini:free,OpenRouter,0.8336,613.14,0.8336,0.8336
+unbiased/pareto-26.10-preview,OpenRouter,0.6506,199.74,0.6506,0.6506
+openai/gpt-6.1-sol-pro,OpenRouter,0.6506,199.74,0.6507,0.6507
+openai/gpt-6.1-sol,OpenRouter,0.6507,199.74,0.6507,0.6507
+anthropic/claude-sonnet-5.5,OpenRouter,0.9707,62.28,0.9707,0.9707
+anthropic/claude-sonnet-5.5:batch,OpenRouter,0.9497,63.53,0.9497,0.9497
+typesafe/jev-router,OpenRouter,0.6507,199.73,0.6507,0.6507
+perceptron/perceptron-mk1.5,OpenRouter,0.6507,199.73,0.6507,0.6507
+fireworks/ember-1,OpenRouter,0.6507,199.73,0.6507,0.6507
+google/gemma-3-4b-it,NVIDIA NIM,0.7767,646.94,0.7767,0.7767
+deepseek-ai/deepseek-v4.1-flash,NVIDIA NIM,0.8267,617.0,0.8267,0.8267
+anthropic/claude-fable-5.1:batch,OpenRouter,0.6507,199.73,0.6507,0.6507
+openai/gpt-4o,OpenRouter,0.9047,66.37,0.9047,0.9047
+writer/palmyra-x5,OpenRouter,0.6507,199.73,0.6507,0.6507
+poolside/laguna-xs-2.1,OpenRouter,0.6507,199.73,0.6507,0.6507
+openai/o1,OpenRouter,0.6507,199.72,0.6507,0.6507
+openai/gpt-4o-2024-08-06,OpenRouter,0.99,60.86,0.99,0.99
+deepseek-coder,DeepSeek,0.6507,199.72,0.6507,0.6507
+~anthropic/claude-sonnet-latest,OpenRouter,0.99,60.8,0.99,0.99
+aion-labs/aion-3.5-mini,OpenRouter,0.8317,614.05,0.8317,0.8317
+upstage/solar-mini4,OpenRouter,0.8387,610.1,0.8387,0.8387
+xiaomi/mimo-v2.6-flash,OpenRouter,0.8107,626.14,0.8107,0.8107
+qwen/qwen3.8-omni-flash,OpenRouter,0.8387,610.08,0.8387,0.8387
+z-ai/glm-5.3-flashx,OpenRouter,0.7817,643.64,0.7817,0.7817
+~deepseek/deepseek-flash-latest,OpenRouter,0.8117,625.51,0.8117,0.8117
+inclusionai/ling-3.0-flash-vl,OpenRouter,0.7897,638.68,0.7897,0.7897
+deepseek/deepseek-v4.1-flash,OpenRouter,0.8197,620.83,0.8197,0.8197

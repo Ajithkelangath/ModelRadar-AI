@@ -11,7 +11,6 @@ OpenRouter,perceptron/perceptron-mk1.5,1790352661.0,,1.7,2.56
 OpenRouter,fireworks/ember-1,1790208461.0,,2.24,3.36
 OpenRouter,z-ai/glm-5.3-prime,1790199651.0,,0.29,0.43
 OpenRouter,qwen/qwen3.8-max-prime,1790191228.0,,0.35,0.4
-OpenRouter,stealth/space-bunny-alpha,1790174884.0,,1.71,2.56
 OpenRouter,aion-labs/aion-3.5-mini,1790170962.0,,4.32,6.48
 OpenRouter,aion-labs/aion-3.5,1790170961.0,,0.68,1.02
 OpenRouter,upstage/solar-mini4,1790160358.0,,4.89,7.33
@@ -79,7 +78,6 @@ OpenRouter,tencent/hy-mt2-7b,1787148797.0,,4.91,7.36
 OpenRouter,z-ai/glm-5.3,1787086655.0,,2.72,4.09
 OpenRouter,z-ai/glm-5.3:batch,1787086655.0,,1.35,2.03
 OpenRouter,qwen/qwen3.8-27b,1786722910.0,,0.35,0.4
-OpenRouter,qwen/qwen3.8-27b:free,1786722910.0,,0.35,0.4
 OpenRouter,dots-studio/dots-3-note-preview:free,1786680361.0,,0.58,0.86
 OpenRouter,google/gemini-3.7-flash,1786640581.0,,4.34,6.51
 OpenRouter,google/gemini-3.7-flash:batch,1786640581.0,,2.72,4.08
@@ -536,7 +534,6 @@ NVIDIA NIM,nvidia/neva-22b,735790403.0,nvidia,4.42,6.63
 NVIDIA NIM,nvidia/nv-embedqa-mistral-7b-v2,735790403.0,nvidia,4.12,6.18
 NVIDIA NIM,nvidia/nvclip,735790403.0,nvidia,4.78,7.17
 NVIDIA NIM,nvidia/riva-translate-4b-instruct,735790403.0,nvidia,3.5,5.26
-NVIDIA NIM,nvidia/riva-translate-4b-instruct-v1.1,735790403.0,nvidia,1.99,2.98
 NVIDIA NIM,nvidia/riva-translate-4b-instruct-v2,735790403.0,nvidia,0.74,1.11
 NVIDIA NIM,nvidia/vila,735790403.0,nvidia,2.53,3.8
 NVIDIA NIM,openai/gpt-oss-20b,735790403.0,openai,1.75,2.63
