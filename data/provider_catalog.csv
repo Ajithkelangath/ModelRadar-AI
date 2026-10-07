@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,google/gemini-nano-banana-2.1,1791300825.0,,0.2,0.29
+OpenRouter,mistralai/mistral-large-4-0,1791294122.0,,4.47,6.7
 OpenRouter,inclusionai/ling-3.1-flash,1790950024.0,,1.77,2.66
 OpenRouter,apodex/apodex-1.1-mini:free,1790875335.0,,3.35,5.02
 OpenRouter,unbiased/pareto-26.10-preview,1790863623.0,,3.49,5.23
@@ -114,7 +116,6 @@ OpenRouter,openrouter/auto-beta,1784311165.0,,3.1,4.64
 OpenRouter,moonshotai/kimi-k3,1784215858.0,,2.75,4.12
 OpenRouter,moonshotai/kimi-k3:batch,1784215858.0,,2.95,4.42
 OpenRouter,meta/muse-spark-1.1,1784215741.0,,4.14,6.21
-OpenRouter,kwaipilot/kat-coder-pro-v2.5,1783714589.0,,0.27,0.4
 OpenRouter,openai/gpt-5.6-luna-pro,1783590867.0,,2.07,3.11
 OpenRouter,openai/gpt-5.6-luna-pro:batch,1783590867.0,,2.58,3.88
 OpenRouter,openai/gpt-5.6-luna,1783590864.0,,0.14,0.22
