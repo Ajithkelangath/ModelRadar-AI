@@ -184,7 +184,6 @@ OpenRouter,~anthropic/claude-sonnet-latest,1777318368.0,,3.41,5.11
 OpenRouter,qwen/qwen3.5-plus-20260420,1777261368.0,,0.35,0.4
 OpenRouter,qwen/qwen3.6-flash,1777261362.0,,0.35,0.4
 OpenRouter,qwen/qwen3.6-35b-a3b,1777260255.0,,0.35,0.4
-OpenRouter,qwen/qwen3.6-max-preview,1777260242.0,,0.35,0.4
 OpenRouter,qwen/qwen3.6-27b,1777255064.0,,0.35,0.4
 OpenRouter,openai/gpt-5.5-pro,1777051896.0,,1.95,2.92
 OpenRouter,openai/gpt-5.5-pro:batch,1777051896.0,,3.97,5.95
@@ -249,7 +248,6 @@ OpenRouter,qwen/qwen3.5-plus-02-15,1771229416.0,,0.35,0.4
 OpenRouter,qwen/qwen3.5-397b-a17b,1771223018.0,,0.35,0.4
 OpenRouter,minimax/minimax-m2.5,1770908502.0,,0.5,0.5
 OpenRouter,z-ai/glm-5,1770829182.0,,0.15,0.23
-OpenRouter,qwen/qwen3-max-thinking,1770671901.0,,0.35,0.4
 OpenRouter,anthropic/claude-opus-4.6,1770219050.0,,1.77,2.66
 OpenRouter,anthropic/claude-opus-4.6:batch,1770219050.0,,3.87,5.8
 OpenRouter,qwen/qwen3-coder-next,1770164101.0,,0.35,0.4
@@ -301,12 +299,10 @@ OpenRouter,perplexity/sonar-pro-search,1761854366.0,,4.67,7.0
 OpenRouter,mistralai/voxtral-small-24b-2507,1761835144.0,,4.79,7.18
 OpenRouter,openai/gpt-oss-safeguard-20b,1761752836.0,,3.92,5.88
 OpenRouter,minimax/minimax-m2,1761252093.0,,0.5,0.5
-OpenRouter,qwen/qwen3-vl-32b-instruct,1761231332.0,,0.35,0.4
 OpenRouter,ibm-granite/granite-4.0-h-micro,1760927695.0,,3.16,4.74
 OpenRouter,openai/gpt-5-image-mini,1760624583.0,,1.9,2.86
 OpenRouter,anthropic/claude-haiku-4.5,1760547638.0,,2.44,3.65
 OpenRouter,anthropic/claude-haiku-4.5:batch,1760547638.0,,1.65,2.47
-OpenRouter,qwen/qwen3-vl-8b-thinking,1760463746.0,,0.35,0.4
 OpenRouter,qwen/qwen3-vl-8b-instruct,1760463308.0,,0.35,0.4
 OpenRouter,openai/gpt-5-image,1760447986.0,,1.28,1.92
 OpenRouter,google/gemini-2.5-flash-image,1759870431.0,,4.18,6.27
@@ -320,17 +316,12 @@ OpenRouter,anthropic/claude-sonnet-4.5:batch,1759161676.0,,1.34,2.01
 OpenRouter,deepseek/deepseek-v3.2-exp,1759150481.0,,2.0,3.0
 OpenRouter,thedrummer/cydonia-24b-v4.1,1758931878.0,,3.21,4.82
 OpenRouter,relace/relace-apply-3,1758891572.0,,1.74,2.61
-OpenRouter,qwen/qwen3-vl-235b-a22b-thinking,1758668690.0,,0.35,0.4
 OpenRouter,qwen/qwen3-vl-235b-a22b-instruct,1758668687.0,,0.35,0.4
-OpenRouter,qwen/qwen3-max,1758662808.0,,0.35,0.4
-OpenRouter,qwen/qwen3-coder-plus,1758662707.0,,0.35,0.4
 OpenRouter,deepseek/deepseek-v3.1-terminus,1758548275.0,,3.8,5.7
 OpenRouter,qwen/qwen3-coder-flash,1758115536.0,,0.35,0.4
 OpenRouter,qwen/qwen3-next-80b-a3b-thinking,1757612284.0,,0.35,0.4
 OpenRouter,qwen/qwen3-next-80b-a3b-instruct,1757612213.0,,0.35,0.4
-OpenRouter,qwen/qwen-plus-2025-07-28,1757347599.0,,0.35,0.4
 OpenRouter,moonshotai/kimi-k2-0905,1757021147.0,,1.78,2.67
-OpenRouter,qwen/qwen3-30b-a3b-thinking-2507,1756399192.0,,0.35,0.4
 OpenRouter,nousresearch/hermes-4-405b,1756235463.0,,3.22,4.82
 OpenRouter,deepseek/deepseek-chat-v3.1,1755779628.0,,0.14,0.28
 OpenRouter,mistralai/mistral-medium-3.1,1755095639.0,,2.76,4.14
@@ -378,10 +369,8 @@ OpenRouter,anthropic/claude-sonnet-4,1747930371.0,,2.14,3.22
 OpenRouter,mistralai/mistral-medium-3,1746627341.0,,0.33,0.5
 OpenRouter,meta-llama/llama-guard-4-12b,1745975193.0,,1.13,1.69
 OpenRouter,qwen/qwen3-30b-a3b,1745878604.0,,0.35,0.4
-OpenRouter,qwen/qwen3-8b,1745876632.0,,0.35,0.4
 OpenRouter,qwen/qwen3-14b,1745876478.0,,0.35,0.4
 OpenRouter,qwen/qwen3-32b,1745875945.0,,0.35,0.4
-OpenRouter,qwen/qwen3-235b-a22b,1745875757.0,,0.35,0.4
 OpenRouter,openai/o4-mini-high,1744824212.0,,3.33,5.0
 OpenRouter,openai/o3,1744823457.0,,0.53,0.79
 OpenRouter,openai/o3:batch,1744823457.0,,1.47,2.21
@@ -595,7 +584,6 @@ Novita AI,qwen/qwen3.8-flash,1787815610.0,novita,0.35,0.4
 Novita AI,deepseek/deepseek-v4-flash-0731,1785546565.0,novita,0.23,0.34
 Novita AI,mindai/macaron-v1-venti,1784605406.0,novita,2.87,4.3
 Novita AI,minimax/minimax-m3,1780282959.0,novita,0.5,0.5
-Novita AI,deepseek/deepseek-v4-flash,1777001037.0,novita,1.61,2.41
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,novita,0.39,0.58
 Novita AI,apodex/apodex-1.1-mini,1790824276.0,novita,4.95,7.43
 Novita AI,inclusionai/ling-3.1-flash,1790563605.0,novita,1.77,2.66
