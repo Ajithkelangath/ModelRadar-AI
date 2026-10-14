@@ -1,4 +1,11 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,~unbiased/pareto-latest,1791933050.0,,0.47,0.71
+OpenRouter,unbiased/pareto-26.9,1791930537.0,,4.85,7.28
+OpenRouter,liquid/lfm-2.5-24b-a2b,1791912025.0,,0.44,0.66
+OpenRouter,google/gemini-4-argon,1791907477.0,,3.45,5.17
+OpenRouter,google/gemini-4-argon:batch,1791907477.0,,2.44,3.67
+OpenRouter,scaledown/summarize,1791893360.0,,3.93,5.9
+OpenRouter,scaledown/extract,1791893351.0,,4.86,7.3
 OpenRouter,meta/muse-wonder,1791807945.0,,2.95,4.42
 OpenRouter,stepfun/step-5-preview,1791462849.0,,2.89,4.33
 OpenRouter,anthropic/claude-haiku-5.5,1791397883.0,,2.62,3.93
@@ -6,7 +13,6 @@ OpenRouter,anthropic/claude-haiku-5.5:batch,1791397883.0,,3.91,5.87
 OpenRouter,google/gemini-nano-banana-2.1,1791300825.0,,0.2,0.29
 OpenRouter,mistralai/mistral-large-4-0,1791294122.0,,4.47,6.7
 OpenRouter,inclusionai/ling-3.1-flash,1790950024.0,,1.77,2.66
-OpenRouter,apodex/apodex-1.1-mini:free,1790875335.0,,3.35,5.02
 OpenRouter,unbiased/pareto-26.10-preview,1790863623.0,,3.49,5.23
 OpenRouter,openai/gpt-6.1-sol-pro,1790702886.0,,3.02,4.53
 OpenRouter,openai/gpt-6.1-sol-pro:batch,1790702886.0,,4.03,6.05
@@ -41,7 +47,6 @@ OpenRouter,x-ai/grok-4.7,1790007541.0,,4.36,6.55
 OpenRouter,qwen/qwen3.8-omni-flash,1789959954.0,,0.35,0.4
 OpenRouter,prism-ml/ternary-bonsai-2-27b,1789754046.0,,0.24,0.36
 OpenRouter,z-ai/glm-5.3-flashx,1789744020.0,,0.22,0.33
-OpenRouter,unbiased/pareto,1789686178.0,,4.59,6.89
 OpenRouter,~deepseek/deepseek-pro-latest,1789399174.0,,1.15,1.73
 OpenRouter,~deepseek/deepseek-flash-latest,1789399150.0,,4.58,6.86
 OpenRouter,inference-net/schematron-v2-turbo,1789176949.0,,3.84,5.76
@@ -62,7 +67,6 @@ OpenRouter,openai/gpt-6-astra,1788552838.0,,3.59,5.39
 OpenRouter,openai/gpt-6-astra:batch,1788552838.0,,2.57,3.85
 OpenRouter,openai/gpt-6-astra-pro,1788552835.0,,2.51,3.76
 OpenRouter,openai/gpt-6-astra-pro:batch,1788552835.0,,1.93,2.89
-OpenRouter,inclusionai/ling-3.0-flash-sante,1788545946.0,,3.29,4.94
 OpenRouter,qwen/qwen3.8-max-0902,1788469704.0,,0.35,0.4
 OpenRouter,meta/muse-spark-1.3-contributor,1788381519.0,,1.03,1.55
 OpenRouter,meta/muse-spark-1.3,1788378359.0,,2.69,4.03
@@ -72,7 +76,6 @@ OpenRouter,anthropic/claude-fable-5.1,1788285838.0,,0.4,0.6
 OpenRouter,anthropic/claude-fable-5.1:batch,1788285838.0,,3.17,4.75
 OpenRouter,ibm-granite/granite-4.2-8b,1788206780.0,,0.49,0.74
 OpenRouter,tencent/hy4-preview,1787897375.0,,2.9,4.35
-OpenRouter,inclusionai/ling-3.0-flash-fin,1787846290.0,,1.05,1.58
 OpenRouter,~z-ai/glm-flash-latest,1787817633.0,,0.71,1.06
 OpenRouter,qwen/qwen3.8-flash,1787773060.0,,0.35,0.4
 OpenRouter,z-ai/glm-5.3-flash,1787752741.0,,1.43,2.14
@@ -587,6 +590,7 @@ Novita AI,mindai/macaron-v1-venti,1784605406.0,novita,2.87,4.3
 Novita AI,minimax/minimax-m3,1780282959.0,novita,0.5,0.5
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,novita,0.39,0.58
 Novita AI,apodex/apodex-1.1-mini,1790824276.0,novita,4.95,7.43
+Novita AI,stepfun/step-5-preview,1790740518.0,novita,2.89,4.33
 Novita AI,inclusionai/ling-3.1-flash,1790563605.0,novita,1.77,2.66
 Novita AI,qwen/qwen3.8-27b,1787737609.0,novita,0.35,0.4
 Novita AI,inclusionai/ling-3.0-flash-fin,1787726682.0,novita,1.05,1.58
