@@ -1,29 +1,28 @@
 model_id,provider,Coding_score,avg_speed,Math_score,Reasoning_score
-~unbiased/pareto-latest,OpenRouter,0.6535,198.59,0.6535,0.6535
-unbiased/pareto-26.9,OpenRouter,0.6535,198.59,0.6535,0.6535
-liquid/lfm-2.5-24b-a2b,OpenRouter,0.6535,198.59,0.6536,0.6536
-google/gemini-4-argon,OpenRouter,0.7566,649.34,0.7566,0.7566
-google/gemini-4-argon:batch,OpenRouter,0.8496,595.4,0.8496,0.8496
-scaledown/summarize,OpenRouter,0.6536,198.59,0.6536,0.6536
-scaledown/extract,OpenRouter,0.6536,198.59,0.6536,0.6536
-meta/muse-wonder,OpenRouter,0.6536,198.59,0.6536,0.6536
-stepfun/step-5-preview,OpenRouter,0.6536,198.58,0.6536,0.6536
-anthropic/claude-haiku-5.5,OpenRouter,0.9096,303.61,0.9096,0.9096
-qwen/qwen3.7-flash,OpenRouter,0.8206,611.18,0.8206,0.8206
-openai/gpt-6-luna-pro:batch,OpenRouter,0.6536,198.58,0.6536,0.6536
-nv-mistralai/mistral-nemo-12b-instruct,NVIDIA NIM,0.6536,198.58,0.6536,0.6536
-bigcode/starcoder2-15b,NVIDIA NIM,0.6536,198.58,0.6536,0.6536
-nvidia/riva-translate-4b-instruct,NVIDIA NIM,0.6536,198.58,0.6536,0.6536
-deepseek/deepseek-chat,OpenRouter,0.6536,198.58,0.6536,0.6536
-anthropic/claude-opus-4.1,OpenRouter,0.9526,63.41,0.9526,0.9526
-google/gemini-3.5-flash,OpenRouter,0.7726,639.24,0.7726,0.7726
-openai/gpt-4o-mini:batch,OpenRouter,0.9116,65.98,0.9116,0.9116
-deepseek/deepseek-v4-flash-0731,Novita AI,0.7716,639.84,0.7716,0.7716
-google/gemini-nano-banana-2.1,OpenRouter,0.8166,613.34,0.8166,0.8166
-inclusionai/ling-3.1-flash,OpenRouter,0.8046,620.18,0.8046,0.8046
-aion-labs/aion-3.5-mini,OpenRouter,0.7966,624.82,0.7966,0.7966
-upstage/solar-mini4,OpenRouter,0.8296,606.07,0.8296,0.8296
-xiaomi/mimo-v2.6-flash,OpenRouter,0.7996,623.05,0.7996,0.7996
-qwen/qwen3.8-omni-flash,OpenRouter,0.8406,600.05,0.8406,0.8406
-z-ai/glm-5.3-flashx,OpenRouter,0.7726,639.16,0.7726,0.7726
-~deepseek/deepseek-flash-latest,OpenRouter,0.7776,636.1,0.7776,0.7776
+moondream/moondream3-preview,OpenRouter,0.6521,199.16,0.6521,0.6521
+moondream/moondream3.1-9b-a2b,OpenRouter,0.6521,199.16,0.6521,0.6521
+meta/muse-spark-open,OpenRouter,0.6521,199.16,0.6521,0.6521
+nvidia/nemotron-3.5-super-vl,OpenRouter,0.6521,199.16,0.6521,0.6521
+nvidia/nemotron-3.5-super-vl:free,OpenRouter,0.6521,199.16,0.6521,0.6521
+~unbiased/pareto-latest,OpenRouter,0.6521,199.16,0.6521,0.6521
+unbiased/pareto-26.9,OpenRouter,0.6521,199.16,0.6521,0.6521
+liquid/lfm-2.5-24b-a2b,OpenRouter,0.6521,199.15,0.6521,0.6521
+google/gemini-4-argon,OpenRouter,0.7931,631.81,0.7931,0.7931
+google/gemini-4-argon:batch,OpenRouter,0.8451,602.13,0.8451,0.8451
+openrouter/auto-beta,OpenRouter,0.6521,199.15,0.6521,0.6521
+tencent/hy3,OpenRouter,0.6521,199.15,0.6521,0.6521
+moonshotai/kimi-k2-thinking,OpenRouter,0.6521,199.15,0.6521,0.6521
+zai-org/glm-5.1,Novita AI,0.6521,199.15,0.6521,0.6521
+openai/gpt-4,OpenRouter,0.9321,64.64,0.9321,0.9321
+cohere/command-a-plus,OpenRouter,0.6521,199.15,0.6521,0.6521
+anthropic/claude-opus-4.8:batch,OpenRouter,0.9831,61.59,0.9831,0.9831
+thinkingmachines/inkling-small,OpenRouter,0.8321,609.21,0.8321,0.8321
+nvidia/llama-3.2-nv-embedqa-1b-v1,NVIDIA NIM,0.6521,199.14,0.6521,0.6522
+google/gemini-nano-banana-2.1,OpenRouter,0.7982,628.72,0.7982,0.7982
+inclusionai/ling-3.1-flash,OpenRouter,0.7932,631.69,0.7932,0.7932
+aion-labs/aion-3.5-mini,OpenRouter,0.8032,625.75,0.8032,0.8032
+upstage/solar-mini4,OpenRouter,0.7642,649.52,0.7642,0.7642
+xiaomi/mimo-v2.6-flash,OpenRouter,0.7992,628.09,0.7992,0.7992
+qwen/qwen3.8-omni-flash,OpenRouter,0.8322,609.14,0.8322,0.8322
+z-ai/glm-5.3-flashx,OpenRouter,0.8002,627.48,0.8002,0.8002
+~deepseek/deepseek-flash-latest,OpenRouter,0.8392,605.25,0.8392,0.8392
