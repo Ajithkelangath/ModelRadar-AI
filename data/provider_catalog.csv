@@ -1,8 +1,10 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,minimax/minimax-m3.1-flash:free,1792379569.0,,0.5,0.5
 OpenRouter,deepseek/deepseek-v4.1-flash-1017,1792225624.0,,4.29,6.44
 OpenRouter,elorian/glimpse,1792206629.0,,2.91,4.36
 OpenRouter,xingchen-agi/xing4.0-29b-a4b:free,1792177496.0,,4.95,7.43
 OpenRouter,reflection/beam-1.0-501b-a23b,1792160499.0,,0.68,1.02
+OpenRouter,inception/mercury-3,1792158337.0,,0.22,0.33
 OpenRouter,moondream/moondream3-preview,1792102385.0,,4.12,6.18
 OpenRouter,moondream/moondream3.1-9b-a2b,1792102373.0,,4.68,7.01
 OpenRouter,meta/muse-spark-open,1792087069.0,,4.74,7.11
@@ -418,11 +420,9 @@ OpenRouter,openai/o3-mini,1738351721.0,,1.29,1.93
 OpenRouter,openai/o3-mini:batch,1738351721.0,,4.33,6.5
 OpenRouter,mistralai/mistral-small-24b-instruct-2501,1738255409.0,,2.52,3.78
 OpenRouter,perplexity/sonar,1738013808.0,,2.44,3.66
-OpenRouter,deepseek/deepseek-r1,1737381095.0,,0.8,1.2
 OpenRouter,minimax/minimax-01,1736915462.0,,0.5,0.5
 OpenRouter,microsoft/phi-4,1736489872.0,,3.87,5.8
 OpenRouter,deepseek/deepseek-chat,1735241320.0,,0.14,0.28
-OpenRouter,sao10k/l3.3-euryale-70b,1734535928.0,,2.59,3.89
 OpenRouter,openai/o1,1734459999.0,,2.92,4.38
 OpenRouter,cohere/command-r7b-12-2024,1734158152.0,,3.97,5.96
 OpenRouter,meta-llama/llama-3.3-70b-instruct,1733506137.0,,1.14,1.71
@@ -456,7 +456,6 @@ OpenRouter,openai/gpt-4o,1715558400.0,,2.5,10.0
 OpenRouter,openai/gpt-4o-2024-05-13,1715558400.0,,2.5,10.0
 OpenRouter,openai/gpt-4o:batch,1715558400.0,,2.5,10.0
 OpenRouter,mistralai/mixtral-8x22b-instruct,1713312000.0,,0.55,0.83
-OpenRouter,microsoft/wizardlm-2-8x22b,1713225600.0,,2.74,4.11
 OpenRouter,openai/gpt-4-turbo,1712620800.0,,1.1,1.65
 OpenRouter,openai/gpt-4-turbo:batch,1712620800.0,,3.93,5.9
 OpenRouter,mistralai/mistral-large,1708905600.0,,4.44,6.66
@@ -577,6 +576,7 @@ DeepSeek,deepseek-chat,,,0.14,0.28
 DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
+Novita AI,deepseek/deepseek-v4.1-flash-1017,1792375957.0,novita,4.29,6.44
 Novita AI,zai-org/glm-5.3-flash,1787754787.0,novita,0.15,0.22
 Novita AI,deepseek/deepseek-v4-pro-0813-p,1790471016.0,novita,1.56,2.34
 Novita AI,deepseek/deepseek-v4.1-flash-dst,1790413998.0,novita,0.18,0.28
