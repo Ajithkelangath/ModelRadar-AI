@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,recursive/flint-v1.0:free,1792622765.0,,0.46,0.69
 OpenRouter,minimax/minimax-m3.1-flash:free,1792379569.0,,0.5,0.5
 OpenRouter,deepseek/deepseek-v4.1-flash-1017,1792225624.0,,4.29,6.44
 OpenRouter,elorian/glimpse,1792206629.0,,2.91,4.36
@@ -365,7 +366,6 @@ OpenRouter,qwen/qwen3-235b-a22b-thinking-2507,1753449557.0,,0.35,0.4
 OpenRouter,qwen/qwen3-coder,1753230546.0,,0.35,0.4
 OpenRouter,bytedance/ui-tars-1.5-7b,1753205056.0,,0.51,0.76
 OpenRouter,google/gemini-2.5-flash-lite,1753200276.0,,0.59,0.89
-OpenRouter,google/gemini-2.5-flash-lite:batch,1753200276.0,,2.59,3.89
 OpenRouter,qwen/qwen3-235b-a22b-2507,1753119555.0,,0.35,0.4
 OpenRouter,moonshotai/kimi-k2,1752263252.0,,4.27,6.4
 OpenRouter,cognitivecomputations/dolphin-mistral-24b-venice-edition,1752094966.0,,4.36,6.54
