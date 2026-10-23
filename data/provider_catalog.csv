@@ -1,6 +1,6 @@
 provider,model_id,created,owned_by,input,output
 OpenRouter,recursive/flint-v1.0:free,1792622765.0,,0.46,0.69
-OpenRouter,minimax/minimax-m3.1-flash:free,1792379569.0,,0.5,0.5
+OpenRouter,minimax/minimax-m3.1-flash,1792379569.0,,0.5,0.5
 OpenRouter,deepseek/deepseek-v4.1-flash-1017,1792225624.0,,4.29,6.44
 OpenRouter,elorian/glimpse,1792206629.0,,2.91,4.36
 OpenRouter,xingchen-agi/xing4.0-29b-a4b:free,1792177496.0,,4.95,7.43
@@ -500,6 +500,7 @@ NVIDIA NIM,meta/muse-glimmer-30b,735790403.0,meta,2.8,4.19
 NVIDIA NIM,microsoft/kosmos-2,735790403.0,microsoft,2.12,3.19
 NVIDIA NIM,microsoft/phi-3-vision-128k-instruct,735790403.0,microsoft,0.1,0.1
 NVIDIA NIM,microsoft/phi-3.5-moe-instruct,735790403.0,microsoft,0.1,0.1
+NVIDIA NIM,minimaxai/minimax-m3.1-flash,735790403.0,minimaxai,0.5,0.5
 NVIDIA NIM,mistralai/codestral-22b-instruct-v0.1,735790403.0,mistralai,2.23,3.34
 NVIDIA NIM,mistralai/mistral-7b-instruct-v0.3,735790403.0,mistralai,4.4,6.6
 NVIDIA NIM,mistralai/mistral-large,735790403.0,mistralai,4.44,6.66
@@ -599,6 +600,7 @@ Novita AI,deepseek/deepseek-v4-flash-0731,1785546565.0,novita,0.23,0.34
 Novita AI,mindai/macaron-v1-venti,1784605406.0,novita,2.87,4.3
 Novita AI,minimax/minimax-m3,1780282959.0,novita,0.5,0.5
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,novita,0.39,0.58
+Novita AI,minimax/minimax-m3.1-flash,1792406343.0,novita,0.5,0.5
 Novita AI,apodex/apodex-1.1-mini,1790824276.0,novita,4.95,7.43
 Novita AI,stepfun/step-5-preview,1790740518.0,novita,2.89,4.33
 Novita AI,inclusionai/ling-3.1-flash,1790563605.0,novita,1.77,2.66
@@ -611,9 +613,7 @@ Novita AI,mindai/macaron-v1-tall,1784113196.0,novita,2.22,3.32
 Novita AI,stepfun/step-3.7-flash,1781231066.0,novita,1.43,2.15
 Novita AI,nvidia/nemotron-3-nano-30b-a3b,1781004459.0,novita,0.6,0.6
 Novita AI,baidu/cobuddy,1780454207.0,novita,0.16,0.24
-Novita AI,xiaomimimo/mimo-v2.5,1780040346.0,novita,0.15,0.15
 Novita AI,qwen/qwen3.7-max,1779367973.0,novita,0.35,0.4
-Novita AI,xiaomimimo/mimo-v2.5-pro,1778060944.0,novita,0.15,0.15
 Novita AI,qwen/qwen3.6-27b,1776936762.0,novita,0.35,0.4
 Novita AI,moonshotai/kimi-k2.6,1776654459.0,novita,4.09,6.13
 Novita AI,bunny,1775817236.0,novita,4.78,7.17
