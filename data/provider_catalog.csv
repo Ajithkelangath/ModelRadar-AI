@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,moonshotai/kimi-k3.1-pro,1792778188.0,,2.0,2.99
 OpenRouter,recursive/flint-v1.0:free,1792622765.0,,0.46,0.69
 OpenRouter,minimax/minimax-m3.1-flash,1792379569.0,,0.5,0.5
 OpenRouter,deepseek/deepseek-v4.1-flash-1017,1792225624.0,,4.29,6.44
@@ -527,6 +528,7 @@ NVIDIA NIM,nvidia/nemotron-3-embed-1b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3-super-120b-a12b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3-ultra-550b-a55b,735790403.0,nvidia,0.6,0.6
+NVIDIA NIM,nvidia/nemotron-3.5-bolt-e4b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3.5-content-safety,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3.5-embed-1b,735790403.0,nvidia,0.6,0.6
 NVIDIA NIM,nvidia/nemotron-3.5-embed-8b,735790403.0,nvidia,0.6,0.6
@@ -578,6 +580,7 @@ DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
 Novita AI,deepseek/deepseek-v4.1-flash-1017,1792375957.0,novita,4.29,6.44
+Novita AI,minimax/minimax-m3.1-flash,1792406343.0,novita,0.5,0.5
 Novita AI,zai-org/glm-5.3-flash,1787754787.0,novita,0.15,0.22
 Novita AI,deepseek/deepseek-v4-pro-0813-p,1790471016.0,novita,1.56,2.34
 Novita AI,deepseek/deepseek-v4.1-flash-dst,1790413998.0,novita,0.18,0.28
@@ -600,7 +603,6 @@ Novita AI,deepseek/deepseek-v4-flash-0731,1785546565.0,novita,0.23,0.34
 Novita AI,mindai/macaron-v1-venti,1784605406.0,novita,2.87,4.3
 Novita AI,minimax/minimax-m3,1780282959.0,novita,0.5,0.5
 Novita AI,deepseek/deepseek-v4-pro,1777000931.0,novita,0.39,0.58
-Novita AI,minimax/minimax-m3.1-flash,1792406343.0,novita,0.5,0.5
 Novita AI,apodex/apodex-1.1-mini,1790824276.0,novita,4.95,7.43
 Novita AI,stepfun/step-5-preview,1790740518.0,novita,2.89,4.33
 Novita AI,inclusionai/ling-3.1-flash,1790563605.0,novita,1.77,2.66
