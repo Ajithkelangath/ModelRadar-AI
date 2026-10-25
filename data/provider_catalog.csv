@@ -110,6 +110,7 @@ OpenRouter,qwen/qwen3.8-2.4t-a95b,1786551702.0,,0.35,0.4
 OpenRouter,bytedance-seed/seed-2.0-code,1786550701.0,,4.91,7.36
 OpenRouter,deepseek/deepseek-v4-pro-0813,1786549364.0,,3.27,4.9
 OpenRouter,x-ai/grok-4.6,1786548957.0,,3.75,5.63
+OpenRouter,liquid/lfm-2.5-2.6b,1786470519.0,,0.92,1.38
 OpenRouter,liquid/lfm-2.5-2.6b:free,1786470519.0,,2.17,3.25
 OpenRouter,nvidia/nemotron-3.5-lightning,1786452751.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3.5-lightning:free,1786452751.0,,0.6,0.6
@@ -460,13 +461,10 @@ OpenRouter,openai/gpt-4-turbo:batch,1712620800.0,,3.93,5.9
 OpenRouter,mistralai/mistral-large,1708905600.0,,4.44,6.66
 OpenRouter,openai/gpt-3.5-turbo-0613,1706140800.0,,0.5,1.5
 OpenRouter,openrouter/auto,1699401600.0,,2.91,4.37
-OpenRouter,openai/gpt-3.5-turbo-instruct,1695859200.0,,0.5,1.5
 OpenRouter,openai/gpt-3.5-turbo-16k,1693180800.0,,0.5,1.5
 OpenRouter,mancer/weaver,1690934400.0,,0.52,0.78
 OpenRouter,undi95/remm-slerp-l2-13b,1689984000.0,,4.79,7.19
 OpenRouter,gryphe/mythomax-l2-13b,1688256000.0,,2.04,3.06
-OpenRouter,openai/gpt-3.5-turbo,1685232000.0,,0.5,1.5
-OpenRouter,openai/gpt-3.5-turbo:batch,1685232000.0,,0.5,1.5
 OpenRouter,openai/gpt-4,1685232000.0,,3.61,5.41
 GitHub Models,gpt-4o,,,2.5,10.0
 GitHub Models,gpt-4o-mini,,,2.5,10.0
@@ -580,6 +578,8 @@ DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
 Novita AI,deepseek/deepseek-v4.1-flash-1017,1792375957.0,novita,4.29,6.44
+Novita AI,moonshotai/kimi-k3.1-pro-highspeed,1792803395.0,novita,4.12,6.18
+Novita AI,moonshotai/kimi-k3.1-pro,1792803011.0,novita,2.0,2.99
 Novita AI,minimax/minimax-m3.1-flash,1792406343.0,novita,0.5,0.5
 Novita AI,zai-org/glm-5.3-flash,1787754787.0,novita,0.15,0.22
 Novita AI,deepseek/deepseek-v4-pro-0813-p,1790471016.0,novita,1.56,2.34
