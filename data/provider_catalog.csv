@@ -1,4 +1,8 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,openai/gpt-6.1-terra-pro,1793038556.0,,1.48,2.22
+OpenRouter,openai/gpt-6.1-terra-pro:batch,1793038556.0,,1.68,2.52
+OpenRouter,openai/gpt-6.1-terra,1793038409.0,,1.72,2.59
+OpenRouter,openai/gpt-6.1-terra:batch,1793038409.0,,3.79,5.69
 OpenRouter,moonshotai/kimi-k3.1-pro,1792778188.0,,2.0,2.99
 OpenRouter,recursive/flint-v1.0:free,1792622765.0,,0.46,0.69
 OpenRouter,minimax/minimax-m3.1-flash,1792379569.0,,0.5,0.5
@@ -226,7 +230,6 @@ OpenRouter,google/gemma-4-31b-it,1775148486.0,,2.94,4.41
 OpenRouter,google/gemma-4-31b-it:free,1775148486.0,,4.06,6.09
 OpenRouter,qwen/qwen3.6-plus,1775133557.0,,0.35,0.4
 OpenRouter,z-ai/glm-5v-turbo,1775061458.0,,4.14,6.21
-OpenRouter,arcee-ai/trinity-large-thinking,1775058318.0,,0.0,0.0
 OpenRouter,x-ai/grok-4.20-multi-agent,1774979158.0,,2.68,4.03
 OpenRouter,x-ai/grok-4.20,1774979019.0,,2.04,3.07
 OpenRouter,google/lyria-3-pro-preview,1774907286.0,,0.51,0.76
@@ -238,7 +241,6 @@ OpenRouter,openai/gpt-5.4-nano:batch,1773748187.0,,3.14,4.71
 OpenRouter,openai/gpt-5.4-mini,1773748178.0,,0.59,0.89
 OpenRouter,openai/gpt-5.4-mini:batch,1773748178.0,,0.44,0.66
 OpenRouter,mistralai/mistral-small-2603,1773695685.0,,0.79,1.19
-OpenRouter,mistralai/mistral-small-2603:batch,1773695685.0,,1.12,1.68
 OpenRouter,z-ai/glm-5-turbo,1773583573.0,,4.17,6.25
 OpenRouter,nvidia/nemotron-3-super-120b-a12b,1773245239.0,,0.6,0.6
 OpenRouter,nvidia/nemotron-3-super-120b-a12b:free,1773245239.0,,0.6,0.6
@@ -300,10 +302,8 @@ OpenRouter,openai/gpt-5.1-codex-max,1764878934.0,,1.74,2.6
 OpenRouter,amazon/nova-2-lite-v1,1764696672.0,,2.54,3.8
 OpenRouter,mistralai/ministral-14b-2512,1764681735.0,,1.98,2.97
 OpenRouter,mistralai/ministral-8b-2512,1764681654.0,,4.68,7.02
-OpenRouter,mistralai/ministral-8b-2512:batch,1764681654.0,,2.14,3.2
 OpenRouter,mistralai/ministral-3b-2512,1764681560.0,,4.49,6.74
 OpenRouter,mistralai/mistral-large-2512,1764624472.0,,3.29,4.93
-OpenRouter,mistralai/mistral-large-2512:batch,1764624472.0,,0.99,1.49
 OpenRouter,deepseek/deepseek-v3.2,1764594642.0,,0.12,0.19
 OpenRouter,anthropic/claude-opus-4.5,1764010580.0,,4.87,7.31
 OpenRouter,anthropic/claude-opus-4.5:batch,1764010580.0,,4.83,7.25
@@ -318,7 +318,6 @@ OpenRouter,perplexity/sonar-pro-search,1761854366.0,,4.67,7.0
 OpenRouter,mistralai/voxtral-small-24b-2507,1761835144.0,,4.79,7.18
 OpenRouter,openai/gpt-oss-safeguard-20b,1761752836.0,,3.92,5.88
 OpenRouter,minimax/minimax-m2,1761252093.0,,0.5,0.5
-OpenRouter,ibm-granite/granite-4.0-h-micro,1760927695.0,,3.16,4.74
 OpenRouter,openai/gpt-5-image-mini,1760624583.0,,1.9,2.86
 OpenRouter,anthropic/claude-haiku-4.5,1760547638.0,,2.44,3.65
 OpenRouter,anthropic/claude-haiku-4.5:batch,1760547638.0,,1.65,2.47
@@ -344,7 +343,6 @@ OpenRouter,moonshotai/kimi-k2-0905,1757021147.0,,1.78,2.67
 OpenRouter,nousresearch/hermes-4-405b,1756235463.0,,3.22,4.82
 OpenRouter,deepseek/deepseek-chat-v3.1,1755779628.0,,0.14,0.28
 OpenRouter,mistralai/mistral-medium-3.1,1755095639.0,,2.76,4.14
-OpenRouter,mistralai/mistral-medium-3.1:batch,1755095639.0,,3.45,5.18
 OpenRouter,z-ai/glm-4.5v,1754922288.0,,0.4,0.4
 OpenRouter,openai/gpt-5,1754587413.0,,0.52,0.78
 OpenRouter,openai/gpt-5:batch,1754587413.0,,3.07,4.61
@@ -359,7 +357,6 @@ OpenRouter,openai/gpt-oss-20b:batch,1754414229.0,,3.26,4.88
 OpenRouter,anthropic/claude-opus-4.1,1754411591.0,,1.44,2.15
 OpenRouter,anthropic/claude-opus-4.1:batch,1754411591.0,,0.48,0.72
 OpenRouter,mistralai/codestral-2508,1754079630.0,,0.82,1.24
-OpenRouter,mistralai/codestral-2508:batch,1754079630.0,,4.63,6.94
 OpenRouter,qwen/qwen3-coder-30b-a3b-instruct,1753972379.0,,0.35,0.4
 OpenRouter,qwen/qwen3-30b-a3b-instruct-2507,1753806965.0,,0.35,0.4
 OpenRouter,z-ai/glm-4.5,1753471347.0,,0.4,0.4
