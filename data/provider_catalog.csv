@@ -276,7 +276,6 @@ OpenRouter,qwen/qwen3-coder-next,1770164101.0,,0.35,0.4
 OpenRouter,openrouter/free,1769917427.0,,1.72,2.58
 OpenRouter,stepfun/step-3.5-flash,1769728337.0,,2.23,3.35
 OpenRouter,moonshotai/kimi-k2.5,1769487076.0,,3.93,5.89
-OpenRouter,upstage/solar-pro-3,1769481200.0,,1.23,1.85
 OpenRouter,minimax/minimax-m2-her,1769177239.0,,0.5,0.5
 OpenRouter,writer/palmyra-x5,1769003823.0,,3.8,5.7
 OpenRouter,openai/gpt-audio,1768862569.0,,1.85,2.77
@@ -494,6 +493,7 @@ NVIDIA NIM,mistralai/codestral-22b-instruct-v0.1,735790403.0,mistralai,2.23,3.34
 NVIDIA NIM,mistralai/mistral-7b-instruct-v0.3,735790403.0,mistralai,4.4,6.6
 NVIDIA NIM,mistralai/mistral-large,735790403.0,mistralai,4.44,6.66
 NVIDIA NIM,mistralai/mistral-large-2-instruct,735790403.0,mistralai,3.97,5.95
+NVIDIA NIM,mistralai/mistral-large-4-1t-a52b,735790403.0,mistralai,2.83,4.24
 NVIDIA NIM,mistralai/mixtral-8x22b-v0.1,735790403.0,mistralai,0.93,1.4
 NVIDIA NIM,moonshotai/kimi-k2.6,735790403.0,moonshotai,4.09,6.13
 NVIDIA NIM,nv-mistralai/mistral-nemo-12b-instruct,735790403.0,nv-mistralai,4.95,7.42
@@ -663,7 +663,6 @@ Novita AI,zai-org/glm-4.5-air,1760367673.0,novita,0.4,0.4
 Novita AI,qwen/qwen3-vl-30b-a3b-instruct,1760182393.0,novita,0.35,0.4
 Novita AI,qwen/qwen3-omni-30b-a3b-thinking,1758695093.0,novita,0.35,0.4
 Novita AI,qwen/qwen-mt-plus,1756888269.0,novita,0.35,0.4
-Novita AI,baidu/ernie-4.5-21B-a3b,1751258682.0,novita,1.71,2.56
 Novita AI,meta-llama/llama-3.2-1b-instruct,1732609540.0,novita,0.96,1.45
 Lambda Labs,hermes-3-llama-3.1-405b,,,2.35,3.52
 DeepInfra,meta-llama/Meta-Llama-3-70B-Instruct,,,4.65,6.97
