@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,z-ai/glm-5.3-flashx-legal,1793626154.0,,2.84,4.26
 OpenRouter,particle-ai/particle-1,1793207893.0,,4.8,7.2
 OpenRouter,openai/gpt-6.1-terra-pro,1793038556.0,,1.48,2.22
 OpenRouter,openai/gpt-6.1-terra-pro:batch,1793038556.0,,1.68,2.52
@@ -420,8 +421,6 @@ OpenRouter,qwen/qwen-2.5-72b-instruct,1726704000.0,,0.35,0.4
 OpenRouter,cohere/command-r-08-2024,1724976000.0,,1.13,1.7
 OpenRouter,cohere/command-r-plus-08-2024,1724976000.0,,2.76,4.14
 OpenRouter,sao10k/l3.1-euryale-70b,1724803200.0,,4.53,6.79
-OpenRouter,nousresearch/hermes-3-llama-3.1-70b,1723939200.0,,4.15,6.22
-OpenRouter,nousresearch/hermes-3-llama-3.1-405b,1723766400.0,,0.31,0.47
 OpenRouter,sao10k/l3-lunaris-8b,1723507200.0,,1.38,2.07
 OpenRouter,openai/gpt-4o-2024-08-06,1722902400.0,,2.5,10.0
 OpenRouter,meta-llama/llama-3.1-70b-instruct,1721692800.0,,1.51,2.26
