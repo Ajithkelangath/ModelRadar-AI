@@ -1,4 +1,5 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,stealth/crouton-alpha,1793669930.0,,0.89,1.33
 OpenRouter,z-ai/glm-5.3-flashx-legal,1793626154.0,,2.84,4.26
 OpenRouter,particle-ai/particle-1,1793207893.0,,4.8,7.2
 OpenRouter,openai/gpt-6.1-terra-pro,1793038556.0,,1.48,2.22
@@ -62,6 +63,7 @@ OpenRouter,xiaomi/mimo-v2.6-pro-ultraspeed,1790021267.0,,0.15,0.15
 OpenRouter,xiaomi/mimo-v2.6-flash,1790021264.0,,0.15,0.15
 OpenRouter,xiaomi/mimo-v2.6-pro,1790021259.0,,0.15,0.15
 OpenRouter,x-ai/grok-4.7,1790007541.0,,4.36,6.55
+OpenRouter,x-ai/grok-4.7:batch,1790007541.0,,1.46,2.19
 OpenRouter,qwen/qwen3.8-omni-flash,1789959954.0,,0.35,0.4
 OpenRouter,prism-ml/ternary-bonsai-2-27b,1789754046.0,,0.24,0.36
 OpenRouter,z-ai/glm-5.3-flashx,1789744020.0,,0.22,0.33
@@ -115,6 +117,7 @@ OpenRouter,qwen/qwen3.8-2.4t-a95b,1786551702.0,,0.35,0.4
 OpenRouter,bytedance-seed/seed-2.0-code,1786550701.0,,4.91,7.36
 OpenRouter,deepseek/deepseek-v4-pro-0813,1786549364.0,,3.27,4.9
 OpenRouter,x-ai/grok-4.6,1786548957.0,,3.75,5.63
+OpenRouter,x-ai/grok-4.6:batch,1786548957.0,,3.15,4.73
 OpenRouter,liquid/lfm-2.5-2.6b,1786470519.0,,0.92,1.38
 OpenRouter,liquid/lfm-2.5-2.6b:free,1786470519.0,,2.17,3.25
 OpenRouter,nvidia/nemotron-3.5-lightning,1786452751.0,,0.6,0.6
