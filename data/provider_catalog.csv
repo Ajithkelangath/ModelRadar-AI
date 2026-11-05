@@ -1,4 +1,6 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,ricursiveai/ripple-65b-preview,1793818990.0,,4.37,6.56
+OpenRouter,tencent/hy4,1793766031.0,,4.48,6.73
 OpenRouter,stealth/crouton-alpha,1793669930.0,,0.89,1.33
 OpenRouter,z-ai/glm-5.3-flashx-legal,1793626154.0,,2.84,4.26
 OpenRouter,particle-ai/particle-1,1793207893.0,,4.8,7.2
@@ -129,7 +131,6 @@ OpenRouter,meta/muse-spark-1.2,1785959287.0,,2.41,3.61
 OpenRouter,~deepseek/deepseek-v4-flash-latest,1785606009.0,,1.87,2.8
 OpenRouter,deepseek/deepseek-v4-flash-0731,1785478908.0,,0.23,0.34
 OpenRouter,thinkingmachines/inkling-small,1785443117.0,,1.83,2.75
-OpenRouter,thinkingmachines/inkling-small:free,1785443117.0,,1.53,2.29
 OpenRouter,qwen/qwen3.7-flash,1785190561.0,,0.35,0.4
 OpenRouter,anthropic/claude-opus-5,1784912544.0,,4.64,6.95
 OpenRouter,anthropic/claude-opus-5:batch,1784912544.0,,1.59,2.38
@@ -140,7 +141,6 @@ OpenRouter,google/gemini-3.5-flash-lite,1784646726.0,,3.0,4.51
 OpenRouter,google/gemini-3.5-flash-lite:batch,1784646726.0,,0.57,0.86
 OpenRouter,meituan/longcat-2.0,1784554658.0,,0.59,0.88
 OpenRouter,thinkingmachines/inkling,1784325956.0,,1.41,2.12
-OpenRouter,thinkingmachines/inkling:free,1784325956.0,,1.78,2.67
 OpenRouter,moonshotai/kimi-k3,1784215858.0,,2.75,4.12
 OpenRouter,moonshotai/kimi-k3:batch,1784215858.0,,2.95,4.42
 OpenRouter,meta/muse-spark-1.1,1784215741.0,,4.14,6.21
@@ -564,7 +564,9 @@ DeepSeek,deepseek-chat,,,0.14,0.28
 DeepSeek,deepseek-coder,,,0.14,0.28
 Perplexity,llama-3-sonar-large-32k-online,,,0.74,1.11
 Perplexity,llama-3-sonar-small-32k-chat,,,0.98,1.47
+Novita AI,tencent/hy4,1793757877.0,novita,4.48,6.73
 Novita AI,deepseek/deepseek-v4.1-flash-1017,1792375957.0,novita,4.29,6.44
+Novita AI,zai-org/glm-5.3-flashX,1793786609.0,novita,1.14,1.71
 Novita AI,moonshotai/kimi-k3.1-pro-highspeed,1792803395.0,novita,4.12,6.18
 Novita AI,moonshotai/kimi-k3.1-pro,1792803011.0,novita,2.0,2.99
 Novita AI,minimax/minimax-m3.1-flash,1792406343.0,novita,0.5,0.5
