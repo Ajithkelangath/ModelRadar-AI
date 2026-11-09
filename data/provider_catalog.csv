@@ -20,7 +20,6 @@ OpenRouter,deepseek/deepseek-v4.1-flash-1017:batch,1792225624.0,,1.51,2.26
 OpenRouter,elorian/glimpse,1792206629.0,,2.91,4.36
 OpenRouter,xingchen-agi/xing4.0-29b-a4b:free,1792177496.0,,4.95,7.43
 OpenRouter,reflection/beam-1.0-501b-a23b,1792160499.0,,0.68,1.02
-OpenRouter,inception/mercury-3,1792158337.0,,0.22,0.33
 OpenRouter,prism-ml/ternary-bonsai-2-9b,1792130995.0,,1.3,1.95
 OpenRouter,moondream/moondream3-preview,1792102385.0,,4.12,6.18
 OpenRouter,moondream/moondream3.1-9b-a2b,1792102373.0,,4.68,7.01
@@ -87,7 +86,6 @@ OpenRouter,sakana/fugu-max,1789104771.0,,1.86,2.78
 OpenRouter,inclusionai/ling-3.0-flash-vl,1789056114.0,,3.58,5.36
 OpenRouter,deepseek/deepseek-v4.1-flash,1789021285.0,,0.5,0.75
 OpenRouter,deepseek/deepseek-v4.1-flash:batch,1789021285.0,,0.34,0.51
-OpenRouter,inception/mercury-2.5,1788892137.0,,0.56,0.83
 OpenRouter,nex-agi/nex-n2.5-mini,1788890061.0,,1.97,2.95
 OpenRouter,nex-agi/nex-n2.5-pro,1788890050.0,,3.87,5.8
 OpenRouter,openai/gpt-6-astra,1788552838.0,,3.59,5.39
@@ -257,7 +255,6 @@ OpenRouter,openai/gpt-5.4-pro,1772734366.0,,3.43,5.14
 OpenRouter,openai/gpt-5.4-pro:batch,1772734366.0,,3.54,5.31
 OpenRouter,openai/gpt-5.4,1772734352.0,,2.79,4.19
 OpenRouter,openai/gpt-5.4:batch,1772734352.0,,3.09,4.63
-OpenRouter,inception/mercury-2,1772636275.0,,0.26,0.39
 OpenRouter,google/gemini-3.1-flash-lite-preview,1772512673.0,,4.54,6.81
 OpenRouter,bytedance-seed/seed-2.0-mini,1772131107.0,,0.78,1.17
 OpenRouter,google/gemini-3.1-flash-image-preview,1772119558.0,,1.4,2.09
