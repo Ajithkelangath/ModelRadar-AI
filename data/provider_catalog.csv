@@ -1,11 +1,15 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,nex-agi/nex-n2.6,1794282379.0,,3.66,5.49
+OpenRouter,thinkingmachines/inkling-2-small:free,1794261847.0,,1.58,2.37
+OpenRouter,anthropic/claude-fable-5.2,1794253781.0,,0.29,0.43
+OpenRouter,anthropic/claude-fable-5.2:batch,1794253781.0,,4.66,6.99
+OpenRouter,meta/muse-ember,1794247648.0,,2.01,3.01
 OpenRouter,liquid/lfm-3-1.7b,1794009477.0,,1.61,2.42
 OpenRouter,liquid/lfm-3-1.7b:free,1794009477.0,,4.01,6.02
 OpenRouter,google/gemini-omni-1.2-flash,1793898961.0,,3.43,5.14
 OpenRouter,google/gemini-omni-1.1-flash,1793825668.0,,4.93,7.4
 OpenRouter,ricursiveai/ripple-65b-preview,1793818990.0,,4.37,6.56
 OpenRouter,tencent/hy4,1793766031.0,,4.48,6.73
-OpenRouter,stealth/crouton-alpha,1793669930.0,,0.89,1.33
 OpenRouter,z-ai/glm-5.3-flashx-legal,1793626154.0,,2.84,4.26
 OpenRouter,particle-ai/particle-1,1793207893.0,,4.8,7.2
 OpenRouter,openai/gpt-6.1-terra-pro,1793038556.0,,1.48,2.22
@@ -93,6 +97,7 @@ OpenRouter,openai/gpt-6-astra:batch,1788552838.0,,2.57,3.85
 OpenRouter,openai/gpt-6-astra-pro,1788552835.0,,2.51,3.76
 OpenRouter,openai/gpt-6-astra-pro:batch,1788552835.0,,1.93,2.89
 OpenRouter,qwen/qwen3.8-max-0902,1788469704.0,,0.35,0.4
+OpenRouter,qwen/qwen3.8-max-0902:batch,1788469704.0,,0.35,0.4
 OpenRouter,meta/muse-spark-1.3-contributor,1788381519.0,,1.03,1.55
 OpenRouter,meta/muse-spark-1.3,1788378359.0,,2.69,4.03
 OpenRouter,google/gemini-3.8-flash,1788362056.0,,3.39,5.09
@@ -371,7 +376,6 @@ OpenRouter,morph/morph-v3-large:batch,1751910858.0,,0.48,0.72
 OpenRouter,morph/morph-v3-fast,1751910002.0,,1.14,1.72
 OpenRouter,morph/morph-v3-fast:batch,1751910002.0,,1.92,2.88
 OpenRouter,mistralai/mistral-small-3.2-24b-instruct,1750443016.0,,1.38,2.07
-OpenRouter,minimax/minimax-m1,1750200414.0,,0.5,0.5
 OpenRouter,google/gemini-2.5-flash,1750172488.0,,3.84,5.76
 OpenRouter,google/gemini-2.5-pro,1750169544.0,,1.72,2.58
 OpenRouter,openai/o3-pro,1749598352.0,,2.31,3.46
