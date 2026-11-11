@@ -1,4 +1,8 @@
 provider,model_id,created,owned_by,input,output
+OpenRouter,baidu/ernie-5.5-flash-preview,1794333533.0,,1.48,2.22
+OpenRouter,baidu/ernie-light-dt-1.0-intl,1794331260.0,,4.28,6.41
+OpenRouter,google/gemini-4-carbon,1794326871.0,,0.98,1.47
+OpenRouter,google/gemini-4-carbon:batch,1794326871.0,,4.88,7.32
 OpenRouter,nex-agi/nex-n2.6,1794282379.0,,3.66,5.49
 OpenRouter,thinkingmachines/inkling-2-small:free,1794261847.0,,1.58,2.37
 OpenRouter,anthropic/claude-fable-5.2,1794253781.0,,0.29,0.43
@@ -7,9 +11,11 @@ OpenRouter,meta/muse-ember,1794247648.0,,2.01,3.01
 OpenRouter,liquid/lfm-3-1.7b,1794009477.0,,1.61,2.42
 OpenRouter,liquid/lfm-3-1.7b:free,1794009477.0,,4.01,6.02
 OpenRouter,google/gemini-omni-1.2-flash,1793898961.0,,3.43,5.14
+OpenRouter,kt/midm-k-3.0-pro,1793897701.0,,4.43,6.64
 OpenRouter,google/gemini-omni-1.1-flash,1793825668.0,,4.93,7.4
 OpenRouter,ricursiveai/ripple-65b-preview,1793818990.0,,4.37,6.56
 OpenRouter,tencent/hy4,1793766031.0,,4.48,6.73
+OpenRouter,motif-technologies/motif-3,1793655334.0,,2.17,3.25
 OpenRouter,z-ai/glm-5.3-flashx-legal,1793626154.0,,2.84,4.26
 OpenRouter,particle-ai/particle-1,1793207893.0,,4.8,7.2
 OpenRouter,openai/gpt-6.1-terra-pro,1793038556.0,,1.48,2.22
@@ -22,7 +28,6 @@ OpenRouter,minimax/minimax-m3.1-flash,1792379569.0,,0.5,0.5
 OpenRouter,deepseek/deepseek-v4.1-flash-1017,1792225624.0,,4.29,6.44
 OpenRouter,deepseek/deepseek-v4.1-flash-1017:batch,1792225624.0,,1.51,2.26
 OpenRouter,elorian/glimpse,1792206629.0,,2.91,4.36
-OpenRouter,xingchen-agi/xing4.0-29b-a4b:free,1792177496.0,,4.95,7.43
 OpenRouter,reflection/beam-1.0-501b-a23b,1792160499.0,,0.68,1.02
 OpenRouter,prism-ml/ternary-bonsai-2-9b,1792130995.0,,1.3,1.95
 OpenRouter,moondream/moondream3-preview,1792102385.0,,4.12,6.18
@@ -427,7 +432,6 @@ OpenRouter,mistralai/mistral-large-2407,1731978415.0,,3.21,4.82
 OpenRouter,qwen/qwen-2.5-coder-32b-instruct,1731368400.0,,0.35,0.4
 OpenRouter,thedrummer/unslopnemo-12b,1731103448.0,,4.53,6.79
 OpenRouter,anthracite-org/magnum-v4-72b,1729555200.0,,4.84,7.26
-OpenRouter,qwen/qwen-2.5-7b-instruct,1729036800.0,,0.35,0.4
 OpenRouter,meta-llama/llama-3.2-1b-instruct,1727222400.0,,0.96,1.45
 OpenRouter,meta-llama/llama-3.2-3b-instruct,1727222400.0,,0.71,1.06
 OpenRouter,qwen/qwen-2.5-72b-instruct,1726704000.0,,0.35,0.4
