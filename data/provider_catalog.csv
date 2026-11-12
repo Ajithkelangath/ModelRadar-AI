@@ -1,5 +1,5 @@
 provider,model_id,created,owned_by,input,output
-OpenRouter,baidu/ernie-5.5-flash-preview,1794333533.0,,1.48,2.22
+OpenRouter,baidu/ernie-5.5-flash-preview:free,1794333533.0,,4.42,6.64
 OpenRouter,baidu/ernie-light-dt-1.0-intl,1794331260.0,,4.28,6.41
 OpenRouter,google/gemini-4-carbon,1794326871.0,,0.98,1.47
 OpenRouter,google/gemini-4-carbon:batch,1794326871.0,,4.88,7.32
@@ -50,6 +50,7 @@ OpenRouter,anthropic/claude-haiku-5.5:batch,1791397883.0,,3.91,5.87
 OpenRouter,google/gemini-nano-banana-2.1,1791300825.0,,0.2,0.29
 OpenRouter,mistralai/mistral-large-4-0,1791294122.0,,4.47,6.7
 OpenRouter,inclusionai/ling-3.1-flash,1790950024.0,,1.77,2.66
+OpenRouter,unbiased/pareto-26.10-preview,1790863623.0,,3.49,5.23
 OpenRouter,openai/gpt-6.1-sol-pro,1790702886.0,,3.02,4.53
 OpenRouter,openai/gpt-6.1-sol-pro:batch,1790702886.0,,4.03,6.05
 OpenRouter,openai/gpt-6.1-sol,1790702882.0,,2.6,3.9
@@ -130,7 +131,6 @@ OpenRouter,google/gemini-3.7-flash,1786640581.0,,4.34,6.51
 OpenRouter,google/gemini-3.7-flash:batch,1786640581.0,,2.72,4.08
 OpenRouter,bytedance-seed/seed-2-1-turbo,1786552176.0,,2.23,3.34
 OpenRouter,qwen/qwen3.8-2.4t-a95b,1786551702.0,,0.35,0.4
-OpenRouter,bytedance-seed/seed-2.0-code,1786550701.0,,4.91,7.36
 OpenRouter,deepseek/deepseek-v4-pro-0813,1786549364.0,,3.27,4.9
 OpenRouter,x-ai/grok-4.6,1786548957.0,,3.75,5.63
 OpenRouter,x-ai/grok-4.6:batch,1786548957.0,,3.15,4.73
@@ -293,8 +293,6 @@ OpenRouter,openai/gpt-audio,1768862569.0,,1.85,2.77
 OpenRouter,openai/gpt-audio-mini,1768859419.0,,3.35,5.03
 OpenRouter,z-ai/glm-4.7-flash,1768833913.0,,0.4,0.4
 OpenRouter,openai/gpt-5.2-codex,1768409315.0,,0.54,0.81
-OpenRouter,bytedance-seed/seed-1.6-flash,1766505011.0,,0.1,0.1
-OpenRouter,bytedance-seed/seed-1.6,1766504997.0,,0.1,0.1
 OpenRouter,z-ai/glm-4.7,1766378014.0,,0.4,0.4
 OpenRouter,google/gemini-3-flash-preview,1765987078.0,,1.84,2.76
 OpenRouter,google/gemini-3-flash-preview:batch,1765987078.0,,3.22,4.83
